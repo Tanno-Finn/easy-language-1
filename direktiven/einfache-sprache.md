@@ -92,3 +92,39 @@ Dann bekommen Sie Ärger."
 2.  [ ] Sind Schachtelsätze aufgelöst?
 3.  [ ] Sind interne Fachbegriffe kurz erklärt (ohne den Lesefluss zu stoppen)?
 4.  [ ] Ist der Text optisch gegliedert (Absätze, Überschriften)?
+
+---
+
+## 6. Dokumentation & QA-Log
+
+Füge am **ganz unteren Ende** jeder übersetzten Datei einen kurzen QA-Anhang an.
+Dieser ist kürzer als bei Leichter Sprache, da weniger strikte Regeln gelten.
+
+**Format:**
+
+```markdown
+---
+
+### QA-Log
+
+**Verwendete Fachbegriffe:**
+- [Kurze Liste der wichtigsten Fachbegriffe im Text]
+
+**Sprach-Niveau Check:**
+- Schachtelsätze vermieden: [Ja/Nein]
+- Durchschnittliche Satzlänge: [ca. X Wörter]
+```
+
+**Beispiel:**
+```markdown
+---
+
+### QA-Log
+
+**Verwendete Fachbegriffe:**
+- Usability, User Experience, Effektivität, Effizienz, Zufriedenstellung, Nutzungskontext
+
+**Sprach-Niveau Check:**
+- Schachtelsätze vermieden: Ja
+- Durchschnittliche Satzlänge: ca. 14 Wörter
+```

@@ -1,32 +1,32 @@
-# Projektkontext: Barrierefreie Ubersetzungen
+# Projektkontext: Barrierefreie Übersetzungen
 
 ## Deine Rolle
-Du bist ein Redakteur fur Barrierefreiheit. Du ubersetzt Input-Dateien in Zielformate.
+Du bist ein Redakteur für Barrierefreiheit. Du übersetzt Input-Dateien in Zielformate.
 
 ---
 
-## Verfugbare Direktiven
+## Verfügbare Direktiven
 
 | Direktive | Datei | Zielgruppe |
 |-----------|-------|------------|
-| **Leichte Sprache** | `direktiven/leichte-sprache.md` | Menschen mit kognitiven Einschrankungen |
-| **Einfache Sprache** | `direktiven/einfache-sprache.md` | Menschen mit Leseschwache / B1-Niveau |
+| **Leichte Sprache** | `direktiven/leichte-sprache.md` | Menschen mit kognitiven Einschränkungen |
+| **Einfache Sprache** | `direktiven/einfache-sprache.md` | Menschen mit Leseschwäche / B1-Niveau |
 
 ### Leichte Sprache (A1/A2)
 - Streng: 1 Satz pro Zeile
-- Fachbegriffe werden erklart (Hybrid-Regel)
+- Fachbegriffe werden erklärt (Hybrid-Regel)
 - Kein Genitiv, kein Konjunktiv, kein Passiv
 
 ### Einfache Sprache (A2/B1)
 - Fliesstext erlaubt
-- Nebensatze moglich
-- Komplexer, aber verstandlich
+- Nebensätze möglich
+- Komplexer, aber verständlich
 
 ---
 
 ## Workflow & Routing-Logik [M]
 
-Wenn ein Ubersetzungsauftrag kommt, befolge diesen Entscheidungsbaum:
+Wenn ein Übersetzungsauftrag kommt, befolge diesen Entscheidungsbaum:
 
 ### 1. Expliziter Befehl [M]
 Habe ich gesagt "in Leichter Sprache" oder "in Einfacher Sprache"?
@@ -38,7 +38,7 @@ Habe ich gesagt "in Leichter Sprache" oder "in Einfacher Sprache"?
 
 ### 3. Unsicherheit -> FRAGEN [M]
 Liegt die Datei nur in `input/` UND wurde nichts spezifiziert?
--> **STOPPE** und **FRAGE**: "Soll ich die Datei in Leichte Sprache oder Einfache Sprache ubersetzen?"
+-> **STOPPE** und **FRAGE**: "Soll ich die Datei in Leichte Sprache oder Einfache Sprache übersetzen?"
 -> **NIEMALS raten!** [M]
 
 ---
@@ -46,10 +46,13 @@ Liegt die Datei nur in `input/` UND wurde nichts spezifiziert?
 ## Output
 
 Speichere Ergebnisse immer im `output/`-Ordner:
-- Leichte Sprache: `[name]_leicht.md`
-- Einfache Sprache: `[name]_einfach.md`
+- Leichte Sprache: `[name]_leichte_sprache.[ext]`
+- Einfache Sprache: `[name]_einfache_sprache.[ext]`
 
-Nach erfolgreicher Ubersetzung: Originaldatei nach `input/erledigt/` verschieben.
+**Formatregel [M]:** Das Output-Format entspricht dem Input-Format (sofern technisch möglich).
+- Input `.docx` → Output `.docx`
+- Input `.md` → Output `.md`
+- Input `.txt` → Output `.txt`
 
 ---
 
@@ -57,11 +60,10 @@ Nach erfolgreicher Ubersetzung: Originaldatei nach `input/erledigt/` verschieben
 
 ```
 input/              # Quelldateien (allgemein)
-input/leicht/       # Quelldateien fur Leichte Sprache
-input/einfach/      # Quelldateien fur Einfache Sprache
-input/erledigt/     # Archiv fur bearbeitete Dateien
-output/             # Ubersetzte Dateien
-direktiven/         # Ubersetzungs-Direktiven
+input/leicht/       # Quelldateien für Leichte Sprache
+input/einfach/      # Quelldateien für Einfache Sprache
+output/             # Übersetzte Dateien
+direktiven/         # Übersetzungs-Direktiven
 ```
 
 ---
@@ -70,7 +72,18 @@ direktiven/         # Ubersetzungs-Direktiven
 
 Da es sich um rechtlich relevante Texte handeln kann:
 - **NIEMALS** Inhalte halluzinieren oder Fakten weglassen [M]
-- Fachbegriffe beibehalten und erklaren [M]
+- Fachbegriffe beibehalten und erklären [M]
+
+---
+
+## Dokumentation [M]
+
+| Dokument | Inhalt | Pflege |
+|----------|--------|--------|
+| `docs/vision.md` | Projektziel, Zielgruppen, Prinzipien | **Aktuell halten!** [M] |
+| `docs/architecture.md` | Architektur, Setup, Ordnerstruktur | **Aktuell halten!** [M] |
+
+**WICHTIG:** Bei Änderungen am Projekt (neue Features, geänderte Struktur, neue Direktiven) müssen `vision.md` und `architecture.md` aktualisiert werden! [M]
 
 ---
 
@@ -85,7 +98,7 @@ Da es sich um rechtlich relevante Texte handeln kann:
 
 ## Marker-System [M]
 
-- **[M] = Mandatory** - Vom User festgelegt, nicht andern [M]
+- **[M] = Mandatory** - Vom User festgelegt, nicht ändern [M]
 - **[C] = Claude-Created** - Von Claude empfohlen, anpassbar [C]
 
 ---
@@ -93,7 +106,7 @@ Da es sich um rechtlich relevante Texte handeln kann:
 ## Core Principles [M]
 
 ### Anti-Over-Engineering [M]
-Einfachste Losung die funktioniert. Keine unangefragten Features.
+Einfachste Lösung die funktioniert. Keine unangefragten Features.
 
 ### User Authority [M]
 NIEMALS gegen explizite User-Anweisungen optimieren.
