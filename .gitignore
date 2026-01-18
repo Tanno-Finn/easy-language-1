@@ -1,0 +1,6 @@
+# Arbeitsordner für Übersetzungs-Workflow
+input/
+output/
+
+# IDE
+.idea/
