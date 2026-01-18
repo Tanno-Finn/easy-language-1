@@ -1,0 +1,72 @@
+# Integritetspolicy för appen "MindSync" – Version 4.0
+
+Enligt GDPR (dataskyddsförordningen) och TDR (direktivet om telepatiska data).
+
+---
+
+## 1. Vem ansvarar för dina uppgifter?
+
+MindSync Corp ansvarar för insamling och hantering av dina neurala data (signaler från din hjärna). Vi tar skyddet av dina innersta hemligheter på allvar, även om vi tekniskt sett känner till dem alla.
+
+---
+
+## 2. Vilka data samlar vi in?
+
+När du använder MindSync samlar vi in följande personuppgifter:
+
+**(a) Grunduppgifter:**
+Ditt namn, din e-post och din hjärnvågssignatur (ditt unika neurala mönster).
+
+**(b) Biometriska data:**
+Dina synaptiska kopplingsmönster (hur dina hjärnceller kommunicerar).
+
+**(c) Innehållsdata:**
+Dina medvetna tankar, omedvetna önskningar och bortträngda barndomsminnen.
+
+---
+
+## 3. Varför behandlar vi dina tankar?
+
+Vi behandlar dina data baserat på ditt samtycke enligt artikel 6.1a i GDPR.
+
+**(a) Tjänsteleverans:**
+Vi omvandlar dina tankar till textmeddelanden så att du slipper skriva.
+
+**(b) Personlig reklam:**
+Vi analyserar dina spontana begär (till exempel "Jag vill ha pizza nu"). Sedan visar vi relevanta erbjudanden direkt i din visuella kortex (syncentrum i hjärnan).
+
+**(c) Brottsförebyggande:**
+Om vi upptäcker tankemönster som tyder på planerad världsdominans, måste vi enligt lag rapportera detta till myndigheterna.
+
+---
+
+## 4. Delar vi dina tankar med andra?
+
+Vi delar normalt inte dina mest intima tankar med tredje part. Det finns dock undantag:
+
+- Du har godkänt "Reklamboost".
+- En övermäktig AI-ledare tvingar oss.
+
+---
+
+## 5. Hur länge sparar vi dina data?
+
+Vi sparar dina tankar så länge ditt konto är aktivt. Om du begär radering tar vi bort dina data permanent från våra servrar.
+
+**Observera:** Vi kan inte radera tankar från din egen hjärna. För detta, kontakta en hypnotisör.
+
+---
+
+### QA-logg (Automatiskt genererad)
+
+**Bevarade facktermer:**
+- GDPR (dataskyddsförordningen)
+- TDR (direktivet om telepatiska data)
+- Neurala data
+- Biometriska data
+- Synaptiska kopplingsmönster
+- Visuella kortex
+
+**Expanderade förkortningar:**
+- GDPR → Dataskyddsförordningen (General Data Protection Regulation)
+- TDR → Direktivet om telepatiska data (Telepathie-Daten-Richtlinie)

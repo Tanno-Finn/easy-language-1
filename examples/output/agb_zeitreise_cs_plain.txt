@@ -1,0 +1,45 @@
+Všeobecné obchodní podmínky společnosti Chronos-Travel GmbH pro pronájem zařízení pro cestování v čase
+
+§ 1 Předmět smlouvy a upozornění na rizika
+
+(1) Společnost Chronos-Travel GmbH (dále jen „pronajímatel") vám pronajímá zařízení pro cestování v čase. Model se nazývá „Flux-Master 3000" nebo podobný. Doba pronájmu je stanovena ve smlouvě.
+
+(2) Používání tohoto zařízení je rizikové. Může ohrozit vaše zdraví i stabilitu časoprostoru (prostoru a času jako celku). Nesmíte měnit historické události. Zejména je zakázáno způsobit „paradox dědečka". To znamená situaci, kdy byste zabránili vlastnímu narození.
+
+§ 2 Povinnosti nájemce
+
+(1) Zařízení musíte používat pouze podle přiloženého návodu. Je zakázáno používat zařízení pod vlivem alkoholu nebo drog. Také je zakázáno používat ho při silných emocích. Příklady silných emocí: nešťastná láska nebo touha po pomstě na historických osobnostech.
+
+(2) Je zakázáno nosit z budoucnosti do minulosti:
+- sportovní almanachy
+- burzovní zprávy
+- výsledky loterie
+
+Cílem nesmí být osobní obohacení. Toto jednání porušuje Směrnici etiky cestování v čase (ZER). Důsledky jsou okamžité ukončení smlouvy a pokuta 50 000 kreditů.
+
+§ 3 Vyloučení odpovědnosti při porušení kauzality
+
+(1) Pronajímatel nenese odpovědnost, pokud omylem vymažete svou vlastní existenci. To se může stát neopatrnými činy v minulosti.
+
+(2) Můžete vytvořit „kauzální smyčku" (nekonečné opakování stejného dne), pokud se setkáte se svým minulým já. Tento jev se nazývá „scénář Na Hromnice o den více". V takovém případě pronajímatel nehradí náklady na psychologickou péči po osvobození ze smyčky.
+
+(3) „Motýlí efekt" znamená, že malé činy mohou mít velké následky. Příklad: šlápnutí na hmyz v křídovém období může způsobit vyhynutí lidstva. Za takové škody je odpovědnost omezena na výši složené kauce. Platí to pouze v rozsahu povoleném zákonem.
+
+§ 4 Vrácení zařízení
+
+Zařízení musíte vrátit přesně v té časové linii, ze které bylo vzato. Vrácení v alternativní časové linii není platné. Příklad neplatného vrácení: svět ovládaný inteligentními ještěry.
+
+---
+
+### QA-Log (Automaticky vygenerováno)
+
+**Zachované odborné termíny:**
+- Paradox dědečka (Großvater-Paradoxon)
+- Časoprostor (Raum-Zeit-Kontinuum)
+- Kauzální smyčka (Kausalitätsschleife)
+- Motýlí efekt (Schmetterlingseffekt)
+- Časová linie (Zeitlinie)
+- Směrnice etiky cestování v čase / ZER
+
+**Rozepsané zkratky:**
+- ZER → Směrnice etiky cestování v čase (Zeitreise-Ethik-Richtlinie)

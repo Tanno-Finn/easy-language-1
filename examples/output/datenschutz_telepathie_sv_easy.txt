@@ -1,0 +1,194 @@
+# Integritets-policy för appen "MindSync"
+
+## Version 4.0
+
+---
+
+## Viktig information
+
+Denna policy förklarar hur vi använder dina uppgifter.
+Vi följer reglerna i **GDPR** och **TDR**.
+
+**GDPR**.
+
+Det betyder:
+
+Den europeiska lagen som skyddar dina uppgifter.
+
+---
+
+**TDR**.
+
+Det betyder:
+
+Lagen som skyddar tanke-data.
+TDR står för "Telepathie-Daten-Richtlinie".
+
+---
+
+## Del 1: Vem är ansvarig
+
+Företaget MindSync Corp ansvarar för dina uppgifter.
+
+Denna policy förklarar hur MindSync Corp använder dina **neurala data**.
+
+**Neurala data**.
+
+Det betyder:
+
+Data som kommer från din hjärna.
+
+---
+
+Vi skyddar dina innersta hemligheter.
+Men vi känner tekniskt sett till alla.
+
+---
+
+## Del 2: Vilka uppgifter vi samlar in
+
+När du använder MindSync samlar vi in dessa uppgifter:
+
+---
+
+### A) Grunduppgifter
+
+- Ditt namn.
+- Din e-postadress.
+- Din **hjärn-vågs-signatur**.
+
+**Hjärn-vågs-signatur**.
+
+Det betyder:
+
+En unik kod som din hjärna skapar.
+
+---
+
+### B) Biometriska uppgifter
+
+- Dina **synaptiska mönster**.
+
+**Synaptiska mönster**.
+
+Det betyder:
+
+Hur nervcellerna i din hjärna är kopplade.
+
+---
+
+### C) Innehålls-uppgifter
+
+- Dina medvetna tankar.
+- Dina omedvetna önskningar.
+- Dina bortträngda barndoms-minnen.
+
+---
+
+## Del 3: Varför vi använder dina uppgifter
+
+Vi behöver ditt samtycke för att använda uppgifterna.
+Det kräver Artikel 6 i GDPR.
+
+---
+
+### A) För att ge dig tjänsten
+
+Vi omvandlar dina tankar till text-meddelanden.
+Då behöver du inte skriva med fingrarna.
+
+---
+
+### B) För personlig reklam
+
+Vi analyserar dina spontana önskningar.
+
+Exempel:
+Du tänker "Jag vill ha pizza nu".
+
+Vi ser denna tanke.
+Vi visar dig pizza-erbjudanden.
+Erbjudandena visas direkt i din **visuella cortex**.
+
+**Visuella cortex**.
+
+Det betyder:
+
+Den del av hjärnan som ser bilder.
+
+---
+
+### C) För att förebygga brott
+
+Ibland ser vi farliga tankar.
+
+Exempel:
+Någon tänker på att ta över världen.
+
+Då måste vi meddela polisen.
+Lagen kräver det.
+
+---
+
+## Del 4: Delar vi uppgifter med andra
+
+Vi delar inte dina tankar med andra.
+
+Men det finns undantag:
+
+- Du godkände "Reklam-Boost".
+- En väldigt mäktig AI tvingar oss.
+
+---
+
+## Del 5: Hur länge sparar vi uppgifterna
+
+Vi sparar dina tankar så länge ditt konto är aktivt.
+
+---
+
+### Din rätt att bli glömd
+
+Du kan be oss radera dina uppgifter.
+Vi raderar uppgifterna från våra servrar.
+Raderingen är permanent.
+
+---
+
+### Viktig information
+
+Vi kan inte radera tankarna ur ditt huvud.
+För det måste du gå till en hypnotisör.
+
+**Hypnotisör**.
+
+Det betyder:
+
+En person som försätter dig i djup sömn.
+Denna person kan radera minnen.
+
+---
+
+---
+
+### QA-logg (Automatiskt genererad)
+
+**Bevarade facktermer:**
+- GDPR (Datenschutz-Grundverordnung)
+- TDR (Telepathie-Daten-Richtlinie)
+- Neurala data (neuronale Daten)
+- Hjärn-vågs-signatur (Gehirnwellen-Signatur)
+- Synaptiska mönster (Synaptische Verknüpfungsmuster)
+- Visuella cortex (visueller Kortex)
+- Hypnotisör (Hypnotiseur)
+
+**Expanderade förkortningar:**
+- GDPR → Data-skydds-förordningen
+- TDR → Telepathie-Daten-Richtlinie
+
+**Delade sammansättningar:**
+- Gehirnwellen-Signatur → Hjärn-vågs-signatur
+- Synaptische Verknüpfungsmuster → Synaptiska mönster
+- Kindheitserinnerungen → Barndoms-minnen
+- Textnachrichten → Text-meddelanden
+- Personuppgifter → Person-uppgifter

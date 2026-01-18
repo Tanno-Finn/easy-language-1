@@ -1,0 +1,45 @@
+Instrukcje bezpieczeństwa dla personelu stacji orbitalnej Omega-7
+Stan na: Galaktyczny Rok Standardowy 3024
+Dział: Bezpieczeństwo rdzenia reaktora i wyprawy pozastatkowe
+
+1. Wstęp o bezpieczeństwie pracy
+
+Musisz przestrzegać poniższych przepisów bezpieczeństwa. Chronią one Twoje życie i integralność stacji. Naruszenie przepisów skutkuje przeniesieniem do sektora prasowania odpadów.
+
+2. Zachowanie w pobliżu głównego rdzenia energetycznego
+
+(a) Wchodząc do Sektora 7G, musisz nosić pełne ŚOI (Środki Ochrony Indywidualnej). ŚOI obejmują kombinezon ochronny klasy IV przed promieniowaniem oraz osłonę oczu przed oślepieniem.
+
+(b) Tylko uprawniony personel specjalistyczny może ręcznie obejść urządzenie awaryjnego wyłączenia.
+
+(c) Gdy usłyszysz alarm dźwiękowy (syrena typu „Red Alert"), natychmiast opuść strefę zagrożenia. Pozostawanie w celu bohaterstwa jest zabronione.
+
+(d) Otwarte szyby reaktora nie mają barierek (patrz raport o wadach architektonicznych nr 1138). Istnieje zwiększone ryzyko upadku. Zachowaj minimum 2 metry odległości od krawędzi szybu.
+
+3. Procedura przy spadku ciśnienia (dekompresja)
+
+Dekompresja oznacza utratę powietrza ze stacji. Może nastąpić przez uderzenie meteorytu lub ostrzał laserowy wroga. Mechanizmy blokady grodzi aktywują się automatycznie.
+
+(a) Oddychaj spokojnie, jeśli atmosfera jest jeszcze dostępna.
+
+(b) Chwyć najbliższą awaryjną maskę tlenową.
+
+(c) Najpierw pomóż sobie, potem innym. Dotyczy to również przełożonych.
+
+4. Postępowanie z uszkodzonymi droidami
+
+Droid to robot serwisowy wykonujący prace konserwacyjne. Nie naprawiaj samodzielnie niesprawnych droidów. Wadliwe jednostki motywatorów (części napędowe) mogą powodować nieprzewidywalne porażenia elektryczne. Natychmiast zgłoś usterkę do Działu Robotyki i Cybernetyki.
+
+---
+### QA-Log (Wygenerowano automatycznie)
+
+**Zachowane terminy techniczne:**
+- ŚOI (Środki Ochrony Indywidualnej)
+- Dekompresja (spadek ciśnienia)
+- Droid (robot serwisowy)
+- Jednostka motywatora (część napędowa)
+- Red Alert (alarm czerwony)
+
+**Rozwinięte skróty:**
+- ŚOI = Środki Ochrony Indywidualnej
+- Nr = numer

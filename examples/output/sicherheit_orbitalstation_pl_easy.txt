@@ -1,0 +1,202 @@
+# Instrukcja bezpieczeństwa dla stacji kosmicznej Omega-7
+
+## Dla personelu
+
+Data: Rok galaktyczny 3024
+
+Dział: Bezpieczeństwo reaktora i prace w kosmosie
+
+---
+
+## Wstęp
+
+Musisz przestrzegać tych zasad bezpieczeństwa.
+Te zasady chronią twoje życie.
+Te zasady chronią też stację.
+
+---
+
+Jeśli nie przestrzegasz zasad:
+Zostaniesz przeniesiony do działu prasowania śmieci.
+
+---
+
+## Część 2: Strefa głównego reaktora
+
+### Jak wejść do Sektora 7G
+
+Musisz nosić **sprzęt ochrony osobistej**.
+
+**Sprzęt ochrony osobistej**.
+
+To znaczy:
+
+Ubrania i rzeczy, które cię chronią.
+
+---
+
+Sprzęt obejmuje:
+- Kombinezon ochronny przed promieniowaniem klasy 4.
+- Okulary ochronne na oczy.
+
+Musisz nosić cały sprzęt.
+Nie zostawiaj żadnej części.
+
+---
+
+### Przyciski awaryjne
+
+Są przyciski do zatrzymania reaktora w nagłym wypadku.
+Tylko eksperci mogą dotykać tych przycisków.
+Ty nie powinieneś ich dotykać.
+
+---
+
+### Alarm czerwony
+
+Czasami słyszysz syrenę.
+To jest alarm **Red Alert**.
+
+**Red Alert**.
+
+To znaczy:
+
+Czerwony alarm oznacza duże niebezpieczeństwo.
+
+---
+
+Kiedy słyszysz tę syrenę:
+- Opuść strefę natychmiast.
+- Nie próbuj być bohaterem.
+- To jest zabronione.
+
+---
+
+### Otwory reaktora
+
+Są otwory w podłodze.
+Te otwory nazywają się **szyby reaktora**.
+
+**Szyby reaktora**.
+
+To znaczy:
+
+Duże otwory prowadzące do reaktora.
+
+---
+
+Te otwory nie mają barierek.
+Architekci zapomnieli je zamontować.
+Jest to zapisane w raporcie numer 1138.
+
+Możesz wpaść do tych otworów.
+Zawsze trzymaj się 2 metry od krawędzi.
+
+---
+
+## Część 3: Utrata ciśnienia
+
+### Co może się zdarzyć
+
+Czasami kadłub stacji jest uszkodzony.
+Może to się zdarzyć z powodu:
+- Uderzenia meteorytu.
+- Ostrzału laserowego wroga.
+
+---
+
+To nazywa się **dekompresja**.
+
+**Dekompresja**.
+
+To znaczy:
+
+Powietrze ucieka ze stacji.
+
+---
+
+### Co dzieje się automatycznie
+
+Mocne drzwi zamykają się same.
+Te drzwi nazywają się **grodzie**.
+
+**Grodzie**.
+
+To znaczy:
+
+Bardzo mocne drzwi zatrzymujące powietrze.
+
+---
+
+### Co powinieneś zrobić
+
+1. Oddychaj spokojnie.
+   Ale tylko jeśli jest powietrze.
+
+2. Weź najbliższą maskę tlenową.
+
+3. Najpierw pomóż sobie.
+   Potem pomóż innym.
+   Nawet swoim szefom.
+
+---
+
+## Część 4: Zepsute roboty
+
+### Nie naprawiaj robotów sam
+
+Czasami **roboty serwisowe** przestają działać.
+
+**Roboty serwisowe**.
+
+To znaczy:
+
+Roboty, które wykonują naprawy.
+
+---
+
+Te roboty mają problem.
+Ich **jednostka motywująca** jest zepsuta.
+
+**Jednostka motywująca**.
+
+To znaczy:
+
+Część robota, która mówi mu co robić.
+
+---
+
+Zepsute roboty mogą robić niebezpieczne rzeczy.
+Na przykład: wysyłać porażenia prądem.
+
+---
+
+### Co powinieneś zrobić
+
+Nie dotykaj zepsutych robotów.
+Zadzwoń do działu Robotyki i Cybernetyki natychmiast.
+
+---
+
+---
+
+### QA-Log (Wygenerowano automatycznie)
+
+**Zachowane terminy techniczne:**
+- Sprzęt ochrony osobistej (PSA)
+- Red Alert
+- Szyby reaktora (Reaktorschächte)
+- Dekompresja (Dekompression)
+- Grodzie (Schotten)
+- Roboty serwisowe (Wartungsdroiden)
+- Jednostka motywująca (Motivator-Einheit)
+- Cybernetyka (Kybernetik)
+
+**Rozwinięte skróty:**
+- PSA → Sprzęt ochrony osobistej
+- Nr. → numer
+
+**Uproszczone złożenia:**
+- Strahlenschutzanzug → Kombinezon ochronny przed promieniowaniem
+- Notfallabschaltvorrichtung → Przyciski awaryjne
+- Sauerstoffmaske → Maska tlenowa

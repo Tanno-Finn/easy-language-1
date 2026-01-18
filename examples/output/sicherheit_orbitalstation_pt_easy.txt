@@ -1,0 +1,162 @@
+# Regras de Segurança para a Estação Orbital Omega-7
+
+Data: Ano Galáctico Padrão 3024
+Departamento: Segurança do Reator e Missões Exteriores
+
+---
+
+## 1. Por que estas regras são importantes?
+
+Você deve seguir estas regras de segurança.
+As regras protegem a sua vida.
+As regras também protegem a estação.
+
+Se você não seguir as regras:
+Você vai trabalhar no setor do compactador de lixo.
+
+---
+
+## 2. Regras na área do núcleo de energia
+
+### O que você deve vestir?
+
+Você vai entrar no **Setor 7G**.
+
+Isto significa:
+
+A área onde está o reator.
+
+Você deve usar roupa de proteção.
+A roupa chama-se **EPI**.
+
+Isto significa:
+
+Equipamento de Proteção Individual.
+
+O EPI tem:
+- Um fato de proteção contra radiação (Classe 4)
+- Proteção para os olhos contra luz forte
+
+Você deve usar tudo.
+Não pode haver buracos.
+
+### O que é proibido?
+
+Há um sistema de **paragem de emergência**.
+
+Isto significa:
+
+Um sistema para desligar o reator rapidamente.
+
+Só pessoas especializadas podem desligar isto.
+Você não é pessoa especializada?
+Você não pode tocar.
+
+### O que fazer quando ouvir o alarme?
+
+Você ouve uma sirene.
+A sirene chama-se **Red Alert**.
+
+Isto significa:
+
+Alarme vermelho.
+Há perigo.
+
+Você deve sair da área imediatamente.
+Você não pode ficar.
+Não tente ser herói.
+Isto é proibido.
+
+### Atenção: Poços abertos!
+
+Há **poços do reator** abertos.
+
+Isto significa:
+
+Buracos profundos ao lado do reator.
+
+Estes poços não têm grades.
+Isto é um erro de construção.
+Está no relatório número 1138.
+
+Você pode cair nos poços.
+Fique sempre a 2 metros da borda.
+
+---
+
+## 3. Regras quando o ar escapa
+
+Às vezes há uma **descompressão**.
+
+Isto significa:
+
+O ar sai da estação.
+
+Isto pode acontecer por causa de:
+- Um meteorito
+- Um ataque laser do inimigo
+
+O que acontece então?
+A estação fecha automaticamente todas as portas.
+As portas chamam-se **anteparas**.
+
+Isto significa:
+
+Portas pesadas que guardam o ar.
+
+### O que você deve fazer?
+
+1. Respire com calma.
+   Mas só se ainda houver ar.
+
+2. Pegue uma máscara de oxigénio.
+   As máscaras estão na parede.
+
+3. Ajude primeiro você mesmo.
+   Depois ajude outras pessoas.
+   Isto vale também para os seus chefes.
+
+---
+
+## 4. Regras para robôs avariados
+
+Há **droides de manutenção**.
+
+Isto significa:
+
+Robôs que fazem reparações.
+
+Às vezes estes robôs avariam.
+
+**Importante:**
+Não repare os robôs sozinho!
+Os robôs têm peças defeituosas.
+Estas peças podem dar choques elétricos.
+
+O que você deve fazer?
+Avise o departamento de Robótica e **Cibernética**.
+
+Isto significa:
+
+O departamento de robôs e tecnologia.
+
+Avise imediatamente.
+
+---
+
+### QA-Log (Gerado automaticamente)
+
+**Termos técnicos preservados:**
+- EPI (Equipamento de Proteção Individual)
+- Red Alert
+- Setor 7G
+- Descompressão
+- Anteparas
+- Droides de manutenção
+- Cibernética
+
+**Abreviaturas expandidas:**
+- PSA → EPI (traduzido para português)
+
+**Palavras compostas separadas:**
+- Nenhuma necessária

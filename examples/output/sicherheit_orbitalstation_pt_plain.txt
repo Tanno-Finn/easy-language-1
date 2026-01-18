@@ -1,0 +1,56 @@
+# Instruções de Segurança para Pessoal da Estação Orbital Omega-7
+
+**Versão:** Ano Padrão Galáctico 3024
+**Departamento:** Segurança do Núcleo do Reator e Operações Exteriores
+
+---
+
+## 1. Introdução sobre segurança no trabalho
+
+É obrigatório cumprir as seguintes regras de segurança. Estas regras protegem a sua vida e a integridade da estação. Quem não cumprir será transferido imediatamente para o setor dos compactadores de lixo.
+
+---
+
+## 2. Comportamento na área do núcleo de energia primária
+
+**(a)** Antes de entrar no Setor 7G, use o equipamento de proteção individual (EPI) completo. Este inclui o fato de proteção contra radiação Classe IV e proteção visual anti-ofuscamento.
+
+**(b)** Só o pessoal técnico autorizado pode desativar manualmente o sistema de encerramento de emergência.
+
+**(c)** Se ouvir um alarme sonoro (sirene tipo "Alerta Vermelho"), evacue imediatamente a zona de perigo. É proibido ficar para atos heroicos.
+
+**(d)** Os poços abertos do reator não têm grades de segurança. Este é um defeito de construção (ver Relatório de Defeitos de Arquitetura n.º 1138). O risco de queda é elevado. Mantenha sempre uma distância mínima de 2 metros da borda do poço.
+
+---
+
+## 3. Procedimento em caso de perda de pressão (descompressão)
+
+Se a estrutura do casco sofrer danos por impacto de meteoro ou ataque laser inimigo, os mecanismos de fecho das comportas ativam-se automaticamente.
+
+**(a)** Continue a respirar calmamente, se ainda houver atmosfera.
+
+**(b)** Agarre a máscara de oxigénio de emergência mais próxima.
+
+**(c)** Ajude primeiro a si próprio, depois aos outros. Isto aplica-se também aos seus superiores.
+
+---
+
+## 4. Tratamento de droides avariados
+
+Não repare por conta própria os droides de manutenção avariados. As unidades motivacionais defeituosas podem causar descargas elétricas imprevisíveis. Comunique as avarias imediatamente ao Departamento de Robótica e Cibernética.
+
+---
+
+### QA-Log (Gerado automaticamente)
+
+**Termos técnicos preservados:**
+- EPI (Equipamento de Proteção Individual)
+- Descompressão
+- Alerta Vermelho
+- Droides de manutenção
+- Unidades motivacionais
+- Cibernética
+
+**Abreviaturas expandidas:**
+- EPI → Equipamento de Proteção Individual
+- n.º → número

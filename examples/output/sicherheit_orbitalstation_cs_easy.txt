@@ -1,0 +1,138 @@
+# Bezpečnostní pokyny pro stanici Omega-7
+
+Datum: Galaktický rok 3024
+
+Oddělení: Bezpečnost reaktoru a mise mimo stanici
+
+---
+
+## 1. Bezpečnost práce
+
+Musíte dodržovat bezpečnostní pravidla.
+
+Pravidla chrání váš život.
+
+Pravidla chrání také stanici.
+
+Pokud pravidla nedodržíte:
+
+Budete přemístěni do oddělení lisování odpadu.
+
+---
+
+## 2. Chování u energetického jádra
+
+### Sektor 7G
+
+V sektoru 7G musíte nosit ochranné vybavení.
+
+Říkáme tomu **osobní ochranné prostředky (OOP)**.
+
+To znamená:
+
+Oblečení a pomůcky, které vás chrání.
+
+OOP obsahuje:
+
+- **Protiradioaktivní oblek** třídy IV.
+- **Ochranu očí** proti jasnému světlu.
+
+### Nouzové vypnutí
+
+Jen oprávnění pracovníci mohou obejít nouzové vypnutí.
+
+**Oprávnění pracovníci**.
+
+To znamená:
+
+Lidé se zvláštním povolením a školením.
+
+### Poplašný signál
+
+Možná uslyšíte sirénu.
+
+Nazývá se „Red Alert".
+
+Ihned opusťte nebezpečnou zónu.
+
+Nezůstávejte, abyste byli hrdinové.
+
+To je zakázáno.
+
+### Otevřené šachty reaktoru
+
+Šachty reaktoru nemají zábradlí.
+
+To je napsáno ve zprávě architekta číslo 1138.
+
+Můžete spadnout.
+
+Zůstaňte nejméně 2 metry od okraje.
+
+---
+
+## 3. Co dělat při úniku vzduchu
+
+**Dekomprese**.
+
+To znamená:
+
+Vzduch uniká ze stanice.
+
+To se může stát kvůli:
+
+- Dopadu meteoritu.
+- Nepřátelské laserové palbě.
+
+Přepážky se automaticky zavřou.
+
+### Co máte dělat?
+
+1. Dýchejte klidně.
+
+   To můžete jen pokud je vzduch.
+
+2. Vezměte nejbližší nouzovou kyslíkovou masku.
+
+3. Nejprve pomozte sobě.
+
+   Pak pomozte ostatním.
+
+   To platí i pro vašeho šéfa.
+
+---
+
+## 4. Rozbité droidy
+
+Neopravujte rozbité údržbové droidy sami.
+
+**Motivátorová jednotka** je často vadná.
+
+To znamená:
+
+Součást, která ovládá droida.
+
+Mohou vzniknout elektrické výboje.
+
+Nahlaste problémy oddělení Robotika a Kybernetika.
+
+---
+
+### QA-Log (Automaticky vygenerováno)
+
+**Zachované odborné termíny:**
+- Osobní ochranné prostředky (OOP)
+- Dekomprese
+- Motivátorová jednotka
+- Red Alert
+- Protiradioaktivní oblek
+
+**Rozepsané zkratky:**
+- OOP = Osobní ochranné prostředky
+
+**Zjednodušená složená slova:**
+- Energetické jádro
+- Bezpečnostní pokyny
+- Nouzové vypnutí
+- Kyslíková maska
+- Údržbové droidy

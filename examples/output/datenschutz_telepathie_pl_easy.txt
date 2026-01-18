@@ -1,0 +1,160 @@
+# Polityka prywatności aplikacji MindSync
+
+To jest wersja 4.0.
+
+Ten dokument przestrzega 2 ważnych przepisów.
+
+Pierwszy przepis nazywa się **RODO**.
+
+To znaczy:
+
+Ogólne Rozporządzenie o Ochronie Danych.
+To są artykuły 13 i 14.
+
+Drugi przepis nazywa się **Dyrektywa o Danych Telepatycznych**.
+
+To znaczy:
+
+Zasady dotyczące danych z Twojego umysłu.
+
+---
+
+## 1. Kto jest odpowiedzialny
+
+Ten dokument jest od firmy MindSync Corp.
+Firma zbiera Twoje dane.
+Firma używa Twoich danych.
+
+Zbieramy Twoje **dane neuronalne**.
+
+To znaczy:
+
+Informacje z Twojego mózgu.
+
+Chronimy Twoje najskrytsze sekrety.
+Ale technicznie je wszystkie znamy.
+
+---
+
+## 2. Jakie dane zbieramy
+
+Zbieramy 3 rodzaje danych.
+
+### Rodzaj A: Dane podstawowe
+
+- Twoje imię
+- Twój adres e-mail
+- Twój **podpis fal mózgowych**
+
+To znaczy:
+
+Unikalny wzór Twoich fal mózgowych.
+To jest jak odcisk palca dla Twojego mózgu.
+
+### Rodzaj B: Dane biometryczne
+
+Zbieramy Twoje **wzorce synaptyczne**.
+
+To znaczy:
+
+Jak komórki w Twoim mózgu się łączą.
+
+### Rodzaj C: Dane treściowe
+
+Zbieramy:
+- Twoje świadome myśli
+- Twoje nieświadome pragnienia
+- Twoje wyparte wspomnienia z dzieciństwa
+
+---
+
+## 3. Dlaczego używamy Twoich danych
+
+Potrzebujemy Twojej **zgody**.
+
+To znaczy:
+
+Musisz powiedzieć "tak".
+To jest w przepisie RODO.
+To jest artykuł 6, ustęp 1, litera a.
+
+Używamy Twoich danych z 3 powodów.
+
+### Powód A: Świadczymy usługę
+
+Zamieniamy Twoje myśli na wiadomości tekstowe.
+Nie musisz pisać na klawiaturze.
+
+### Powód B: Reklama spersonalizowana
+
+**Reklama spersonalizowana**.
+
+To znaczy:
+
+Reklamy tylko dla Ciebie.
+
+Analizujemy Twoje nagłe pragnienia.
+Na przykład: Myślisz "Chcę pizzę".
+Wysyłamy Ci reklamy pizzy.
+Reklamy idą prosto do Twojego mózgu.
+
+### Powód C: Zapobieganie przestępstwom
+
+Czasami widzimy złe plany.
+Na przykład: Plany podboju świata.
+Musimy powiedzieć władzom.
+Takie jest prawo.
+
+---
+
+## 4. Czy udostępniamy Twoje dane?
+
+Nie udostępniamy Twoich prywatnych myśli.
+
+Ale są 2 wyjątki:
+
+1. Zgodziłeś się na "Boost Reklamowy".
+2. Potężna sztuczna inteligencja nas zmusza.
+
+---
+
+## 5. Jak długo przechowujemy dane
+
+Masz **prawo do bycia zapomnianym**.
+
+To znaczy:
+
+Możesz poprosić o usunięcie danych.
+
+Przechowujemy Twoje myśli.
+Przechowujemy je, dopóki masz konto.
+
+Jeśli poprosisz o usunięcie:
+- Usuniemy dane z naszych serwerów.
+- Usunięcie jest trwałe.
+
+Uwaga:
+Nie możemy usunąć myśli z Twojej głowy.
+Do tego potrzebujesz hipnotyzera.
+
+---
+
+### QA-Log (Wygenerowano automatycznie)
+
+**Zachowane terminy techniczne:**
+- RODO (Ogólne Rozporządzenie o Ochronie Danych)
+- Dyrektywa o Danych Telepatycznych
+- Dane neuronalne
+- Podpis fal mózgowych
+- Wzorce synaptyczne
+- Reklama spersonalizowana
+- Prawo do bycia zapomnianym
+
+**Rozwinięte skróty:**
+- DSGVO → RODO
+- TDR → Dyrektywa o Danych Telepatycznych
+- Art. 6 Abs. 1 lit. a → artykuł 6, ustęp 1, litera a
+
+**Uproszczone złożenia:**
+- Gehirnwellen-Signatur → podpis fal mózgowych
+- Synaptische Verknüpfungsmuster → wzorce synaptyczne

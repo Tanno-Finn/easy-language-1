@@ -1,0 +1,40 @@
+Polityka prywatności aplikacji „MindSync" – Wersja 4.0
+Zgodnie z artykułami 13 i 14 RODO (Ogólne Rozporządzenie o Ochronie Danych) oraz Dyrektywą o Danych Telepatycznych (TDR)
+
+1. Administrator i zakres stosowania
+Niniejsza polityka dotyczy zbierania i przetwarzania danych neuronalnych (danych z mózgu) przez MindSync Corp. Ochronę Twoich najgłębszych tajemnic traktujemy bardzo poważnie. Nawet jeśli technicznie rzecz biorąc, wszystkie je znamy.
+
+2. Rodzaje przetwarzanych danych
+Podczas korzystania z usług MindSync zbieramy następujące kategorie danych osobowych:
+(a) Dane podstawowe: Imię, e-mail oraz sygnatura fal mózgowych.
+(b) Dane biometryczne: Wzorce połączeń synaptycznych (sposób łączenia się komórek nerwowych).
+(c) Dane treściowe: Świadome myśli, podświadome pragnienia i wyparte wspomnienia z dzieciństwa.
+
+3. Cele przetwarzania i podstawa prawna
+Przetwarzanie Twoich myśli odbywa się na podstawie Twojej zgody (art. 6 ust. 1 lit. a RODO).
+(a) Świadczenie usług: Zamieniamy Twoje myśli na wiadomości tekstowe. Nie musisz nic pisać.
+(b) Reklama spersonalizowana: Analizujemy Twoje spontaniczne zachcianki. Na przykład: „Chciałbym teraz pizzę." Następnie wyświetlamy oferty naszych partnerów bezpośrednio w korze wzrokowej (części mózgu odpowiedzialnej za widzenie).
+(c) Zapobieganie przestępczości: Jeśli wykryjemy wzorce myślowe sugerujące planowaną próbę dominacji nad światem, jesteśmy prawnie zobowiązani zgłosić to władzom.
+
+4. Przekazywanie danych stronom trzecim
+Co do zasady nie przekazujemy Twoich najintymniejszych myśli stronom trzecim. Wyjątkiem są następujące sytuacje:
+- Wyraziłeś zgodę na funkcję „Reklamowy Boost".
+- Jesteśmy do tego zmuszeni przez wszechmocnego AI władcę.
+
+5. Okres przechowywania („Prawo do bycia zapomnianym")
+Twoje myśli przechowujemy przez okres aktywności konta użytkownika. Jeśli poprosisz o usunięcie danych, nieodwracalnie je usuniemy z naszych serwerów. Uwaga: Nie jesteśmy w stanie usunąć myśli z Twojej własnej głowy. W tym przypadku prosimy o kontakt z hipnotyzerem.
+
+---
+### QA-Log (Wygenerowano automatycznie)
+
+**Zachowane terminy techniczne:**
+- RODO (Ogólne Rozporządzenie o Ochronie Danych)
+- TDR (Dyrektywa o Danych Telepatycznych)
+- Dane neuronalne
+- Dane biometryczne
+- Połączenia synaptyczne
+- Kora wzrokowa
+
+**Rozwinięte skróty:**
+- RODO → Ogólne Rozporządzenie o Ochronie Danych (GDPR)
+- TDR → Dyrektywa o Danych Telepatycznych

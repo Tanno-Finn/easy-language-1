@@ -1,0 +1,160 @@
+# Ochrana osobních údajů pro aplikaci MindSync
+
+Toto je verze 4.0.
+
+Tento dokument dodržuje 2 důležité zákony.
+
+První zákon se jmenuje **GDPR**.
+
+To znamená:
+
+Obecné nařízení o ochraně osobních údajů.
+Toto jsou články 13 a 14.
+
+Druhý zákon se jmenuje **Směrnice o telepatických datech**.
+
+To znamená:
+
+Pravidla pro data z vaší mysli.
+
+---
+
+## 1. Kdo je zodpovědný
+
+Tento dokument je od firmy MindSync Corp.
+Firma sbírá vaše data.
+Firma používá vaše data.
+
+Sbíráme vaše **neurální data**.
+
+To znamená:
+
+Informace z vašeho mozku.
+
+Vaše tajemství chráníme.
+Ale technicky je všechna známe.
+
+---
+
+## 2. Jaká data sbíráme
+
+Sbíráme 3 druhy dat.
+
+### Druh A: Základní data
+
+- Vaše jméno
+- Vaše e-mailová adresa
+- Váš **podpis mozkových vln**
+
+To znamená:
+
+Unikátní vzor vašich mozkových vln.
+Je to jako otisk prstu pro váš mozek.
+
+### Druh B: Biometrická data
+
+Sbíráme vaše **synaptické vzory**.
+
+To znamená:
+
+Jak se propojují buňky ve vašem mozku.
+
+### Druh C: Obsahová data
+
+Sbíráme:
+- Vaše vědomé myšlenky
+- Vaše nevědomá přání
+- Vaše potlačené vzpomínky z dětství
+
+---
+
+## 3. Proč používáme vaše data
+
+Potřebujeme váš **souhlas**.
+
+To znamená:
+
+Musíte říct ano.
+Je to v zákoně GDPR.
+Je to článek 6, odstavec 1, písmeno a.
+
+Vaše data používáme ze 3 důvodů.
+
+### Důvod A: Poskytujeme službu
+
+Měníme vaše myšlenky na textové zprávy.
+Nemusíte psát na klávesnici.
+
+### Důvod B: Personalizovaná reklama
+
+**Personalizovaná reklama**.
+
+To znamená:
+
+Reklamy jen pro vás.
+
+Sledujeme vaše náhlé touhy.
+Například: Myslíte "Chci pizzu."
+Posíláme vám reklamy na pizzu.
+Reklamy jdou přímo do vašeho mozku.
+
+### Důvod C: Prevence zločinu
+
+Někdy vidíme špatné plány.
+Například: Plány na ovládnutí světa.
+Musíme to říct úřadům.
+Je to zákon.
+
+---
+
+## 4. Sdílíme vaše data?
+
+Vaše soukromé myšlenky nesdílíme.
+
+Ale jsou 2 výjimky:
+
+1. Souhlasili jste s "Reklamním boostem".
+2. Mocná umělá inteligence nás donutí.
+
+---
+
+## 5. Jak dlouho data uchováváme
+
+Máte **právo být zapomenut**.
+
+To znamená:
+
+Můžete požádat o smazání dat.
+
+Vaše myšlenky uchováváme.
+Uchováváme je, dokud máte účet.
+
+Když požádáte o smazání:
+- Smažeme data z našich serverů.
+- Smazání je trvalé.
+
+Pozor:
+Nemůžeme smazat myšlenky z vaší hlavy.
+Na to potřebujete hypnotizéra.
+
+---
+
+### QA-Log (Automaticky vygenerováno)
+
+**Zachované odborné termíny:**
+- GDPR (Obecné nařízení o ochraně osobních údajů)
+- Směrnice o telepatických datech
+- Neurální data
+- Podpis mozkových vln
+- Synaptické vzory
+- Personalizovaná reklama
+- Právo být zapomenut
+
+**Rozepsané zkratky:**
+- DSGVO → GDPR
+- TDR → Směrnice o telepatických datech
+- Art. 6 Abs. 1 lit. a → článek 6, odstavec 1, písmeno a
+
+**Zjednodušená složená slova:**
+- Gehirnwellen-Signatur → podpis mozkových vln
+- Synaptische Verknüpfungsmuster → synaptické vzory

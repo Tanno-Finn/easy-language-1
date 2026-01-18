@@ -1,0 +1,67 @@
+# Säkerhetsföreskrifter för Rymdstationen Omega-7
+
+**Avdelning:** Reaktorsäkerhet och externa uppdrag
+**Version:** Galaktiskt standardår 3024
+
+---
+
+## 1. Inledning
+
+Du måste följa dessa säkerhetsföreskrifter. De skyddar ditt liv och stationens struktur. Om du bryter mot reglerna förflyttas du omedelbart till kompaktorsektionen.
+
+---
+
+## 2. Beteende nära den primära energikärnan
+
+### Skyddsutrustning
+
+När du går in i Sektor 7G måste du bära fullständig personlig skyddsutrustning (PSA). Utrustningen består av:
+- Strålskyddsdräkt klass IV
+- Visuellt bländskydd
+
+Din skyddsutrustning får inte ha några luckor eller öppningar.
+
+### Nödavstängning
+
+Endast auktoriserad fackpersonal får koppla förbi nödavstängningssystemet. Försök inte göra detta själv.
+
+### Röd larmsignal (Red Alert)
+
+Om du hör larmsirenen (Red Alert) ska du omedelbart lämna riskområdet. Du får inte stanna kvar för att utföra hjältedåd. Det är förbjudet.
+
+### Öppna reaktorschakt
+
+**Varning:** De öppna reaktorschakten har inga säkerhetsräcken. Detta är ett känt konstruktionsfel (se arkitektens bristrapport nr 1138). Det finns stor fallrisk. Håll alltid minst **2 meter** avstånd till schaktkanten.
+
+---
+
+## 3. Vid tryckfall (dekompression)
+
+Skrovskador kan uppstå genom meteorit-nedslag eller fiendens laserbeskjutning. När detta händer aktiveras skottluckorna automatiskt och stänger av skadade sektioner.
+
+**Följ dessa steg:**
+1. Andas lugnt, om det fortfarande finns atmosfär.
+2. Ta tag i närmaste nödsyrgasmask.
+3. Hjälp dig själv först, sedan andra. Detta gäller även dina överordnade.
+
+---
+
+## 4. Hantering av defekta droider
+
+Försök inte reparera felaktiga underhållsdroider själv. Deras defekta motivatorenheter kan orsaka oförutsägbara elektriska urladdningar. Rapportera alla droidfel till **avdelningen för Robotik och Cybernetik** omedelbart.
+
+---
+
+### QA-logg (Automatiskt genererad)
+
+**Bevarade facktermer:**
+- PSA (Personlig skyddsutrustning)
+- Red Alert
+- Dekompression
+- Skottluckor
+- Motivatorenheter
+- Cybernetik
+
+**Expanderade förkortningar:**
+- PSA → Personlig skyddsutrustning
+- Nr. → nummer

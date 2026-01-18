@@ -1,0 +1,80 @@
+# Termos e Condições Gerais da Chronos-Travel GmbH
+
+Estas regras aplicam-se ao aluguer de aparelhos de viagem no tempo.
+
+---
+
+## § 1 Objeto do contrato e aviso de risco
+
+A Chronos-Travel GmbH (o "Senhorio") aluga-lhe um aparelho de viagem no tempo. O modelo chama-se "Flux-Master 3000" ou similar.
+
+### Aviso importante
+
+O utilizador reconhece que viajar no tempo envolve riscos significativos. Pode magoar-se fisicamente. Pode também danificar o contínuo espaço-tempo (a estrutura do universo em que existimos).
+
+É estritamente proibido alterar eventos históricos. Em particular, é proibido causar o chamado Paradoxo do Avô. Isto acontece quando impede que os seus avós se conheçam, tornando a sua própria existência impossível.
+
+---
+
+## § 2 Obrigações do utilizador
+
+### Utilização do aparelho
+
+Deve seguir rigorosamente as instruções de utilização fornecidas.
+
+É proibido usar o aparelho sob a influência de álcool ou drogas. Também não pode usá-lo se estiver emocionalmente instável. Por exemplo: se tiver desgostos de amor ou desejos de vingança contra figuras históricas.
+
+### Informação do futuro
+
+É proibido levar informação do futuro para o passado. Isto inclui resultados desportivos, relatórios da bolsa ou números da lotaria.
+
+Esta proibição faz parte da Diretiva Ética de Viagens no Tempo (DEVT). A DEVT contém as regras éticas para viajantes no tempo.
+
+Se violar esta regra:
+- O contrato termina imediatamente.
+- Paga uma multa de 50.000 Créditos.
+
+---
+
+## § 3 Exclusão de responsabilidade
+
+### Se deixar de existir
+
+O Senhorio não é responsável se o utilizador se eliminar acidentalmente a si próprio. Isto pode acontecer se agir de forma imprudente no passado.
+
+### Ciclo de causalidade
+
+Às vezes, encontrar-se com o seu eu passado cria um ciclo de causalidade. Isto significa que o mesmo dia se repete infinitamente. Chama-se também o "cenário do Dia da Marmota".
+
+O Senhorio não paga apoio psicológico após ser libertado do ciclo.
+
+### Efeito borboleta
+
+O efeito borboleta ocorre quando uma pequena ação no passado causa grandes mudanças. Por exemplo: pisar um inseto na Era Cretácea pode levar à extinção da humanidade.
+
+Nestes casos, a responsabilidade do Senhorio está limitada ao valor da caução.
+
+---
+
+## § 4 Devolução do aparelho
+
+Deve devolver o aparelho na mesma linha temporal de onde foi retirado.
+
+Uma linha temporal é uma versão da história. Não pode devolver o aparelho numa linha temporal alternativa. Por exemplo: um mundo governado por pessoas-lagarto inteligentes. Isso não conta como devolução válida.
+
+---
+
+### QA-Log (Gerado automaticamente)
+
+**Termos técnicos preservados:**
+- Contínuo espaço-tempo
+- Paradoxo do Avô
+- Diretiva Ética de Viagens no Tempo (DEVT)
+- Ciclo de causalidade
+- Efeito borboleta
+- Linha temporal
+
+**Abreviaturas expandidas:**
+- AGB → Termos e Condições Gerais
+- GmbH → (mantido como nome de empresa alemã)
+- DEVT → Diretiva Ética de Viagens no Tempo

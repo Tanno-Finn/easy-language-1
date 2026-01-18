@@ -1,0 +1,45 @@
+Bezpečnostní pokyny pro personál na orbitální stanici Omega-7
+Stav: Galaktický standardní rok 3024
+Oddělení: Bezpečnost reaktorového jádra a výstupy do vesmíru
+
+1. Úvod k bezpečnosti práce
+
+Musíte dodržovat následující bezpečnostní předpisy. Tyto předpisy chrání váš život a stanici. Pokud je porušíte, budete přeřazeni do sekce lisovny odpadu.
+
+2. Chování v oblasti primárního energetického jádra
+
+(a) Při vstupu do sektoru 7G musíte nosit osobní ochranné pomůcky (OOP). OOP zahrnují ochranný oblek třídy IV proti záření a ochranu očí proti oslnění. Noste je vždy kompletně.
+
+(b) Pouze oprávněný odborný personál může ručně přemostit nouzové vypínací zařízení.
+
+(c) Když zazní akustický varovný signál (siréna typu "Red Alert"), okamžitě opusťte nebezpečnou oblast. Je zakázáno zůstávat a hrát si na hrdinu.
+
+(d) Otevřené šachty reaktoru nemají zábradlí (viz zpráva o vadách architektů č. 1138). Hrozí pád. Dodržujte minimální vzdálenost 2 metry od okraje šachty.
+
+3. Postup při poklesu tlaku (dekomprese)
+
+Dekomprese nastane při poškození pláště stanice. Může to být náraz meteoritu nebo nepřátelská laserová palba. Automaticky se aktivují uzavírací mechanismy přepážek.
+
+(a) Dýchejte klidně, pokud je ještě k dispozici atmosféra (vzduch).
+
+(b) Vezměte si nejbližší nouzovou kyslíkovou masku.
+
+(c) Nejprve pomozte sobě, potom ostatním. To platí i pro nadřízené.
+
+4. Zacházení s poškozenými droidy
+
+Droid je servisní robot. Neopravujte nefunkční droidy sami. Vadné motivátorové jednotky (pohonné součástky) mohou způsobit nepředvídatelné elektrické výboje. Poruchy ihned nahlaste oddělení robotiky a kybernetiky.
+
+---
+### QA-Log (Automaticky vygenerováno)
+
+**Zachované odborné termíny:**
+- Orbitální stanice (kosmická stanice na oběžné dráze)
+- OOP – osobní ochranné pomůcky
+- Dekomprese (pokles tlaku)
+- Droid (servisní robot)
+- Motivátorová jednotka (pohonná součástka)
+
+**Rozepsané zkratky:**
+- OOP = osobní ochranné pomůcky
+- Red Alert = červený alarm (nejvyšší stupeň poplachu)

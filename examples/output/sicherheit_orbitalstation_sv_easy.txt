@@ -1,0 +1,138 @@
+# Säkerhets-regler för rymd-stationen Omega-7
+
+År: 3024
+
+Avdelning: Reaktor-säkerhet och rymd-promenader
+
+---
+
+## 1. Varför finns dessa regler?
+
+Dessa regler skyddar ditt liv.
+De skyddar också rymd-stationen.
+
+Du måste följa alla regler.
+
+Om du inte följer reglerna:
+Du måste arbeta i sop-pressen.
+
+---
+
+## 2. Regler vid energi-kärnan
+
+### Skydds-kläder
+
+Du måste ha **skydds-utrustning**.
+
+Det betyder:
+
+Kläder som skyddar dig.
+
+Skydds-utrustningen består av:
+- En strålnings-dräkt
+- Skydd för ögonen
+
+Du måste alltid bära allt.
+Du får inte hoppa över något.
+
+### Nöd-stopp
+
+Det finns en **nöd-stopp-knapp**.
+
+Det betyder:
+
+En knapp som stänger av reaktorn direkt.
+
+Bara experter får använda denna knapp.
+
+### Alarm
+
+Ibland hör du ett högt alarm.
+Alarmet heter "Rött Alarm".
+
+Då måste du gå bort direkt.
+Stanna inte i faro-zonen.
+Försök inte vara en hjälte.
+
+### Öppna schakt
+
+Det finns öppna **reaktor-schakt**.
+
+Det betyder:
+
+Djupa hål bredvid reaktorn.
+
+Dessa hål har inga räcken.
+Du kan falla ner.
+
+Håll minst 2 meter avstånd till kanten.
+
+---
+
+## 3. Vad gör du vid tryck-fall?
+
+Ibland finns det ett hål i ytter-skalet.
+Det kan hända av en meteorit.
+Det kan också hända av en attack.
+
+Då faller luft-trycket.
+Dörrarna stängs automatiskt.
+
+### Det här måste du göra:
+
+1. Var lugn.
+
+2. Andas vidare.
+
+3. Ta en **syr-gas-mask**.
+
+Det betyder:
+
+En mask att andas med.
+
+4. Sätt på din egen mask först.
+
+5. Sedan hjälper du andra.
+
+---
+
+## 4. Trasiga robotar
+
+Ibland är **droider** trasiga.
+
+Det betyder:
+
+Robotar som arbetar på stationen.
+
+Laga inte dessa robotar själv.
+De kan ge dig elstötar.
+
+Rapportera trasiga robotar direkt.
+Ring avdelningen för robotar.
+
+---
+
+### QA-logg (Automatiskt genererad)
+
+**Bevarade facktermer:**
+- Skydds-utrustning (PSA)
+- Nöd-stopp-knapp (Notfallabschaltvorrichtung)
+- Reaktor-schakt (Reaktorschächte)
+- Syr-gas-mask (Sauerstoffmaske)
+- Droider (Wartungsdroiden)
+
+**Expanderade förkortningar:**
+- PSA → Skydds-utrustning
+
+**Delade sammansättningar:**
+- Rymd-stationen (Orbitalstation)
+- Reaktor-säkerhet (Reaktorsicherheit)
+- Rymd-promenader (Außenbordeinsätze)
+- Skydds-utrustning (Schutzausrüstung)
+- Strålnings-dräkt (Strahlenschutzanzug)
+- Nöd-stopp-knapp (Notfallabschaltvorrichtung)
+- Faro-zonen (Gefahrenbereich)
+- Reaktor-schakt (Reaktorschächte)
+- Ytter-skalet (Außenhülle)
+- Luft-trycket (Luftdruck)
+- Syr-gas-mask (Sauerstoffmaske)
