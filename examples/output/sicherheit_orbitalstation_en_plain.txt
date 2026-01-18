@@ -1,0 +1,65 @@
+# Safety Instructions for Orbital Station Omega-7
+
+**Department:** Reactor Core Safety and Extravehicular Operations
+**Version:** Galactic Standard Year 3024
+
+---
+
+## 1. Introduction
+
+You must follow these safety rules at all times. They protect your life and the station's structure. Violations will result in immediate transfer to the garbage compactor section.
+
+---
+
+## 2. Behaviour Near the Primary Energy Core
+
+### Protective Equipment
+
+When entering Sector 7G, you must wear full **personal protective equipment (PPE)**. This includes:
+- Class IV radiation suit
+- Visual glare protection
+
+No gaps or openings are allowed in your protective gear.
+
+### Emergency Shutdown Override
+
+Only **authorized specialist personnel** may bypass the emergency shutdown system. Do not attempt this yourself.
+
+### Red Alert Warning
+
+If you hear the acoustic warning signal (Red Alert siren), leave the danger zone immediately. Do not stay behind to perform heroic acts. This is forbidden.
+
+### Open Reactor Shafts
+
+**Warning:** Open reactor shafts have no safety railings. This is a known design flaw (see Architect Defect Report No. 1138). There is a high risk of falling. Always stay at least **2 metres** from the shaft edge.
+
+---
+
+## 3. Procedure During Pressure Loss (Decompression)
+
+Hull damage can occur from meteorite impact or enemy laser fire. When this happens, the **bulkhead sealing mechanisms** activate automatically.
+
+Follow these steps:
+1. Continue breathing calmly, if there is still atmosphere.
+2. Grab the nearest emergency oxygen mask.
+3. Help yourself first, then help others. This includes your supervisors.
+
+---
+
+## 4. Handling Defective Droids
+
+Do not repair malfunctioning maintenance droids yourself. Their faulty motivator units can cause unpredictable electrical discharges. Report all droid malfunctions to the **Department of Robotics and Cybernetics** immediately.
+
+---
+
+### QA Log
+
+**Technical Terms Used:**
+- PPE / Personal Protective Equipment (explained)
+- Decompression (explained via "pressure loss")
+- Bulkhead sealing mechanisms (introduced in context)
+- Motivator units (explained via risk description)
+
+**Language Level Check:**
+- Nested sentences avoided: Yes
+- Avg sentence length: ~11 words

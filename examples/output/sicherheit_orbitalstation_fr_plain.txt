@@ -1,0 +1,63 @@
+# Instructions de sécurité pour le personnel de la Station Orbitale Omega-7
+
+**Version :** Année standard galactique 3024
+**Département :** Sécurité du réacteur et missions extravéhiculaires
+
+---
+
+## 1. Préambule sur la sécurité au travail
+
+Le respect des règles de sécurité suivantes est obligatoire. Ces règles protègent votre vie et l'intégrité structurelle de la station.
+
+**Attention :** Toute infraction entraîne un transfert immédiat vers le secteur des compacteurs de déchets.
+
+---
+
+## 2. Comportement dans la zone du réacteur principal
+
+### Équipement de protection
+
+Vous devez porter l'équipement de protection individuelle (EPI) complet dans le Secteur 7G. L'EPI comprend une combinaison anti-radiation Classe IV et une protection oculaire anti-éblouissement.
+
+### Systèmes d'arrêt d'urgence
+
+Seul le personnel autorisé peut contourner manuellement le dispositif d'arrêt d'urgence.
+
+### Alarme rouge
+
+Si vous entendez l'alarme sonore (sirène "Red Alert"), quittez immédiatement la zone dangereuse. Il est interdit de rester pour jouer au héros.
+
+### Puits du réacteur ouverts
+
+Les puits du réacteur ouverts ne sont pas équipés de garde-corps (voir rapport de défaut architectural n° 1138). Le risque de chute est élevé. Maintenez toujours une distance minimale de 2 mètres du bord.
+
+---
+
+## 3. Procédure en cas de dépressurisation
+
+Une brèche dans la coque peut survenir suite à un impact de météorite ou un tir laser ennemi. Dans ce cas, les mécanismes de verrouillage des cloisons s'activent automatiquement.
+
+**Que faire :**
+
+- Continuez à respirer calmement, s'il reste de l'atmosphère.
+- Saisissez le masque à oxygène d'urgence le plus proche.
+- Aidez-vous d'abord vous-même, puis les autres (y compris vos supérieurs).
+
+---
+
+## 4. Gestion des droïdes défectueux
+
+Vous ne devez pas réparer vous-même les droïdes de maintenance défaillants. Les unités de motivation défectueuses peuvent causer des décharges électriques imprévisibles.
+
+Signalez immédiatement tout dysfonctionnement au Département de Robotique et Cybernétique.
+
+---
+
+### QA-Log
+
+**Termes techniques utilisés :**
+- EPI (Équipement de Protection Individuelle), Dépressurisation, Réacteur, Cloisons, Droïdes, Cybernétique
+
+**Vérification du niveau de langage :**
+- Phrases imbriquées évitées : Oui
+- Longueur moyenne des phrases : env. 13 mots

@@ -1,0 +1,145 @@
+Veiligheids-instructie voor personeel op Orbitaal-station Omega-7
+
+Datum: Galactisch standaard-jaar 3024
+
+Afdeling: Reactor-kern-veiligheid en Buitenboord-missies
+
+---
+
+## 1. Inleiding over veiligheid op het werk
+
+U moet de veiligheids-regels volgen.
+
+De regels beschermen uw leven.
+
+De regels beschermen ook het station.
+
+Als u de regels niet volgt:
+
+U wordt naar de vuilpers-afdeling gestuurd.
+
+---
+
+## 2. Gedrag bij de primaire energie-kern
+
+### Sector 7G
+
+U draagt altijd uw **persoonlijke beschermings-uitrusting (PBU)**.
+
+Dat betekent:
+
+Kleding en hulpmiddelen die u beschermen.
+
+De PBU bestaat uit:
+
+- Een **stralings-beschermings-pak** klasse IV.
+- Een **oog-beschermer** tegen fel licht.
+
+### Nood-uitschakeling
+
+Alleen bevoegd personeel mag de nood-uitschakeling omzeilen.
+
+**Bevoegd personeel**.
+
+Dat betekent:
+
+Mensen met speciale toestemming en training.
+
+### Alarm-signaal
+
+U hoort misschien een sirene.
+
+Dit heet "Red Alert".
+
+Verlaat dan direct het gevaarlijke gebied.
+
+Blijf niet om een held te zijn.
+
+Dat is verboden.
+
+### Open reactor-schachten
+
+De reactor-schachten hebben geen hekken.
+
+Dit staat in architect-rapport nummer 1138.
+
+U kunt vallen.
+
+Blijf minstens 2 meter van de rand.
+
+---
+
+## 3. Wat te doen bij druk-verlies
+
+**Decompressie**.
+
+Dat betekent:
+
+De lucht ontsnapt uit het station.
+
+Dit kan gebeuren door:
+
+- Een meteoriet-inslag.
+- Vijandelijk laser-vuur.
+
+De schotten sluiten dan automatisch.
+
+### Wat doet u?
+
+1. Blijf rustig ademen.
+
+   Dit kan alleen als er nog lucht is.
+
+2. Pak het dichtstbijzijnde nood-zuurstof-masker.
+
+3. Help eerst uzelf.
+
+   Help daarna anderen.
+
+   Dit geldt ook voor uw chef.
+
+---
+
+## 4. Kapotte droïden
+
+Repareer kapotte onderhouds-droïden niet zelf.
+
+De **motivator-eenheid** is vaak defect.
+
+Dat betekent:
+
+Het onderdeel dat de droïde aanstuurt.
+
+Er kunnen elektrische schokken ontstaan.
+
+Meld problemen direct aan de afdeling Robotica en Cybernetica.
+
+---
+
+### QA-Log (Automatisch gegenereerd)
+
+**Behouden vaktermen:**
+- Persoonlijke beschermings-uitrusting (PBU)
+- Decompressie
+- Motivator-eenheid
+- Red Alert
+
+**Uitgeschreven afkortingen:**
+- PBU = Persoonlijke beschermings-uitrusting
+
+**Gesplitste samenstellingen:**
+- Orbitaal-station
+- Veiligheids-instructie
+- Reactor-kern-veiligheid
+- Buitenboord-missies
+- Beschermings-uitrusting
+- Stralings-beschermings-pak
+- Oog-beschermer
+- Nood-uitschakeling
+- Reactor-schachten
+- Druk-verlies
+- Meteoriet-inslag
+- Laser-vuur
+- Nood-zuurstof-masker
+- Onderhouds-droïden
+- Motivator-eenheid

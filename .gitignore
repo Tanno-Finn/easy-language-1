@@ -2,5 +2,12 @@
 /input/
 /output/
 
+# Queue System (transient state, nicht committen)
+/tickets/
+
+# Generated QA Reviews (regenerierbar)
+*_REVIEW.md
+
 # IDE
 .idea/
+/tmp/

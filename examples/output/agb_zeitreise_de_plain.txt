@@ -1,0 +1,41 @@
+Allgemeine Geschäfts-Bedingungen (AGB) der Chronos-Travel GmbH für die Vermietung von Zeitreise-Geräten
+
+§ 1 Worum es geht und wichtige Hinweise
+
+(1) Die Chronos-Travel GmbH vermietet Zeitreise-Geräte. Sie heißt in diesem Text "Vermieter". Der Kunde heißt "Mieter". Das Gerät trägt den Namen "Flux-Master 3000" oder ist ein vergleichbares Modell.
+
+(2) Der Mieter weiß: Zeitreisen sind gefährlich. Sie können den Körper verletzen. Sie können auch das Raum-Zeit-Kontinuum beschädigen. Das Raum-Zeit-Kontinuum ist das Gefüge von Zeit und Raum. Es ist streng verboten, die Geschichte zu verändern. Besonders verboten ist das Großvater-Paradoxon. Dabei würde man seinen eigenen Großvater töten und dadurch nie geboren werden.
+
+§ 2 Was der Mieter beachten muss
+
+(1) Der Mieter muss die Bedienungs-Anleitung genau befolgen. Er darf das Gerät nicht unter Alkohol- oder Drogeneinfluss benutzen. Auch starke Gefühle sind verboten. Zum Beispiel: Liebeskummer oder Rachegedanken an historische Personen.
+
+(2) Manche Dinge darf man nicht in die Vergangenheit mitnehmen. Sport-Ergebnisse, Börsen-Berichte oder Lotto-Zahlen aus der Zukunft sind verboten. Der Grund: Man soll sich nicht bereichern. Das verstößt gegen die Zeitreise-Ethik-Richtlinie (ZER). Bei einem Verstoß wird der Vertrag sofort beendet. Dazu kommt eine Strafe von 50.000 Credits.
+
+§ 3 Wofür der Vermieter nicht haftet
+
+(1) Der Vermieter haftet nicht, wenn der Mieter sich selbst auslöscht. Das kann passieren, wenn man in der Vergangenheit unvorsichtig handelt.
+
+(2) Manchmal trifft ein Zeitreisender sein früheres Ich. Das kann eine Zeit-Schleife auslösen. Dann wiederholt sich derselbe Tag immer wieder. Dieses Problem heißt auch "Und-täglich-grüßt-das-Murmeltier-Szenario". Der Vermieter zahlt keine psychologische Betreuung nach der Befreiung aus der Schleife.
+
+(3) Der Schmetterlings-Effekt kann große Schäden verursachen. Ein Beispiel: Man zertritt ein Insekt in der Kreidezeit. Das führt zum Aussterben der Menschheit. Für solche Schäden haftet der Vermieter nur bis zur Höhe der Kaution.
+
+§ 4 Rückgabe des Geräts
+
+Das Gerät muss in der richtigen Zeitlinie zurückgegeben werden. Es muss dieselbe Zeitlinie sein, aus der es stammt. Eine Rückgabe in einer anderen Zeitlinie gilt als Vertrags-Bruch. Das gilt auch für Zeitlinien mit intelligenten Echsen-Menschen als Herrscher.
+
+---
+
+### QA-Log
+**Verwendete Fachbegriffe:**
+- Raum-Zeit-Kontinuum (erklärt als "Gefüge von Zeit und Raum")
+- Großvater-Paradoxon (erklärt als Tötung des Großvaters, die zur Nicht-Existenz führt)
+- Zeitreise-Ethik-Richtlinie / ZER (aus Original übernommen)
+- Kausalitätsschleife → Zeit-Schleife (vereinfacht)
+- Schmetterlings-Effekt (mit Beispiel erklärt)
+- Kaution (gängiger Begriff, nicht erklärt)
+
+**Sprach-Niveau Check:**
+- Schachtelsätze vermieden: Ja
+- Maximale Satzlänge eingehalten (≤20 Wörter): Ja
+- Fachbegriffe im Kontext erklärt: Ja

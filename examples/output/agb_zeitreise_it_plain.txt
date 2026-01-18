@@ -1,0 +1,38 @@
+Condizioni Generali di Contratto della Chronos-Travel GmbH per il noleggio di dispositivi per viaggi nel tempo
+
+§ 1 Oggetto del contratto e avviso sui rischi
+
+(1) La Chronos-Travel GmbH ("Noleggiatore") mette a disposizione del cliente ("Locatario") un dispositivo per viaggi nel tempo. Il modello è "Flux-Master 3000" o equivalente. Il periodo di noleggio è concordato nel contratto.
+
+(2) Il Locatario riconosce che l'uso del dispositivo comporta rischi notevoli. Questi rischi riguardano la sicurezza fisica e l'integrità dello spazio-tempo. Il "paradosso del nonno" indica una situazione in cui si modifica il passato in modo tale da impedire la propria nascita. Qualsiasi azione che potrebbe causare un tale paradosso è severamente vietata.
+
+§ 2 Obblighi del Locatario
+
+(1) Il Locatario deve usare il dispositivo solo secondo il manuale allegato. È vietato usare il dispositivo sotto l'effetto di alcol, droghe o emozioni forti. Esempi di emozioni forti includono mal d'amore o desiderio di vendetta verso personaggi storici.
+
+(2) È vietato portare almanacchi sportivi, quotazioni di borsa o risultati della lotteria dal futuro al passato. Questo vale se lo scopo è l'arricchimento personale. Questa azione viola la Direttiva Etica sui Viaggi nel Tempo (ZER). Le conseguenze sono la risoluzione immediata del contratto e una penale di 50.000 Credits.
+
+§ 3 Esclusione di responsabilità per violazioni della causalità
+
+(1) Il Noleggiatore non è responsabile se il Locatario cancella la propria esistenza. Questo può accadere a causa di azioni imprudenti nel passato.
+
+(2) Il Locatario potrebbe creare un "loop causale" interagendo con il proprio io passato. Questo potrebbe causare la ripetizione infinita dello stesso giorno. Questo scenario è noto come "Ricomincio da capo". In questo caso, il Noleggiatore non copre i costi della terapia psicologica necessaria dopo la liberazione dal loop temporale.
+
+(3) L'"effetto farfalla" descrive come piccole azioni possano avere grandi conseguenze. Un esempio: schiacciare un insetto nel Cretaceo potrebbe causare l'estinzione dell'umanità. Per danni di questo tipo, la responsabilità è limitata all'importo della cauzione versata. Questo vale nei limiti consentiti dalla legge.
+
+§ 4 Restituzione
+
+Il Locatario deve restituire il dispositivo nella linea temporale originale. La linea temporale originale è quella da cui il dispositivo è stato prelevato. Una restituzione in una linea temporale alternativa non è conforme al contratto. Un esempio di linea temporale non valida: un mondo governato da lucertole intelligenti.
+
+---
+
+### QA-Log
+**Termini tecnici utilizzati:**
+- Paradosso del nonno (spiegato)
+- Loop causale (spiegato)
+- Effetto farfalla (spiegato)
+- Direttiva Etica sui Viaggi nel Tempo / ZER (nominata)
+- Linea temporale (usato in contesto chiaro)
+
+**Controllo livello linguistico:**
+- Frasi nidificate evitate: Sì

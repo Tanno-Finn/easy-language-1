@@ -1,0 +1,78 @@
+# Déclaration de Protection des Données – Application "MindSync"
+
+**Version 4.0**
+
+Conformément aux articles 13 et 14 du Règlement Général sur la Protection des Données (RGPD) et à la Directive sur les Données Télépathiques (DDT).
+
+---
+
+## 1. Responsable et Champ d'Application
+
+Cette déclaration concerne la collecte et le traitement de vos données neuronales. MindSync Corp est responsable de ce traitement. Nous prenons la protection de vos secrets les plus intimes très au sérieux. Même si, techniquement, nous les connaissons tous.
+
+---
+
+## 2. Types de Données Collectées
+
+Quand vous utilisez MindSync, nous collectons les catégories suivantes :
+
+**Données de base :**
+- Nom, adresse e-mail et signature d'ondes cérébrales
+
+**Données biométriques :**
+- Vos schémas de connexions synaptiques, c'est-à-dire la structure de vos liaisons neuronales
+
+**Données de contenu :**
+- Vos pensées conscientes
+- Vos désirs inconscients
+- Vos souvenirs d'enfance refoulés
+
+---
+
+## 3. Pourquoi Nous Traitons Vos Données
+
+Le traitement de vos pensées repose sur votre consentement (Art. 6, al. 1, lettre a du RGPD).
+
+### Fourniture du service
+
+Nous transformons vos pensées en messages textuels. Ainsi, vous n'avez plus besoin de taper.
+
+### Publicité personnalisée
+
+Nous analysons vos envies spontanées. Par exemple : "J'aimerais bien une pizza maintenant." Ensuite, nous projetons des offres de nos partenaires directement dans votre cortex visuel. Cela se fait en temps réel.
+
+### Prévention de la criminalité
+
+Nous surveillons les schémas de pensées. Si nous détectons un projet de domination mondiale, nous devons en informer les autorités. C'est une obligation légale.
+
+---
+
+## 4. Transmission à des Tiers
+
+En principe, nous ne partageons pas vos pensées intimes avec d'autres. Il existe deux exceptions :
+
+- Vous avez accepté le "Boost Publicitaire".
+- Nous sommes contraints par une intelligence artificielle toute-puissante.
+
+---
+
+## 5. Durée de Conservation
+
+Vos pensées restent stockées tant que votre compte est actif. Si vous demandez la suppression, nous effacerons vos données de nos serveurs. Cette suppression est définitive et irréversible.
+
+**Remarque importante :** Nous ne pouvons pas effacer les pensées de votre propre tête. Pour cela, veuillez contacter un hypnotiseur.
+
+---
+
+### QA-Log
+
+**Technical terms used:**
+- RGPD (Règlement Général sur la Protection des Données)
+- Données neuronales
+- Ondes cérébrales
+- Connexions synaptiques
+- Cortex visuel
+
+**Language Level Check:**
+- Nested sentences avoided: Yes
+- Average sentence length: approx. 12 words

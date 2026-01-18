@@ -1,0 +1,56 @@
+# General Terms and Conditions – Chronos-Travel GmbH
+
+## Time Displacement Device Rental Agreement
+
+### Section 1: What This Contract Covers
+
+Chronos-Travel GmbH ("Provider") rents you a time displacement device. You will receive a "Flux-Master 3000" or similar model for the agreed period.
+
+**Important Risk Warning:**
+Using this device carries significant risks. It may affect your physical safety and the space-time continuum. You must never change historical events. In particular, any action that could create a "grandfather paradox" is strictly forbidden.
+
+### Section 2: Your Responsibilities
+
+**Operating the Device:**
+- Only use the device according to the manual.
+- Never operate it under the influence of alcohol, drugs, or strong emotions.
+- Strong emotions include heartbreak or thoughts of revenge against historical figures.
+
+**Forbidden Items:**
+You must not bring future knowledge into the past for personal gain. This includes:
+- Sports results
+- Stock market data
+- Lottery numbers
+
+Violating this rule breaks the **Time Travel Ethics Guidelines (ZER)**. The consequences are:
+- Immediate contract termination
+- A penalty of **50,000 Credits**
+
+### Section 3: Liability Exclusions
+
+**Personal Existence:**
+The Provider is not liable if you accidentally erase your own existence through careless actions in the past.
+
+**Time Loops:**
+If you interact with your past self and create a causality loop, you may relive the same day forever. This is known as the "Groundhog Day Scenario". The Provider will not cover therapy costs after your release from the loop.
+
+**Butterfly Effect:**
+Small changes in the past can cause massive damage. For example, stepping on an insect in prehistoric times could cause human extinction. Our liability for butterfly effect damages is limited to your deposit amount, where legally permitted.
+
+### Section 4: Device Return
+
+You must return the device to the exact timeline it came from. A return in an alternative timeline is not acceptable. This includes timelines where intelligent lizard people rule the world.
+
+---
+
+### QA Log
+**Technical Terms Used:**
+- Time displacement device (explained in context)
+- Grandfather paradox (explained in context)
+- Time Travel Ethics Guidelines / ZER (introduced with abbreviation)
+- Causality loop (explained via "Groundhog Day Scenario")
+- Butterfly effect (explained with example)
+
+**Language Level Check:**
+- Nested sentences avoided: Yes
+- Avg sentence length: ~12 words

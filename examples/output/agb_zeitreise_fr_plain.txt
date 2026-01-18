@@ -1,0 +1,53 @@
+Conditions générales de Chronos-Travel GmbH pour la location d'appareils de voyage dans le temps
+
+## Article 1 : Objet du contrat et avertissement
+
+Chronos-Travel GmbH (le "bailleur") met à disposition du client (le "locataire") un appareil de voyage dans le temps. Le modèle s'appelle "Flux-Master 3000" ou un modèle équivalent.
+
+**Avertissement important :**
+Le locataire reconnaît que l'utilisation de cet appareil comporte des risques. Ces risques concernent votre santé physique et la stabilité du temps lui-même.
+
+Il est strictement interdit de modifier des événements historiques. Cela pourrait créer un "paradoxe du grand-père". Cela signifie : si vous empêchez la naissance de vos ancêtres, vous ne pouvez plus exister.
+
+## Article 2 : Obligations du locataire
+
+### Utilisation correcte
+Vous devez utiliser l'appareil selon le mode d'emploi fourni.
+
+**Il est interdit d'utiliser l'appareil si vous êtes :**
+- sous l'influence de l'alcool ou de drogues
+- dans un état émotionnel fort (par exemple : chagrin d'amour, désir de vengeance contre des personnages historiques)
+
+### Interdiction d'enrichissement personnel
+Vous ne pouvez pas emporter dans le passé :
+- des almanachs sportifs
+- des rapports boursiers
+- des résultats de loterie
+
+Ces objets permettraient de s'enrichir injustement. Ceci viole la Directive éthique du voyage temporel (ZER). La sanction est la résiliation immédiate du contrat. Vous devrez aussi payer une pénalité de 50 000 crédits.
+
+## Article 3 : Exclusion de responsabilité en cas de violation de la causalité
+
+### Votre propre existence
+Le bailleur n'est pas responsable si vous effacez votre propre existence. Cela peut arriver si vous agissez sans réfléchir dans le passé.
+
+### Boucles temporelles
+Si vous créez une boucle temporelle en rencontrant votre ancien vous-même, vous pourriez revivre le même jour encore et encore. C'est le "scénario du jour sans fin". Le bailleur ne paiera pas votre suivi psychologique après votre libération.
+
+### Effet papillon
+L'effet papillon signifie qu'une petite action peut avoir de grandes conséquences. Par exemple : écraser un insecte au Crétacé pourrait causer l'extinction de l'humanité. Pour ces dommages, notre responsabilité est limitée au montant de la caution versée.
+
+## Article 4 : Restitution de l'appareil
+
+Vous devez rendre l'appareil exactement dans la ligne temporelle d'origine. Une restitution dans une ligne temporelle alternative n'est pas conforme au contrat. Par exemple : un monde gouverné par des hommes-lézards intelligents.
+
+---
+
+### QA-Log
+
+**Termes techniques utilisés :**
+- Paradoxe du grand-père, Directive éthique du voyage temporel (ZER), Boucle temporelle, Effet papillon, Ligne temporelle, Causalité
+
+**Contrôle du niveau de langue :**
+- Phrases imbriquées évitées : Oui
+- Longueur moyenne des phrases : env. 12 mots

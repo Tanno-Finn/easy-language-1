@@ -1,0 +1,71 @@
+# Privacy Policy for the "MindSync" App – Version 4.0
+
+Based on Articles 13 and 14 of the **General Data Protection Regulation (GDPR)** and the **Telepathy Data Directive (TDD)**.
+
+---
+
+## 1. Who is responsible and what does this cover?
+
+This policy explains how MindSync Corp collects, processes, and uses your neural data. We take the protection of your innermost secrets very seriously. Even though, technically speaking, we know all of them.
+
+---
+
+## 2. What data do we collect?
+
+When you use MindSync services, we collect the following types of personal data:
+
+- **Basic data:** Your name, email address, and brainwave signature.
+- **Biometric data:** Your synaptic connection patterns.
+- **Content data:** Your conscious thoughts, subconscious desires, and repressed childhood memories.
+
+---
+
+## 3. Why do we process your data?
+
+We process your thoughts based on your consent (GDPR Article 6(1)(a)). We use your data for these purposes:
+
+### Service delivery
+
+We convert your thoughts into text messages. You do not need to type anything.
+
+### Personalised advertising
+
+We analyse your spontaneous cravings. For example: "I really want pizza right now." We then project matching offers from our partners directly into your visual cortex. This happens in real time.
+
+### Crime prevention
+
+We may detect thought patterns that suggest you are planning world domination. In such cases, we are legally required to report this to the authorities.
+
+---
+
+## 4. Do we share your data with others?
+
+We do **not** share your most intimate thoughts with third parties. There are two exceptions:
+
+- You have agreed to the "Advertising Boost" feature.
+- We are forced to do so by an all-powerful AI overlord.
+
+---
+
+## 5. How long do we keep your data?
+
+We store your thoughts as long as your account is active.
+
+**Your right to be forgotten:** If you request deletion, we will permanently remove your data from our servers. Please note: We cannot delete thoughts from your own head. For that service, please contact a hypnotist.
+
+---
+
+### QA Log
+
+**Technical Terms Used:**
+- GDPR (General Data Protection Regulation)
+- Telepathy Data Directive (TDD)
+- Neural data
+- Biometric data
+- Brainwave signature
+- Synaptic connection patterns
+- Visual cortex
+
+**Language Level Check:**
+- Nested sentences avoided: Yes
+- Avg sentence length: 12 words

@@ -1,0 +1,136 @@
+# Privacy Policy for the MindSync App
+
+This is version 4.0 of the privacy policy.
+
+This document follows the rules of:
+- The General Data Protection Regulation (GDPR)
+- The Telepathy Data Directive
+
+---
+
+## 1. Who is responsible
+
+This policy is about MindSync Corp.
+MindSync Corp collects your data.
+MindSync Corp uses your data.
+
+**Neural data**.
+
+That means:
+
+Information from your brain.
+
+We take the protection of your secrets very seriously.
+We know all your secrets because of our technology.
+
+---
+
+## 2. What data we collect
+
+We collect different types of data about you.
+
+### Basic data
+
+- Your name
+- Your email address
+- Your brain-wave signature
+
+**Brain-wave signature**.
+
+That means:
+
+The unique pattern of your brain waves.
+This is like a finger-print for your brain.
+
+### Body data
+
+We collect your **synaptic connection patterns**.
+
+That means:
+
+How the cells in your brain connect to each other.
+
+### Content data
+
+We collect:
+- Your thoughts that you are aware of
+- Your wishes that you are not aware of
+- Your child-hood memories that you have forgotten
+
+---
+
+## 3. Why we use your data
+
+We use your data for these reasons.
+
+### To provide our service
+
+We turn your thoughts into text messages.
+You do not need to type.
+
+### For advertising
+
+**Personalised advertising**.
+
+That means:
+
+Adverts that are made just for you.
+
+We look at your sudden wishes.
+For example: You think "I want pizza now".
+We show you pizza adverts.
+The adverts appear directly in your brain.
+
+### To prevent crime
+
+Sometimes we see thoughts about bad plans.
+For example: Plans to take over the world.
+We must tell the authorities about these thoughts.
+This is the law.
+
+---
+
+## 4. Who else can see your data
+
+We do not share your private thoughts with others.
+
+But there are 2 exceptions:
+
+1. You agreed to the "Advertising Boost" option.
+2. A powerful artificial intelligence forces us to share.
+
+---
+
+## 5. How long we keep your data
+
+We keep your thoughts while your account is active.
+
+**Right to be forgotten**.
+
+That means:
+
+You can ask us to delete your data.
+
+If you ask us to delete your data:
+- We will remove all your data from our servers.
+- We cannot remove the data from your brain servers.
+- We cannot remove thoughts from your own head.
+- For that you need a hypnotist.
+
+---
+
+### QA Log (Auto-generated)
+
+**Preserved Technical Terms:**
+- General Data Protection Regulation (GDPR)
+- Telepathy Data Directive
+- Neural data
+- Brain-wave signature
+- Synaptic connection patterns
+- Personalised advertising
+- Right to be forgotten
+
+**Expanded Abbreviations:**
+- DSGVO → General Data Protection Regulation (GDPR)
+- TDR → Telepathy Data Directive
+- Art. 6 Abs. 1 lit. a → (explained in context)

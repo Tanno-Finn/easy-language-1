@@ -1,0 +1,148 @@
+Déclaration de protection des données pour l'application "MindSync" – Version 4.0
+
+Cette déclaration suit 2 lois importantes.
+
+La première loi s'appelle **RGPD**.
+
+Cela signifie :
+
+Règlement Général sur la Protection des Données.
+Ce sont les articles 13 et 14.
+
+La deuxième loi s'appelle **TDR**.
+
+Cela signifie :
+
+Directive sur les Données de Télépathie.
+
+---
+
+1. Qui est responsable et à qui cela s'applique
+
+Cette déclaration explique comment MindSync Corp. utilise vos données.
+
+Nous collectons des **données neuronales**.
+
+Cela signifie :
+
+Les informations de votre cerveau.
+
+Nous protégeons vos secrets les plus intimes.
+Même si nous les connaissons tous techniquement.
+
+---
+
+2. Quelles données nous collectons
+
+Nous collectons 3 types de données quand vous utilisez MindSync.
+
+Type a : **Données de base**.
+
+Cela signifie :
+
+Votre nom.
+Votre adresse e-mail.
+Votre signature d'ondes cérébrales.
+
+Type b : **Données biométriques**.
+
+Cela signifie :
+
+Les connexions entre vos neurones.
+
+Type c : **Données de contenu**.
+
+Cela signifie :
+
+Vos pensées conscientes.
+Vos désirs inconscients.
+Vos souvenirs d'enfance refoulés.
+
+---
+
+3. Pourquoi nous utilisons vos données
+
+Nous avons besoin de votre **consentement**.
+
+Cela signifie :
+
+Vous devez dire oui.
+C'est écrit dans la loi RGPD.
+C'est l'article 6 paragraphe 1 lettre a.
+
+Nous utilisons vos données pour 3 raisons.
+
+Raison a : Pour vous offrir notre service.
+Nous transformons vos pensées en messages texte.
+Vous n'avez pas besoin de taper.
+
+Raison b : Pour la publicité personnalisée.
+Nous analysons vos envies spontanées.
+Par exemple : "Je voudrais une pizza maintenant."
+Nous envoyons des offres directement dans votre **cortex visuel**.
+
+Cela signifie :
+
+La partie de votre cerveau qui voit.
+
+Raison c : Pour prévenir les crimes.
+Nous surveillons vos pensées.
+Si nous voyons des plans de domination mondiale :
+Nous devons prévenir les autorités.
+C'est la loi.
+
+---
+
+4. Partageons-nous vos données ?
+
+Nous ne partageons pas vos pensées intimes.
+
+Sauf dans 2 cas :
+
+Cas 1 : Vous avez accepté le "Boost Publicitaire".
+
+Cas 2 : Une intelligence artificielle très puissante nous y oblige.
+
+---
+
+5. Combien de temps gardons-nous vos données ?
+
+Vous avez le **droit à l'oubli**.
+
+Cela signifie :
+
+Vous pouvez demander la suppression de vos données.
+
+Nous gardons vos pensées tant que votre compte est actif.
+
+Si vous demandez la suppression :
+Nous effaçons vos données de nos serveurs.
+Cette suppression est définitive.
+
+Attention :
+Nous ne pouvons pas effacer les pensées dans votre tête.
+Pour cela, contactez un hypnotiseur.
+
+---
+
+### QA-Log (Généré automatiquement)
+
+**Preserved technical terms:**
+- RGPD (Règlement Général sur la Protection des Données)
+- TDR (Directive sur les Données de Télépathie)
+- Données neuronales
+- Données de base
+- Données biométriques
+- Données de contenu
+- Consentement
+- Cortex visuel
+- Droit à l'oubli
+
+**Expanded abbreviations:**
+- Art. -> article
+- Abs. -> paragraphe
+- lit. -> lettre
+- z.B. -> par exemple
+
+**Split compound words:**
+- Aucun (les mots composés français sont naturellement courts)

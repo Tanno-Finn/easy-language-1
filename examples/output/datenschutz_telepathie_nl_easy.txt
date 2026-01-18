@@ -1,0 +1,134 @@
+# Privacy-verklaring voor de app "MindSync"
+
+Dit is versie 4.0.
+
+---
+
+## 1. Wie is verantwoordelijk?
+
+Het bedrijf MindSync Corp. is verantwoordelijk.
+
+Deze verklaring legt uit:
+Zo verzamelen wij uw gegevens.
+Zo gebruiken wij uw gegevens.
+
+Wij beschermen uw geheimen.
+Maar wij kennen uw geheimen ook.
+Want wij kunnen uw gedachten lezen.
+
+---
+
+## 2. Deze gegevens verzamelen wij
+
+Wij verzamelen verschillende gegevens van u.
+
+### Basis-gegevens
+
+Dat betekent:
+
+Uw naam.
+Uw e-mail-adres.
+Uw hersen-golf-signatuur.
+
+### Biometrische gegevens
+
+Dat betekent:
+
+Gegevens over uw lichaam.
+Wij slaan uw **synaptische verbindings-patronen** op.
+
+Dat betekent:
+
+Hoe uw zenuw-cellen in de hersenen verbonden zijn.
+
+### Inhouds-gegevens
+
+Dat betekent:
+
+Uw gedachten.
+Uw geheime wensen.
+Uw jeugd-herinneringen.
+Ook de herinneringen die u wilt vergeten.
+
+---
+
+## 3. Waarom verzamelen wij uw gegevens?
+
+### Service
+
+Wij zetten uw gedachten om in tekst-berichten.
+U hoeft dan niet meer te typen.
+
+### Reclame
+
+Wij lezen uw wensen.
+Bijvoorbeeld: U denkt "Ik wil pizza".
+Dan tonen wij u pizza-reclame.
+De reclame verschijnt direct in uw hoofd.
+
+### Veiligheid
+
+Wij lezen uw gedachten.
+Soms denken mensen slechte dingen.
+Bijvoorbeeld: Iemand wil de wereld veroveren.
+Dan moeten wij dat aan de politie melden.
+Dat is een wet.
+
+---
+
+## 4. Geven wij uw gegevens door?
+
+Normaal geven wij uw gedachten niet door.
+
+Er zijn uitzonderingen:
+- U hebt ingestemd met de **Reclame-Boost**.
+- Een zeer machtige **KI** dwingt ons.
+
+**KI**.
+
+Dat betekent:
+
+Kunstmatige Intelligentie.
+Dat is een computer die zeer slim is.
+
+---
+
+## 5. Hoe lang bewaren wij uw gegevens?
+
+Wij bewaren uw gedachten.
+Dat doen wij zolang u een account hebt.
+
+U kunt zeggen: Verwijder alstublieft mijn gegevens.
+Dan verwijderen wij alle gegevens van onze computers.
+
+**Belangrijk:**
+Wij kunnen de gedachten in uw hoofd niet verwijderen.
+Daarvoor hebt u een **hypnotiseur** nodig.
+
+Dat betekent:
+
+Een persoon die u in een diepe slaap brengt.
+Deze persoon kan dan herinneringen verwijderen.
+
+---
+
+### QA-Log (Automatisch gegenereerd)
+
+**Behouden vaktermen:**
+- Synaptische verbindings-patronen, Biometrische gegevens, KI (Kunstmatige Intelligentie), Hypnotiseur, Reclame-Boost
+
+**Uitgeschreven afkortingen:**
+- GDPR → Algemene Verordening Gegevens-bescherming (vereenvoudigd in tekst)
+- KI → Kunstmatige Intelligentie
+
+**Gesplitste samenstellingen:**
+- Privacy-verklaring
+- Hersen-golf-signatuur
+- Verbindings-patronen
+- Jeugd-herinneringen
+- Tekst-berichten
+- Inhouds-gegevens
+- Basis-gegevens
+- Zenuw-cellen
+- E-mail-adres
+- Reclame-Boost

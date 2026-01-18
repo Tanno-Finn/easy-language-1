@@ -1,0 +1,68 @@
+# Instrucciones de seguridad para el personal de la Estación Orbital Omega-7
+
+**Fecha:** Año Estándar Galáctico 3024
+**Departamento:** Seguridad del Núcleo del Reactor y Actividades Extravehiculares
+
+---
+
+## 1. Introducción sobre seguridad laboral
+
+Debe cumplir las siguientes normas de seguridad. Estas normas protegen su vida y la estructura de la estación. Si no cumple las normas, será trasladado inmediatamente al sector de compactación de basura.
+
+---
+
+## 2. Comportamiento en el área del núcleo de energía primaria
+
+### Equipo de protección obligatorio
+
+Cuando entre en el Sector 7G, debe llevar el equipo de protección personal completo (EPP). Este equipo incluye:
+- Un traje de protección contra radiación Clase IV
+- Protección visual contra el deslumbramiento
+
+No puede entrar sin este equipo.
+
+### Desactivación del sistema de emergencia
+
+Solo el personal autorizado puede desactivar manualmente el sistema de apagado de emergencia.
+
+### Alarma de emergencia
+
+Si escucha la sirena de alarma (tipo "Alerta Roja"), abandone la zona de peligro inmediatamente. Está prohibido quedarse para intentar ser un héroe.
+
+### Peligro de caída
+
+Los pozos del reactor abiertos no tienen barandillas de seguridad. Esto es un defecto de construcción (véase Informe de Deficiencias del Arquitecto número 1138). Hay un alto riesgo de caída. Mantenga siempre una distancia mínima de 2 metros del borde del pozo.
+
+---
+
+## 3. Procedimiento en caso de pérdida de presión (descompresión)
+
+Si un meteorito o un disparo láser enemigo daña el casco de la estación, los sistemas de cierre hermético se activan automáticamente.
+
+### Qué hacer:
+
+- Respire con calma, si todavía hay atmósfera disponible.
+- Tome la máscara de oxígeno de emergencia más cercana.
+- Primero ayúdese a usted mismo. Después ayude a los demás, incluyendo a sus superiores.
+
+---
+
+## 4. Manejo de droides defectuosos
+
+No repare droides de mantenimiento averiados por su cuenta. Debido a unidades de motivador defectuosas, hay riesgo de descargas eléctricas impredecibles. Informe de cualquier problema inmediatamente al Departamento de Robótica y Cibernética.
+
+---
+
+### QA-Log
+
+**Technical terms used:**
+- EPP (Equipo de Protección Personal)
+- Descompresión
+- Sistema de cierre hermético
+- Unidad de motivador
+- Núcleo de energía primaria
+- Actividades extravehiculares
+
+**Language Level Check:**
+- Nested sentences avoided: Yes
+- Average sentence length: approx. 12 words

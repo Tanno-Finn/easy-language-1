@@ -1,0 +1,61 @@
+Veiligheidsinstructie voor personeel op ruimtestation Omega-7
+
+Stand: Galactisch Standaardjaar 3024
+Afdeling: Reactorkernsicherheid en buitenboordopdrachten
+
+---
+
+## 1. Inleiding over arbeidsveiligheid
+
+U moet deze veiligheidsvoorschriften strikt naleven. Alleen zo beschermen we levens en de structurele integriteit van het station. Overtredingen leiden tot onmiddellijke overplaatsing naar de afvalcompactorsectie.
+
+---
+
+## 2. Gedrag in het gebied van de primaire energiekern
+
+### Persoonlijke beschermingsmiddelen
+
+Wanneer u sector 7G betreedt, moet u volledige beschermende uitrusting (PBM) dragen. Deze uitrusting bestaat uit een stralingspak klasse IV en visuele oogbescherming.
+
+### Nooduitschakeling
+
+De handmatige omzeiling van de nood-uitschakelingsvoorziening is uitsluitend toegestaan voor geautoriseerd vakpersoneel.
+
+### Alarmsituaties
+
+Hoort u het akoestische waarschuwingssignaal (sirene type "Red Alert")? Verlaat dan onmiddellijk het gevarengebied. Blijven om heldendaden te verrichten is verboden.
+
+### Let op: open reactorschachten
+
+De open reactor-schachten hebben geen hekwerk. Dit is een bouwkundig gebrek (zie architectenrapport nr. 1138). Er bestaat groot valgevaar. Houd altijd minimaal 2 meter afstand tot de schachtrand.
+
+---
+
+## 3. Procedure bij drukverlies (decompressie)
+
+Bij structurele romp-beschadiging door meteorietinslag of vijandelijke laserbeschieting activeren de schotten-vergrendeling automatisch. Dit sluit beschadigde secties af van de rest van het station.
+
+**Wat moet u doen?**
+
+1. Blijf rustig ademen, indien er nog atmosfeer aanwezig is.
+2. Grijp het dichtstbijzijnde nood-zuurstofmasker.
+3. Help eerst uzelf, daarna anderen. Dit geldt ook voor leidinggevenden.
+
+---
+
+## 4. Omgang met defecte droïden
+
+Defecte onderhouds-droïden mag u niet zelf repareren. Door foutieve motivator-eenheden bestaat er gevaar voor onvoorspelbare elektrische ontladingen.
+
+Meld storingen direct bij de afdeling Robotica en Cybernetica.
+
+---
+
+### QA-Log
+
+**Gebruikte vaktermen:**
+- PBM (Persoonlijke beschermingsmiddelen), Red Alert, Decompressie, Schotten-vergrendeling, Motivator-eenheden, Cybernetica
+
+**Taalniveau controle:**
+- Geneste zinnen vermeden: Ja
+- Gemiddelde zinslengte: circa 14 woorden

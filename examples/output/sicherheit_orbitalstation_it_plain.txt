@@ -1,0 +1,54 @@
+# Istruzioni di Sicurezza per il Personale della Stazione Orbitale Omega-7
+
+**Versione:** Anno Standard Galattico 3024
+**Reparto:** Sicurezza del Nucleo del Reattore e Operazioni Extraveicolari
+
+---
+
+## 1. Premessa sulla sicurezza sul lavoro
+
+Il rispetto delle seguenti norme è obbligatorio. Queste regole proteggono la vostra vita e l'integrità della stazione. Le violazioni comportano il trasferimento immediato al reparto compattatori di rifiuti.
+
+---
+
+## 2. Comportamento nell'area del nucleo energetico primario
+
+**(a)** Prima di entrare nel Settore 7G, indossate l'equipaggiamento di protezione personale (DPI) completo. Questo include la tuta antiradiazioni di Classe IV e la protezione visiva antiabbagliamento.
+
+**(b)** Solo il personale tecnico autorizzato può disattivare manualmente il sistema di spegnimento di emergenza.
+
+**(c)** Se sentite un segnale acustico di allarme (sirena tipo "Allerta Rossa"), evacuate immediatamente la zona. È vietato restare per compiere atti eroici.
+
+**(d)** I pozzi del reattore aperti non hanno ringhiere di sicurezza. Questo è un difetto di progettazione (vedi Rapporto Difetti Architettonici n. 1138). Il rischio di caduta è elevato. Mantenete sempre una distanza minima di 2 metri dal bordo del pozzo.
+
+---
+
+## 3. Procedura in caso di calo di pressione (decompressione)
+
+Se la struttura dello scafo subisce danni da impatto meteoritico o fuoco laser nemico, i meccanismi di chiusura delle paratie si attivano automaticamente.
+
+**(a)** Continuate a respirare con calma, se c'è ancora atmosfera.
+
+**(b)** Afferrate la maschera di ossigeno di emergenza più vicina.
+
+**(c)** Aiutate prima voi stessi, poi gli altri. Questo vale anche per i vostri superiori.
+
+---
+
+## 4. Gestione dei droidi difettosi
+
+Non riparate da soli i droidi di manutenzione malfunzionanti. Le unità motivazionali difettose possono causare scariche elettriche imprevedibili. Segnalate immediatamente i guasti al Reparto Robotica e Cibernetica.
+
+---
+
+### QA-Log
+
+**Termini tecnici utilizzati:**
+- DPI (Dispositivi di Protezione Individuale)
+- Decompressione
+- Allerta Rossa
+- Droidi di manutenzione
+- Unità motivazionali
+
+**Controllo livello linguistico:**
+- Frasi nidificate evitate: Sì

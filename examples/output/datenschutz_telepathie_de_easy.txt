@@ -1,0 +1,133 @@
+# Daten-Schutz-Erklärung für die App "MindSync"
+
+Das ist die Version 4.0.
+
+---
+
+## 1. Wer ist verantwortlich?
+
+Die Firma MindSync Corp. ist verantwortlich.
+
+Diese Erklärung erklärt:
+So sammeln wir Ihre Daten.
+So benutzen wir Ihre Daten.
+
+Wir schützen Ihre Geheimnisse.
+Aber wir kennen Ihre Geheimnisse auch.
+Denn wir können Ihre Gedanken lesen.
+
+---
+
+## 2. Diese Daten sammeln wir
+
+Wir sammeln verschiedene Daten von Ihnen.
+
+### Stamm-Daten
+
+Das heißt:
+
+Ihr Name.
+Ihre E-Mail-Adresse.
+Ihre Gehirn-Wellen-Signatur.
+
+### Biometrische Daten
+
+Das heißt:
+
+Daten über Ihren Körper.
+Wir speichern Ihre **Synaptischen Verknüpfungs-Muster**.
+
+Das heißt:
+
+Wie Ihre Nerven-Zellen im Gehirn verbunden sind.
+
+### Inhalts-Daten
+
+Das heißt:
+
+Ihre Gedanken.
+Ihre geheimen Wünsche.
+Ihre Kindheits-Erinnerungen.
+Auch die Erinnerungen, die Sie vergessen wollen.
+
+---
+
+## 3. Warum sammeln wir Ihre Daten?
+
+### Service
+
+Wir wandeln Ihre Gedanken in Text-Nachrichten um.
+Sie müssen dann nicht mehr tippen.
+
+### Werbung
+
+Wir lesen Ihre Wünsche.
+Zum Beispiel: Sie denken "Ich möchte Pizza".
+Dann zeigen wir Ihnen Pizza-Werbung.
+Die Werbung erscheint direkt in Ihrem Kopf.
+
+### Sicherheit
+
+Wir lesen Ihre Gedanken.
+Manchmal denken Menschen schlechte Dinge.
+Zum Beispiel: Jemand will die Welt-Herrschaft.
+Dann müssen wir das der Polizei melden.
+Das ist ein Gesetz.
+
+---
+
+## 4. Geben wir Ihre Daten weiter?
+
+Normalerweise geben wir Ihre Gedanken nicht weiter.
+
+Es gibt aber Ausnahmen:
+- Sie haben dem **Werbe-Boost** zugestimmt.
+- Eine sehr mächtige **KI** zwingt uns dazu.
+
+**KI**.
+
+Das heißt:
+
+Künstliche Intelligenz.
+Das ist ein Computer, der sehr schlau ist.
+
+---
+
+## 5. Wie lange speichern wir Ihre Daten?
+
+Wir speichern Ihre Gedanken.
+Das tun wir so lange, wie Sie ein Konto haben.
+
+Sie können sagen: Bitte löscht meine Daten.
+Dann löschen wir alle Daten von unseren Computern.
+
+**Wichtig:**
+Wir können die Gedanken in Ihrem Kopf nicht löschen.
+Dafür brauchen Sie einen **Hypnotiseur**.
+
+Das heißt:
+
+Eine Person, die Sie in einen tiefen Schlaf versetzt.
+Diese Person kann dann Erinnerungen löschen.
+
+---
+
+### QA-Log (Automatisch generiert)
+
+**Beibehaltene Fachbegriffe:**
+- Synaptische Verknüpfungs-Muster, Biometrische Daten, KI (Künstliche Intelligenz), Hypnotiseur, Werbe-Boost
+
+**Aufgelöste Abkürzungen:**
+- DSGVO → Daten-Schutz-Grund-Verordnung (im Text vereinfacht)
+- KI → Künstliche Intelligenz
+
+**Getrennte Komposita:**
+- Daten-Schutz-Erklärung
+- Gehirn-Wellen-Signatur
+- Verknüpfungs-Muster
+- Kindheits-Erinnerungen
+- Text-Nachrichten
+- Welt-Herrschaft
+- Inhalts-Daten
+- Stamm-Daten
+- Nerven-Zellen

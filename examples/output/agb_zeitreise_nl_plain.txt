@@ -1,0 +1,42 @@
+Algemene Voorwaarden van Chronos-Travel GmbH voor de verhuur van tijdreis-apparaten
+
+§ 1 Waar gaat dit over en belangrijke informatie
+
+(1) Chronos-Travel GmbH verhuurt tijdreis-apparaten. Dit bedrijf heet in deze tekst "verhuurder". De klant heet "huurder". Het apparaat heet "Flux-Master 3000" of een vergelijkbaar model.
+
+(2) De huurder begrijpt: tijdreizen is gevaarlijk. Het kan je lichaam schaden. Het kan ook het ruimte-tijd-continuüm beschadigen. Dit continuüm is het weefsel van tijd en ruimte. Het is streng verboden om de geschiedenis te veranderen. Vooral de grootvader-paradox is verboden. Hierbij zou je je eigen grootvader doden en daardoor nooit geboren worden.
+
+§ 2 Wat de huurder moet doen
+
+(1) De huurder moet de handleiding nauwkeurig volgen. Hij mag het apparaat niet gebruiken onder invloed van alcohol of drugs. Ook sterke emoties zijn verboden. Bijvoorbeeld: liefdesverdriet of wraakgedachten aan historische personen.
+
+(2) Sommige dingen mag je niet meenemen naar het verleden. Sport-uitslagen, beurs-berichten of lotto-nummers uit de toekomst zijn verboden. De reden: je mag jezelf niet verrijken. Dit schendt de tijdreis-ethiek-richtlijn (ZER). Bij een overtreding eindigt het contract direct. Daarbij komt een boete van 50.000 credits.
+
+§ 3 Waarvoor de verhuurder niet aansprakelijk is
+
+(1) De verhuurder is niet aansprakelijk als de huurder zichzelf uitwist. Dit kan gebeuren door onvoorzichtig handelen in het verleden.
+
+(2) Soms ontmoet een tijdreiziger zijn eerdere zelf. Dit kan een tijdlus veroorzaken. Dan herhaalt dezelfde dag zich steeds opnieuw. Dit probleem heet ook het "Groundhog-Day-scenario". De verhuurder betaalt geen psychologische hulp na bevrijding uit de lus.
+
+(3) Het vlinder-effect kan grote schade veroorzaken. Een voorbeeld: je vertrapt een insect in de krijt-periode. Dit leidt tot het uitsterven van de mensheid. Voor zulke schade is de verhuurder alleen aansprakelijk tot de hoogte van de borg.
+
+§ 4 Teruggave van het apparaat
+
+Het apparaat moet terug in de juiste tijdlijn. Dit moet dezelfde tijdlijn zijn als waaruit het kwam. Teruggave in een andere tijdlijn geldt als contract-breuk. Dit geldt ook voor tijdlijnen waar intelligente hagedis-mensen heersen.
+
+---
+
+### QA-Log
+**Gebruikte vaktermen:**
+- Ruimte-tijd-continuüm (uitgelegd als "weefsel van tijd en ruimte")
+- Grootvader-paradox (uitgelegd als doden van grootvader met gevolg niet-bestaan)
+- Tijdreis-ethiek-richtlijn / ZER (uit origineel overgenomen)
+- Causaliteitslus → Tijdlus (vereenvoudigd)
+- Vlinder-effect (met voorbeeld uitgelegd)
+- Borg (gangbare term, niet uitgelegd)
+
+**Taalniveau controle:**
+- Geneste zinnen vermeden: Ja
+- Maximale zinslengte (≤20 woorden): Ja
+- Actieve stem gebruikt: Ja
+- Vaktermen in context uitgelegd: Ja

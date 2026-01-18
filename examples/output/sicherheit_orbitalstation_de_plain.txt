@@ -1,0 +1,46 @@
+Sicherheits-Unterweisung für Personal auf der Orbital-Station Omega-7
+Stand: Galaktisches Standard-Jahr 3024
+Abteilung: Reaktorkern-Sicherheit und Außenbord-Einsätze
+
+1. Einleitung zur Arbeits-Sicherheit
+
+Sie müssen die folgenden Sicherheits-Vorschriften einhalten. Diese Regeln schützen Ihr Leben und die Station. Bei Verstößen werden Sie sofort in den Müllpressen-Trakt versetzt.
+
+2. Verhalten am Primär-Energie-Kern
+
+(a) Im Sektor 7G müssen Sie die persönliche Schutz-Ausrüstung (PSA) tragen. Dazu gehören ein Strahlenschutz-Anzug der Klasse IV und ein Blend-Schutz für die Augen.
+
+(b) Nur autorisiertes Fach-Personal darf die Notfall-Abschaltung manuell überbrücken.
+
+(c) Wenn Sie die Sirene "Red Alert" hören, verlassen Sie sofort den Gefahren-Bereich. Bleiben Sie nicht, um Helden-Taten zu vollbringen. Das ist verboten.
+
+(d) Die offenen Reaktor-Schächte haben keine Geländer. Der Grund steht im Architekten-Mangelbericht Nr. 1138. Es besteht erhöhte Absturz-Gefahr. Halten Sie mindestens 2 Meter Abstand zur Schacht-Kante.
+
+3. Vorgehen bei Druck-Abfall (Dekompression)
+
+Bei Schäden an der Außen-Hülle schließen sich die Schotten automatisch. Schäden entstehen z.B. durch Meteoriten oder feindlichen Laser-Beschuss.
+
+So handeln Sie richtig:
+
+(a) Atmen Sie ruhig weiter, falls noch Luft vorhanden ist.
+
+(b) Greifen Sie zur nächsten Notfall-Sauerstoff-Maske.
+
+(c) Helfen Sie zuerst sich selbst, dann anderen. Das gilt auch für Vorgesetzte.
+
+4. Umgang mit defekten Droiden
+
+Reparieren Sie defekte Wartungs-Droiden nicht selbst. Die Motivator-Einheiten sind oft fehlerhaft. Es besteht die Gefahr von elektrischen Entladungen. Melden Sie Störungen sofort an die Abteilung Robotik und Kybernetik.
+
+---
+
+### QA-Log
+**Verwendete Fachbegriffe:**
+- Persönliche Schutz-Ausrüstung (PSA)
+- Strahlenschutz-Anzug
+- Primär-Energie-Kern
+- Dekompression (erklärt als Druck-Abfall)
+- Motivator-Einheit (Droiden-Technik)
+
+**Sprach-Niveau Check:**
+- Schachtelsätze vermieden: Ja

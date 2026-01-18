@@ -1,0 +1,201 @@
+# Règles de sécurité pour la station orbitale Omega-7
+
+## Pour le personnel
+
+Date : Année galactique standard 3024
+
+Service : Sécurité du réacteur et sorties dans l'espace
+
+---
+
+## Introduction
+
+Vous devez suivre ces règles de sécurité.
+Ces règles protègent votre vie.
+Ces règles protègent aussi la station.
+
+---
+
+Si vous ne suivez pas les règles :
+Vous serez envoyé au secteur des broyeurs de déchets.
+
+---
+
+## Section 2 : Le réacteur principal
+
+### Comment entrer dans le Secteur 7G
+
+Vous devez porter un **équipement de protection individuelle (EPI)**.
+
+**EPI**.
+
+Cela signifie :
+
+Les vêtements et objets qui vous protègent.
+
+---
+
+L'équipement comprend :
+- Une combinaison anti-radiations de classe 4.
+- Des lunettes de protection contre la lumière.
+
+Vous devez porter tout l'équipement.
+Il ne doit pas y avoir de trou.
+
+---
+
+### Les boutons d'urgence
+
+Il y a des boutons pour arrêter le réacteur en urgence.
+Seuls les experts peuvent toucher ces boutons.
+Vous ne devez pas les toucher.
+
+---
+
+### L'alarme rouge
+
+Parfois, une sirène retentit.
+C'est l'alarme **Red Alert**.
+
+**Red Alert**.
+
+Cela signifie :
+
+Une alarme rouge de danger.
+
+---
+
+Quand vous entendez cette sirène :
+- Quittez la zone immédiatement.
+- N'essayez pas d'être un héros.
+- C'est interdit.
+
+---
+
+### Les ouvertures du réacteur
+
+Il y a des trous dans le sol.
+Ces trous s'appellent des **puits de réacteur**.
+
+**Puits de réacteur**.
+
+Cela signifie :
+
+Des grandes ouvertures qui vont vers le réacteur.
+
+---
+
+Ces trous n'ont pas de barrières.
+Les architectes ont oublié de les mettre.
+C'est écrit dans le rapport numéro 1138.
+
+Vous pouvez tomber dans ces trous.
+Restez toujours à 2 mètres du bord.
+
+---
+
+## Section 3 : Perte de pression
+
+### Ce qui peut arriver
+
+Parfois, la coque de la station est endommagée.
+Cela peut arriver à cause :
+- D'une météorite.
+- D'un tir laser ennemi.
+
+---
+
+On appelle cela une **décompression**.
+
+**Décompression**.
+
+Cela signifie :
+
+L'air s'échappe de la station.
+
+---
+
+### Ce qui se passe automatiquement
+
+Les portes étanches se ferment toutes seules.
+On appelle ces portes des **cloisons**.
+
+**Cloisons**.
+
+Cela signifie :
+
+Des portes très solides qui empêchent l'air de sortir.
+
+---
+
+### Ce que vous devez faire
+
+1. Respirez calmement.
+   Mais seulement s'il reste de l'air.
+
+2. Prenez le masque à oxygène le plus proche.
+
+3. Aidez-vous d'abord vous-même.
+   Ensuite, aidez les autres.
+   Même vos supérieurs.
+
+---
+
+## Section 4 : Les robots cassés
+
+### Ne réparez pas les robots vous-même
+
+Parfois, les **droïdes de maintenance** ne fonctionnent plus.
+
+**Droïdes de maintenance**.
+
+Cela signifie :
+
+Des robots qui font les réparations.
+
+---
+
+Ces robots ont un problème.
+Leur **unité de motivation** est défectueuse.
+
+**Unité de motivation**.
+
+Cela signifie :
+
+La partie du robot qui lui dit quoi faire.
+
+---
+
+Les robots cassés peuvent faire des choses dangereuses.
+Par exemple : envoyer de l'électricité.
+
+---
+
+### Ce que vous devez faire
+
+Ne touchez pas aux robots cassés.
+Appelez le service Robotique et Cybernétique tout de suite.
+
+---
+
+---
+
+### QA-Log (Généré automatiquement)
+
+**Termes techniques préservés :**
+- EPI (Équipement de Protection Individuelle)
+- Red Alert
+- Puits de réacteur
+- Décompression
+- Cloisons
+- Droïdes de maintenance
+- Unité de motivation
+
+**Abréviations développées :**
+- PSA → EPI (Équipement de Protection Individuelle)
+- Nr. → numéro
+
+**Mots composés séparés :**
+- Strahlenschutzanzug → Combinaison anti-radiations
+- Notfallabschaltvorrichtung → Boutons d'urgence
+- Sauerstoffmaske → Masque à oxygène

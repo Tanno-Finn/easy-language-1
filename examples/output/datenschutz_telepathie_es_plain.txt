@@ -1,0 +1,52 @@
+Declaración de Privacidad de la App "MindSync" – Versión 4.0
+Según los artículos 13 y 14 del Reglamento General de Protección de Datos (RGPD) y la Directiva de Datos Telepáticos (DDT)
+
+1. Responsable y ámbito de aplicación
+
+Esta declaración regula la recopilación, el procesamiento y el uso de datos neuronales. El responsable es MindSync Corp. Nos tomamos muy en serio la protección de sus secretos más íntimos. Esto es así aunque técnicamente los conocemos todos.
+
+2. Tipos de datos procesados
+
+Al usar los servicios de MindSync recopilamos las siguientes categorías de datos personales:
+
+(a) **Datos básicos:** Nombre, correo electrónico y firma de ondas cerebrales.
+(b) **Datos biométricos:** Patrones de conexión sináptica.
+(c) **Datos de contenido:** Pensamientos conscientes, deseos subconscientes y recuerdos reprimidos de la infancia.
+
+3. Fines del procesamiento y base legal
+
+Procesamos sus pensamientos con base en su consentimiento. La base legal es el artículo 6, apartado 1, letra a del RGPD.
+
+Los fines son:
+
+(a) **Prestación del servicio:** Convertimos sus pensamientos en mensajes de texto. Así usted no necesita escribir.
+
+(b) **Publicidad personalizada:** Analizamos sus deseos espontáneos. Por ejemplo: "Ahora me apetece una pizza". Usamos estos datos para proyectar ofertas de nuestros socios directamente en su corteza visual.
+
+(c) **Prevención de delitos:** Si detectamos patrones de pensamiento que indiquen un intento de dominación mundial, la ley nos obliga a informar a las autoridades.
+
+4. Transmisión a terceros
+
+En principio, no compartimos sus pensamientos más íntimos con terceros. Las excepciones son las siguientes:
+
+- Usted ha aceptado el "Impulso Publicitario".
+- Un Overlord de Inteligencia Artificial todopoderoso nos obliga a hacerlo.
+
+5. Duración del almacenamiento (El "derecho al olvido")
+
+Guardamos sus pensamientos mientras su cuenta de usuario esté activa. Si solicita la eliminación, borraremos sus datos de forma irreversible de nuestros servidores. Tenga en cuenta: No podemos borrar los pensamientos de su propia cabeza. Para eso, consulte a un hipnotizador.
+
+---
+
+### QA-Log
+
+**Términos técnicos utilizados:**
+- RGPD (Reglamento General de Protección de Datos)
+- Datos neuronales
+- Firma de ondas cerebrales
+- Conexión sináptica
+- Corteza visual
+
+**Verificación del nivel lingüístico:**
+- Frases anidadas evitadas: Sí
+- Longitud media de oraciones: aprox. 12 palabras

@@ -1,0 +1,127 @@
+Regole di sicurezza per la stazione spaziale Omega-7
+
+Anno galattico: 3024
+Reparto: Sicurezza del reattore e lavori nello spazio
+
+---
+
+1. Introduzione
+
+Queste regole sono molto importanti.
+Le regole proteggono la tua vita.
+Le regole proteggono la stazione.
+
+Se non segui le regole, ti trasferiamo.
+Ti mandiamo nel reparto tritarifiuti.
+
+---
+
+2. Comportamento vicino al reattore
+
+Il reattore produce energia per la stazione.
+Il settore 7G contiene il reattore.
+Questo settore è pericoloso.
+
+(a) Devi indossare la **PSA**.
+
+Questo significa:
+
+Abbigliamento di protezione personale.
+Serve una tuta contro le radiazioni di classe 4.
+Servono occhiali di protezione.
+
+(b) Solo gli esperti possono toccare il sistema di emergenza.
+Tu non devi toccare il sistema di emergenza.
+
+(c) Se senti la sirena rossa, devi andare via subito.
+Non restare per fare l'eroe.
+Andare via è più importante.
+
+(d) I pozzi del reattore non hanno ringhiere.
+Gli architetti hanno fatto un errore.
+Puoi cadere facilmente.
+Resta a 2 metri dal bordo.
+
+**Reattore**.
+
+Questo significa:
+
+Una macchina che produce energia.
+Usa materiale radioattivo.
+
+**Radiazioni**.
+
+Questo significa:
+
+Energia invisibile.
+Può fare male al tuo corpo.
+
+---
+
+3. Cosa fare se manca l'aria
+
+A volte un meteorite colpisce la stazione.
+A volte un laser nemico colpisce la stazione.
+Allora l'aria può uscire.
+
+Questo si chiama **decompressione**.
+
+Questo significa:
+
+La pressione dell'aria scende.
+L'aria esce nello spazio.
+
+Le porte di sicurezza si chiudono automaticamente.
+
+(a) Respira con calma.
+Respira se c'è ancora aria.
+
+(b) Prendi la maschera di ossigeno più vicina.
+
+(c) Prima aiuta te stesso.
+Poi aiuta gli altri.
+Questo vale anche per i tuoi capi.
+
+---
+
+4. Robot rotti
+
+A volte i robot non funzionano.
+Non riparare i robot da solo.
+
+I robot rotti sono pericolosi.
+Possono dare scosse elettriche.
+
+Chiama il reparto Robotica e Cibernetica.
+Loro riparano i robot.
+
+**Droide**.
+
+Questo significa:
+
+Un robot che lavora sulla stazione.
+
+**Cibernetica**.
+
+Questo significa:
+
+La scienza che studia i robot e le macchine intelligenti.
+
+---
+
+### QA-Log (Generato automaticamente)
+
+**Termini tecnici mantenuti:**
+- PSA (Abbigliamento di protezione personale)
+- Reattore
+- Radiazioni
+- Decompressione
+- Droide
+- Cibernetica
+
+**Abbreviazioni espanse:**
+- PSA → Abbigliamento di protezione personale (Personal Safety Attire)
+
+**Parole composte separate:**
+- Tritarifiuti (trita-rifiuti)
+- Stazione spaziale

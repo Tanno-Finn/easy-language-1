@@ -1,0 +1,148 @@
+# Reglas para alquilar una máquina del tiempo
+
+Esta empresa se llama Chronos-Travel GmbH.
+La empresa alquila máquinas del tiempo.
+
+---
+
+## Artículo 1: Qué alquilamos y qué riesgos hay
+
+Nosotros somos el **arrendador**.
+
+Eso significa:
+
+La empresa que alquila la máquina.
+
+Usted es el **arrendatario**.
+
+Eso significa:
+
+La persona que alquila la máquina.
+
+Usted puede alquilar una máquina del tiempo.
+La máquina se llama: Flux-Master 3000.
+O una máquina parecida.
+
+### Advertencia importante
+
+Viajar en el tiempo es peligroso.
+Usted puede hacerse daño.
+También puede dañar el tiempo y el espacio.
+
+Existe una regla importante.
+Usted no puede cambiar cosas del pasado.
+Por ejemplo: No puede evitar que sus abuelos se conozcan.
+Eso se llama: **Paradoja del abuelo**.
+
+Eso significa:
+
+Si sus abuelos no se conocen, usted no nacerá.
+Entonces no puede viajar al pasado.
+Pero viajó al pasado.
+Eso es imposible.
+
+Está prohibido crear una paradoja del abuelo.
+
+---
+
+## Artículo 2: Sus obligaciones
+
+### Cómo usar la máquina
+
+Usted debe leer las instrucciones.
+Use la máquina solo como dicen las instrucciones.
+
+Está prohibido usar la máquina si usted:
+- Bebió alcohol
+- Tomó drogas
+- Tiene emociones muy fuertes
+
+Por ejemplo: Si está muy triste por amor.
+Por ejemplo: Si quiere vengarse de alguien del pasado.
+
+### Está prohibido hacerse rico con información del futuro
+
+No puede llevar información del futuro al pasado.
+Por ejemplo: Resultados de la lotería.
+Por ejemplo: Información de la bolsa.
+Por ejemplo: Resultados de deportes.
+
+Eso va contra las reglas de ética de los viajes en el tiempo.
+Las siglas son: **ZER**.
+
+Eso significa:
+
+Zeitreise-Ethik-Richtlinie.
+Son las reglas de ética para viajes en el tiempo.
+
+Si usted rompe esta regla:
+- El contrato termina inmediatamente.
+- Usted paga una multa de 50.000 créditos.
+
+---
+
+## Artículo 3: De qué no nos hacemos responsables
+
+### Si usted deja de existir
+
+A veces los viajeros hacen cosas sin pensar en el pasado.
+Por eso dejan de existir.
+Nosotros no somos responsables de eso.
+
+### Si usted queda atrapado en un bucle de tiempo
+
+A veces los viajeros hablan con su yo del pasado.
+Eso puede crear un **bucle de causalidad**.
+
+Eso significa:
+
+El mismo día se repite una y otra vez.
+Usted no puede salir de ese día.
+Es como la película del día de la marmota.
+
+Si eso le pasa a usted:
+Nosotros no pagamos la ayuda psicológica.
+
+### El efecto mariposa
+
+A veces una cosa pequeña causa un problema grande.
+Por ejemplo: Usted pisa un insecto hace millones de años.
+Eso puede cambiar toda la historia.
+Eso se llama: **Efecto mariposa**.
+
+Eso significa:
+
+Un cambio pequeño causa un cambio muy grande.
+
+Si eso pasa, nosotros solo pagamos hasta el monto de la fianza.
+Solo si la ley lo permite.
+
+---
+
+## Artículo 4: Cómo devolver la máquina
+
+Usted debe devolver la máquina.
+Debe devolverla en la misma línea de tiempo.
+
+Eso significa:
+
+El mismo mundo de donde la tomó.
+
+No puede devolverla en otro mundo.
+Por ejemplo: Un mundo donde gobiernan los reptiles.
+Eso no cuenta como devolución correcta.
+
+---
+
+### QA-Log (Generado automáticamente)
+
+**Preserved technical terms:**
+- Arrendador, Arrendatario, Paradoja del abuelo, ZER (Zeitreise-Ethik-Richtlinie), Bucle de causalidad, Efecto mariposa
+
+**Expanded abbreviations:**
+- § → Artículo
+- GmbH → (kept as company name)
+- ZER → Zeitreise-Ethik-Richtlinie (explained in context)
+
+**Hyphenated long words:**
+- None required

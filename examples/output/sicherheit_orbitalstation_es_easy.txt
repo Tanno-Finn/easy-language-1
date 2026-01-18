@@ -1,0 +1,129 @@
+# Instrucciones de seguridad para la Estación Espacial Omega-7
+
+Fecha: Año estándar galáctico 3024
+Departamento: Seguridad del reactor y misiones fuera de la nave
+
+---
+
+## 1. Introducción sobre seguridad en el trabajo
+
+Usted debe seguir estas reglas de seguridad.
+Las reglas protegen su vida.
+Las reglas también protegen la estación.
+
+Si usted no sigue las reglas:
+Lo enviaremos al sector de la basura.
+
+---
+
+## 2. Comportamiento cerca del reactor principal
+
+El reactor está en el Sector 7G.
+
+### Ropa de protección
+
+Cuando entre al Sector 7G, use ropa especial.
+Eso se llama: **Equipo de Protección Personal**.
+
+Eso significa:
+
+Ropa y herramientas que lo protegen.
+
+Usted necesita:
+- Un traje contra la radiación de Clase 4
+- Protección para los ojos
+
+### Apagar el reactor en emergencias
+
+El reactor tiene un sistema de apagado de emergencia.
+Solo personas autorizadas pueden manipularlo.
+Usted no puede tocarlo sin permiso.
+
+### Si suena la alarma
+
+A veces suena una sirena.
+Eso se llama: **Alerta Roja**.
+
+Eso significa:
+
+Hay peligro grave.
+
+Cuando suene la alarma:
+Salga del área inmediatamente.
+No se quede para ser un héroe.
+Eso está prohibido.
+
+### Pozos del reactor abiertos
+
+Hay pozos del reactor abiertos.
+No tienen barandillas.
+Los arquitectos cometieron un error.
+El número del informe es: 1138.
+
+Usted puede caerse fácilmente.
+Mantenga siempre 2 metros de distancia del borde.
+
+---
+
+## 3. Qué hacer si hay una fuga de aire
+
+A veces la estación pierde aire.
+Eso puede pasar por:
+- Un meteorito golpea la estación
+- Un láser enemigo dispara a la estación
+
+Eso se llama: **Descompresión**.
+
+Eso significa:
+
+El aire sale de la estación.
+
+Si esto pasa, las puertas se cierran automáticamente.
+
+### Qué debe hacer usted
+
+**a)** Respire con calma.
+Solo si todavía hay aire.
+
+**b)** Tome la máscara de oxígeno más cercana.
+
+**c)** Ayúdese primero a usted mismo.
+Después ayude a otros.
+También a sus jefes.
+
+---
+
+## 4. Robots de mantenimiento rotos
+
+A veces los robots de mantenimiento se rompen.
+Eso se llama: **Droide**.
+
+Eso significa:
+
+Un robot que hace tareas de mantenimiento.
+
+Si un robot está roto:
+No lo repare usted mismo.
+Los robots rotos son peligrosos.
+Pueden dar descargas eléctricas.
+
+Informe el problema inmediatamente.
+Llame al departamento de Robótica y Cibernética.
+
+---
+
+### QA-Log (Generado automáticamente)
+
+**Preserved technical terms:**
+- Equipo de Protección Personal (PSA)
+- Alerta Roja
+- Descompresión
+- Droide
+- Robótica y Cibernética
+
+**Expanded abbreviations:**
+- PSA → Equipo de Protección Personal
+- Nr. → número
+
+**Hyphenated long words:**
+- None required

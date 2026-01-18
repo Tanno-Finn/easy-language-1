@@ -1,0 +1,150 @@
+Sicherheits-Regeln für die Raum-Station Omega-7
+
+Stand: Galaktisches Standard-Jahr 3024
+Abteilung: Reaktor-Sicherheit und Außen-Einsätze
+
+---
+
+## 1. Warum sind diese Regeln wichtig?
+
+Sie müssen diese Sicherheits-Regeln befolgen.
+Sonst können Sie verletzt werden.
+Oder die Station kann kaputt gehen.
+
+Wenn Sie die Regeln nicht befolgen:
+Dann müssen Sie in den Müll-Pressen-Bereich arbeiten.
+
+---
+
+## 2. Regeln für den Bereich von dem Energie-Kern
+
+### Was müssen Sie anziehen?
+
+Sie betreten den Bereich 7G.
+Dann müssen Sie Schutz-Kleidung tragen.
+Die Schutz-Kleidung heißt: **PSA**.
+
+Das heißt:
+
+Persönliche Schutz-Ausrüstung.
+
+Die PSA besteht aus:
+- Einem Strahlen-Schutz-Anzug (Klasse 4)
+- Einem Blend-Schutz für die Augen
+
+Sie müssen die PSA immer komplett tragen.
+
+### Was ist verboten?
+
+Es gibt eine **Not-Fall-Abschaltung**.
+
+Das heißt:
+
+Ein System zum schnellen Ausschalten von dem Reaktor.
+
+Nur Fach-Personal darf diese Abschaltung umgehen.
+Sie sind kein Fach-Personal?
+Dann dürfen Sie die Abschaltung nicht umgehen.
+
+### Was tun bei Alarm?
+
+Sie hören eine Sirene.
+Die Sirene heißt: **Red Alert**.
+
+Das heißt:
+
+Roter Alarm.
+Es gibt eine Gefahr.
+
+Dann müssen Sie den Bereich sofort verlassen.
+Sie dürfen nicht bleiben.
+Auch nicht um anderen zu helfen.
+Das ist verboten.
+
+### Achtung: Offene Schächte!
+
+Es gibt offene **Reaktor-Schächte**.
+
+Das heißt:
+
+Tiefe Löcher neben dem Reaktor.
+
+Diese Schächte haben kein Geländer.
+Das ist ein Bau-Fehler.
+Sie können in die Schächte fallen.
+
+Halten Sie immer 2 Meter Abstand von der Kante.
+
+---
+
+## 3. Regeln bei Druck-Abfall
+
+Manchmal gibt es einen Druck-Abfall.
+Das nennt man: **Dekompression**.
+
+Das heißt:
+
+Die Luft entweicht aus der Station.
+
+Das kann passieren durch:
+- Einen Meteoriten-Einschlag
+- Einen Laser-Beschuss von dem Feind
+
+Was passiert dann?
+Die Station schließt automatisch alle Türen.
+Das nennt man: **Schotten-Verriegelung**.
+
+Das heißt:
+
+Schwere Türen schließen sich.
+So bleibt die Luft in anderen Bereichen.
+
+### Was müssen Sie tun?
+
+1. Atmen Sie ruhig.
+   Aber nur wenn noch Luft da ist.
+
+2. Greifen Sie eine Sauerstoff-Maske.
+   Die Masken hängen an der Wand.
+
+3. Helfen Sie zuerst sich selbst.
+   Dann helfen Sie anderen Menschen.
+   Das gilt auch für Ihre Chefs.
+
+---
+
+## 4. Regeln für kaputte Roboter
+
+Es gibt **Wartungs-Droiden**.
+
+Das heißt:
+
+Roboter für Reparaturen.
+
+Manchmal gehen diese Roboter kaputt.
+
+**Wichtig:**
+Reparieren Sie die Roboter nicht selbst!
+Die Roboter haben fehlerhafte Teile.
+Diese Teile können Strom-Schläge verursachen.
+
+Was müssen Sie tun?
+Melden Sie den kaputten Roboter.
+Rufen Sie die Abteilung Robotik und **Kybernetik**.
+
+Das heißt:
+
+Die Abteilung für Roboter und Computer-Technik.
+
+---
+
+### QA-Log (Automatisch generiert)
+
+**Beibehaltene Fachbegriffe:**
+- PSA (Persönliche Schutz-Ausrüstung), Red Alert, Dekompression, Schotten-Verriegelung, Wartungs-Droiden, Kybernetik
+
+**Aufgelöste Abkürzungen:**
+- PSA -> Persönliche Schutz-Ausrüstung
+
+**Getrennte Komposita:**
+- Raum-Station, Reaktor-Sicherheit, Außen-Einsätze, Sicherheits-Regeln, Müll-Pressen-Bereich, Energie-Kern, Schutz-Kleidung, Schutz-Ausrüstung, Strahlen-Schutz-Anzug, Blend-Schutz, Not-Fall-Abschaltung, Fach-Personal, Reaktor-Schächte, Bau-Fehler, Druck-Abfall, Meteoriten-Einschlag, Laser-Beschuss, Schotten-Verriegelung, Sauerstoff-Maske, Wartungs-Droiden, Strom-Schläge, Computer-Technik

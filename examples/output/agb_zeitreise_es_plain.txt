@@ -1,0 +1,70 @@
+# Condiciones Generales de Chronos-Travel GmbH para el Alquiler de Dispositivos de Viaje en el Tiempo
+
+## § 1 Objeto del Contrato y Aviso de Riesgos
+
+Chronos-Travel GmbH (el "arrendador") le proporciona un dispositivo de viaje en el tiempo. El modelo se llama "Flux-Master 3000" o similar.
+
+**Aviso importante:** Usar este dispositivo conlleva riesgos significativos. Puede afectar su integridad física y el continuo espacio-tiempo.
+
+Está estrictamente prohibido cambiar eventos históricos. Especialmente si esto pudiera crear la llamada "Paradoja del Abuelo". Esto significa: no puede hacer nada que impida su propio nacimiento.
+
+---
+
+## § 2 Obligaciones del Usuario
+
+### Uso correcto del dispositivo
+
+Usted debe usar el dispositivo solo según el manual de instrucciones.
+
+**Está prohibido usar el dispositivo cuando usted:**
+- Ha consumido alcohol o drogas
+- Tiene emociones fuertes, por ejemplo, mal de amores
+- Quiere vengarse de personajes históricos
+
+### Prohibición de enriquecimiento
+
+No puede llevar información del futuro al pasado para enriquecerse. Esto incluye:
+- Almanaques deportivos
+- Informes de bolsa
+- Resultados de lotería
+
+Este comportamiento viola la Directiva de Ética de Viajes en el Tiempo (ZER). La consecuencia es la terminación inmediata del contrato. Además, deberá pagar una multa de 50.000 créditos.
+
+---
+
+## § 3 Exclusión de Responsabilidad en Violaciones de Causalidad
+
+### Autoextinción accidental
+
+El arrendador no es responsable si usted borra accidentalmente su propia existencia. Esto puede ocurrir por acciones imprudentes en el pasado.
+
+### Bucle temporal
+
+Si usted crea un bucle de causalidad al encontrarse con su yo del pasado, puede quedar atrapado. Vivirá el mismo día una y otra vez (el "Escenario del Día de la Marmota").
+
+El arrendador no pagará por su tratamiento psicológico después de ser liberado del bucle.
+
+### Efecto mariposa
+
+El "efecto mariposa" significa que pequeñas acciones pueden tener grandes consecuencias. Por ejemplo: pisar un insecto en el período Cretácico podría causar la extinción de la humanidad.
+
+Para tales daños, la responsabilidad del arrendador está limitada al monto del depósito pagado. Esto aplica solo si la ley lo permite.
+
+---
+
+## § 4 Devolución del Dispositivo
+
+Usted debe devolver el dispositivo exactamente en la línea temporal de la que fue tomado.
+
+**Atención:** Una devolución en una línea temporal alternativa no es válida. Por ejemplo, una donde la Tierra es gobernada por reptiles inteligentes.
+
+---
+
+### QA-Log
+
+**Términos técnicos usados:**
+- Continuo espacio-tiempo, Paradoja del Abuelo, Causalidad, Bucle temporal, Efecto mariposa, Línea temporal
+
+**Verificación de nivel de lenguaje:**
+- Frases anidadas evitadas: Sí
+- Longitud promedio de frases: aprox. 12 palabras

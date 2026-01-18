@@ -26,9 +26,9 @@ Jede Direktive MUSS enthalten:
   - Claude kann [C] Marker bei Verbesserungen anpassen
 
 ### Dateistruktur [C]
-- Speicherort: `/directives/[NAME].MD`
-- Naming: ALLCAPS fur Dateinamen (z.B. `COMMITS.MD`)
-- Referenz in CLAUDE.md hinzufugen
+- Speicherort: `/directives/[name].md`
+- Naming: kebab-case (lowercase with hyphens, e.g., `easy-read.md`, `commits.md`)
+- Referenz in CLAUDE.md hinzufügen
 
 ## Anti-Patterns [M]
 - Direktiven ohne [M] Marker fur Pflichtanforderungen erstellen [M]

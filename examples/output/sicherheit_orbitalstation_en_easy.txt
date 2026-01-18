@@ -1,0 +1,141 @@
+Safety Instructions for Staff on Orbital Station Omega-7
+
+Date: Galactic Standard Year 3024
+
+Department: Reactor Core Safety and Space-walks
+
+---
+
+1. Introduction to Work Safety
+
+You must follow these safety rules.
+The rules protect your life.
+The rules also protect the station.
+
+If you break the rules:
+You will be sent to work in the garbage compactor section.
+
+---
+
+2. How to Behave Near the Main Energy Core
+
+Section a:
+You must wear **PPE** when you enter Sector 7G.
+
+That means:
+
+Personal Protective Equipment.
+
+Your PPE includes 2 items.
+
+Item 1: A radiation suit (Class 4).
+
+Item 2: Eye protection against bright light.
+
+You must wear all items.
+No gaps allowed.
+
+Section b:
+Only special staff can turn off the **emergency shut-down device**.
+
+That means:
+
+The system that stops the reactor in danger.
+
+You need permission to touch it.
+
+Section c:
+You may hear a loud alarm.
+This alarm is called "Red Alert".
+You must leave the danger area right away.
+
+Do not stay to be a hero.
+That is not allowed.
+
+Section d:
+There are open reactor shafts.
+These shafts have no railings.
+This is a design problem.
+See report number 1138.
+
+You could fall into the shaft.
+Stay at least 2 metres away from the edge.
+
+---
+
+3. What to Do When Air Pressure Drops
+
+This is called **decompression**.
+
+That means:
+
+Air escapes from the station.
+
+This can happen for 2 reasons.
+
+Reason 1: A meteor hits the station.
+
+Reason 2: Enemy lasers damage the hull.
+
+The station has **bulkhead locks**.
+
+That means:
+
+Big doors that close to seal off sections.
+
+These doors close by themselves.
+
+Follow these 3 steps:
+
+Step a:
+Keep breathing calmly.
+Only if there is still air.
+
+Step b:
+Grab the nearest emergency oxygen mask.
+
+Step c:
+Help yourself first.
+Then help others.
+This includes your boss.
+
+---
+
+4. How to Handle Broken Droids
+
+**Droids** are robots that do maintenance work.
+
+Sometimes droids stop working.
+Do not try to fix them yourself.
+
+Some droids have broken **motivator units**.
+
+That means:
+
+The part that makes them move.
+
+Broken motivators can cause electric shocks.
+These shocks are dangerous.
+
+Report all broken droids right away.
+Tell the Department of Robotics and Cybernetics.
+
+---
+
+### QA Log (Auto-generated)
+
+**Preserved Technical Terms:**
+- PPE (Personal Protective Equipment) - explained
+- Emergency shut-down device - explained
+- Decompression - explained
+- Bulkhead locks - explained
+- Droids - explained
+- Motivator units - explained
+
+**Expanded Abbreviations:**
+- PPE -> Personal Protective Equipment
+- Nr. -> number
+
+**Split Compound Words:**
+- Space-walks
+- Shut-down

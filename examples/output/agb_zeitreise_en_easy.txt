@@ -1,0 +1,189 @@
+# Terms and Conditions of Chronos-Travel GmbH
+
+## About Time-Travel Devices
+
+---
+
+## Section 1: What This Contract Is About
+
+**Chronos-Travel GmbH**.
+
+That means:
+
+The company that rents out the device.
+
+We call them "the rental company" in this text.
+
+---
+
+**Customer**.
+
+That means:
+
+The person who rents the device.
+
+We call them "the renter" in this text.
+
+---
+
+The rental company gives you a device.
+The device can move you through time.
+The device is called "Flux-Master 3000".
+You can use the device for a set time.
+
+---
+
+### Important Warning
+
+Using this device is dangerous.
+It can hurt your body.
+It can also damage the **space-time continuum**.
+
+That means:
+
+The way that space and time work together.
+
+---
+
+You must never change things that happened in the past.
+This could cause a **Grandfather Paradox**.
+
+That means:
+
+When you change the past, you might stop yourself from being born.
+This is not allowed.
+
+---
+
+## Section 2: Your Duties as a Renter
+
+### How to Use the Device
+
+You must read the manual.
+You must follow the manual.
+
+---
+
+### You Must Not Use the Device When:
+
+- You drank alcohol.
+- You took drugs.
+- You feel very strong emotions.
+
+Examples of strong emotions:
+- Heart-break.
+- Wanting to hurt famous people from the past.
+
+---
+
+### Forbidden Items
+
+You must not bring these items from the future to the past:
+- Sports results books.
+- Stock market reports.
+- Lottery numbers.
+
+You must not use this information to get rich.
+
+---
+
+This breaks the **Time-Travel Ethics Directive (ZER)**.
+
+That means:
+
+The rules about what is right and wrong in time travel.
+
+---
+
+If you break this rule:
+- Your contract ends right away.
+- You must pay a fine of 50,000 credits.
+
+---
+
+## Section 3: What We Are Not Responsible For
+
+### Erasing Yourself
+
+You might do something in the past.
+That action might erase you from existence.
+We are not responsible for this.
+
+---
+
+### Time Loops
+
+You might meet yourself from the past.
+This could create a **causality loop**.
+
+That means:
+
+The same day happens again and again.
+You are stuck in that day forever.
+
+This is like the film "Ground-hog Day".
+
+---
+
+We will not pay for therapy after you escape the loop.
+
+---
+
+### Butterfly Effect
+
+The **butterfly effect** can cause big problems.
+
+That means:
+
+A small action in the past can change everything in the future.
+
+Example:
+You step on a bug 65 million years ago.
+This could cause humans to never exist.
+
+---
+
+If this happens:
+We only pay back the deposit you gave us.
+The law must allow this.
+
+---
+
+## Section 4: Returning the Device
+
+You must return the device.
+You must return it to the exact time-line where you got it.
+
+---
+
+**Time-line**.
+
+That means:
+
+One version of how events happen.
+
+---
+
+You cannot return the device to a different time-line.
+For example: A world where intelligent lizard-people rule the Earth.
+This does not count as a proper return.
+
+---
+
+---
+
+### QA Log (Auto-generated)
+
+**Preserved Technical Terms:**
+- Chronos-Travel GmbH
+- Flux-Master 3000
+- space-time continuum
+- Grandfather Paradox
+- Time-Travel Ethics Directive (ZER)
+- causality loop
+- butterfly effect
+- time-line
+
+**Expanded Abbreviations:**
+- GmbH (kept as company name identifier)
+- ZER (Zeit-reise-Ethik-Richt-linie / Time-Travel Ethics Directive)
