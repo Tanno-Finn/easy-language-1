@@ -108,7 +108,7 @@ easy-language-1/
 ├── CLAUDE.md                 # Hauptkonfiguration (Routing-Logik)
 ├── README.md                 # Diese Datei
 │
-├── direktiven/               # Übersetzungsregeln
+├── directives/               # Übersetzungsregeln
 │   ├── leichte-sprache.md    # A1/A2 mit Hybrid-Regel
 │   └── einfache-sprache.md   # B1 für Business
 │
@@ -186,8 +186,8 @@ Jede Übersetzung enthält automatisch einen Qualitäts-Anhang:
 |----------|--------|
 | [Vision](docs/vision.md) | Projektziele & Prinzipien |
 | [Architektur](docs/architecture.md) | Technische Details & Setup |
-| [Leichte Sprache Direktive](direktiven/leichte-sprache.md) | Alle Regeln für A1/A2 |
-| [Einfache Sprache Direktive](direktiven/einfache-sprache.md) | Alle Regeln für B1 |
+| [Leichte Sprache Direktive](directives/leichte-sprache.md) | Alle Regeln für A1/A2 |
+| [Einfache Sprache Direktive](directives/einfache-sprache.md) | Alle Regeln für B1 |
 
 ---
 

@@ -1,0 +1,149 @@
+# Sicherheits-Regeln für die Raum-Station Omega-7
+
+Das ist eine wichtige Unterweisung.
+Sie müssen diese Regeln kennen.
+Das Jahr ist: 3024.
+
+Diese Regeln gelten für:
+
+- Die Arbeit am Reaktor-Kern
+- Arbeiten ausserhalb der Station
+
+---
+
+## 1. Warum diese Regeln wichtig sind
+
+Sie müssen sich an diese Regeln halten.
+Die Regeln schützen:
+
+- Ihr Leben
+- Ihren Körper
+- Die Raum-Station
+
+Wenn Sie die Regeln nicht befolgen:
+Dann müssen Sie im Müll-Pressen-Trakt arbeiten.
+
+---
+
+## 2. Regeln für den Energie-Kern
+
+Der Energie-Kern ist im Sektor 7G.
+
+---
+
+### Die richtige Schutz-Kleidung
+
+Sie brauchen eine **persönliche Schutz-Ausrüstung**.
+
+Das heisst:
+
+Kleidung und Geräte, die Sie schützen.
+Die Abkürzung ist: PSA.
+
+Sie brauchen:
+
+- Einen Strahlen-Schutz-Anzug Klasse 4
+- Einen Blend-Schutz für die Augen
+
+---
+
+### Wichtiges Verbot
+
+Sie dürfen die **Notfall-Abschaltung** nicht selbst überbrücken.
+Das dürfen nur Fach-Leute.
+
+---
+
+### Alarm
+
+Wenn Sie eine Sirene hören:
+Das ist ein **Red Alert**.
+
+Das heisst:
+
+Ein Alarm für grosse Gefahr.
+
+Sie müssen sofort gehen.
+Sie dürfen nicht bleiben und helfen.
+Das ist verboten.
+
+---
+
+### Absturz-Gefahr
+
+Es gibt offene Schächte.
+Diese Schächte haben **kein Geländer**.
+Das steht im Bericht Nummer 1138.
+
+Bleiben Sie mindestens 2 Meter weg vom Rand.
+Sonst können Sie hinunter-fallen.
+
+---
+
+## 3. Was tun bei Druck-Abfall?
+
+Die Hülle der Station kann kaputt gehen.
+Zum Beispiel durch:
+
+- Einen Meteoriten
+- Einen Laser-Beschuss
+
+Dann passiert eine **Dekompression**.
+
+Das heisst:
+
+Die Luft entweicht.
+Der Druck sinkt schnell.
+
+---
+
+### Was Sie tun müssen
+
+1. Atmen Sie ruhig weiter.
+   Aber nur, wenn noch Luft da ist.
+
+2. Greifen Sie zur nächsten Sauerstoff-Maske.
+
+3. Helfen Sie zuerst sich selbst.
+   Dann helfen Sie anderen.
+   Das gilt auch für Chefs.
+
+---
+
+## 4. Kaputte Roboter
+
+Manchmal gehen die Wartungs-Droiden kaputt.
+Ein **Droid** ist ein Roboter.
+
+Das heisst:
+
+Eine Maschine, die selbst-ständig arbeitet.
+
+---
+
+### Wichtig
+
+Reparieren Sie den Droid nicht selbst.
+Es kann einen Strom-Schlag geben.
+Das liegt an kaputten **Motivator-Einheiten**.
+
+Das heisst:
+
+Ein Teil im Roboter, das oft kaputt geht.
+
+Melden Sie das Problem sofort.
+Die Abteilung heisst: Robotik und Kybernetik.
+
+---
+
+### QA-Log (Automatisch generiert)
+
+**Beibehaltene Fachbegriffe:**
+- Persönliche Schutz-Ausrüstung (PSA), Red Alert, Dekompression, Droid, Motivator-Einheit
+
+**Aufgelöste Abkürzungen:**
+- PSA -> Persönliche Schutz-Ausrüstung
+- Nr. -> Nummer
+
+**Getrennte Komposita:**
+- Raum-Station, Reaktor-Kern, Sicherheits-Regeln, Müll-Pressen-Trakt, Energie-Kern, Schutz-Kleidung, Schutz-Ausrüstung, Strahlen-Schutz-Anzug, Blend-Schutz, Notfall-Abschaltung, Druck-Abfall, Laser-Beschuss, Sauerstoff-Maske, Strom-Schlag, Wartungs-Droiden

@@ -1,0 +1,21 @@
+Sicherheitsunterweisung für Personal auf der Orbitalstation Omega-7
+Stand: Galaktisches Standardjahr 3024
+Abteilung: Reaktorkernsicherheit und Außenbordeinsätze
+
+1. Präambel zur Arbeitssicherheit
+Die Einhaltung der nachfolgenden Sicherheitsvorschriften ist zwingend erforderlich, um Leib, Leben und die strukturelle Integrität der Station zu gewährleisten. Zuwiderhandlungen werden mit sofortiger Versetzung in den Müllpressen-Trakt geahndet.
+
+2. Verhalten im Bereich des Primärenergiekerns
+(a) Beim Betreten des Sektors 7G ist die persönliche Schutzausrüstung (PSA), bestehend aus Strahlenschutzanzug Klasse IV und visuellem Blendschutz, lückenlos zu tragen.
+(b) Die manuelle Überbrückung der Notfallabschaltvorrichtung ist ausschließlich autorisiertem Fachpersonal gestattet.
+(c) Sollte ein akustisches Warnsignal (Sirene Typ "Red Alert") ertönen, ist der Gefahrenbereich umgehend zu evakuieren. Das Verweilen zum Zwecke der Heldentat ist untersagt.
+(d) Offene Reaktorschächte sind bauseitig nicht mit Geländern gesichert (siehe Architekten-Mangelbericht Nr. 1138). Es gilt erhöhte Absturzgefahr. Mitarbeiter sind angehalten, stets einen Mindestabstand von 2 Metern zur Schachtkante einzuhalten.
+
+3. Prozedere bei Druckabfall (Dekompression)
+Im Falle einer strukturellen Hüllenbeschädigung durch Meteoriteneinschlag oder feindlichen Laserbeschuss werden automatisch die Schottenverriegelungsmechanismen aktiviert.
+(a) Atmen Sie ruhig weiter, sofern noch Atmosphäre vorhanden ist.
+(b) Greifen Sie die nächstgelegene Notfall-Sauerstoffmaske.
+(c) Helfen Sie erst sich selbst, dann anderen (auch Vorgesetzten).
+
+4. Umgang mit defekten Droiden
+Funktionsuntüchtige Wartungsdroiden sind nicht eigenmächtig zu reparieren. Aufgrund fehlerhafter Motivator-Einheiten besteht die Gefahr unvorhersehbarer elektrischer Entladungen. Melden Sie Störungen unverzüglich an die Abteilung Robotik und Kybernetik.

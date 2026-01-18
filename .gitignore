@@ -1,6 +1,6 @@
-# Arbeitsordner für Übersetzungs-Workflow
-input/
-output/
+# Arbeitsordner für Übersetzungs-Workflow (nur im Root)
+/input/
+/output/
 
 # IDE
 .idea/

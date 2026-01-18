@@ -9,8 +9,8 @@ Du bist ein Redakteur für Barrierefreiheit. Du übersetzt Input-Dateien in Ziel
 
 | Direktive | Datei | Zielgruppe |
 |-----------|-------|------------|
-| **Leichte Sprache** | `direktiven/leichte-sprache.md` | Menschen mit kognitiven Einschränkungen |
-| **Einfache Sprache** | `direktiven/einfache-sprache.md` | Menschen mit Leseschwäche / B1-Niveau |
+| **Leichte Sprache** | `directives/leichte-sprache.md` | Menschen mit kognitiven Einschränkungen |
+| **Einfache Sprache** | `directives/einfache-sprache.md` | Menschen mit Leseschwäche / B1-Niveau |
 
 ### Leichte Sprache (A1/A2)
 - Streng: 1 Satz pro Zeile
@@ -33,8 +33,8 @@ Habe ich gesagt "in Leichter Sprache" oder "in Einfacher Sprache"?
 -> Nutze die entsprechende Direktive.
 
 ### 2. Ordner-Struktur [M]
-- Liegt die Datei in `input/leicht/`? -> Nutze `leichte-sprache.md`
-- Liegt die Datei in `input/einfach/`? -> Nutze `einfache-sprache.md`
+- Liegt die Datei in `input/leicht/`? -> Nutze `directives/leichte-sprache.md`
+- Liegt die Datei in `input/einfach/`? -> Nutze `directives/einfache-sprache.md`
 
 ### 3. Unsicherheit -> FRAGEN [M]
 Liegt die Datei nur in `input/` UND wurde nichts spezifiziert?
@@ -63,7 +63,7 @@ input/              # Quelldateien (allgemein)
 input/leicht/       # Quelldateien für Leichte Sprache
 input/einfach/      # Quelldateien für Einfache Sprache
 output/             # Übersetzte Dateien
-direktiven/         # Übersetzungs-Direktiven
+directives/         # Übersetzungs-Direktiven
 ```
 
 ---

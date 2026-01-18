@@ -1,0 +1,54 @@
+# Sicherheitsunterweisung Orbitalstation Omega-7
+
+**Stand:** Galaktisches Standardjahr 3024
+**Bereich:** Reaktorkernsicherheit und Außenbordeinsätze
+
+---
+
+## 1. Allgemeines
+
+Die folgenden Sicherheitsvorschriften sind verbindlich. Sie schützen Ihr Leben und die Unversehrtheit der Station. Bei Verstößen droht eine Versetzung in den Müllpressen-Trakt.
+
+---
+
+## 2. Verhalten am Primärenergiekern (Sektor 7G)
+
+**Schutzausrüstung (PSA):** Beim Betreten des Sektors müssen Sie die persönliche Schutzausrüstung tragen:
+- Strahlenschutzanzug Klasse IV
+- Visueller Blendschutz
+
+**Notfallsysteme:** Die manuelle Überbrückung der Notfallabschaltung ist nur autorisiertem Fachpersonal gestattet.
+
+**Alarm ("Red Alert"):** Wenn die Sirene ertönt, verlassen Sie den Bereich sofort. Bleiben Sie nicht, um anderen zu helfen – das ist verboten.
+
+**Absturzgefahr:** Die Reaktorschächte haben keine Geländer (siehe Mangelbericht Nr. 1138). Halten Sie immer mindestens 2 Meter Abstand zur Schachtkante.
+
+---
+
+## 3. Druckabfall (Dekompression)
+
+Bei einem Hüllenbruch durch Meteoriteneinschlag oder Laserbeschuss werden die Schotten automatisch verriegelt.
+
+**Ihre Aufgaben:**
+1. Ruhig bleiben und weiteratmen (sofern noch Atmosphäre vorhanden ist).
+2. Die nächste Sauerstoffmaske greifen.
+3. Erst sich selbst helfen, dann anderen – auch wenn es Vorgesetzte sind.
+
+---
+
+## 4. Defekte Droiden
+
+Funktionsuntüchtige Wartungsdroiden dürfen Sie nicht selbst reparieren. Wegen fehlerhafter Motivator-Einheiten besteht die Gefahr von elektrischen Entladungen.
+
+**Melden Sie Störungen sofort** an die Abteilung Robotik und Kybernetik.
+
+---
+
+### QA-Log
+
+**Verwendete Fachbegriffe:**
+- PSA (Persönliche Schutzausrüstung), Red Alert, Dekompression, Motivator-Einheit
+
+**Sprach-Niveau Check:**
+- Schachtelsätze vermieden: Ja
+- Durchschnittliche Satzlänge: ca. 12 Wörter

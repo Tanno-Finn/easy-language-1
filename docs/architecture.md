@@ -15,7 +15,7 @@
 │           ┌───────────────┼───────────────┐                    │
 │           ▼               ▼               ▼                    │
 │      ┌────────┐     ┌──────────┐    ┌──────────┐              │
-│      │ input/ │     │direktiven│    │  output/ │              │
+│      │ input/ │     │directives│    │  output/ │              │
 │      └────────┘     └──────────┘    └──────────┘              │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -34,11 +34,11 @@ easy-language-1/
 │   ├── vision.md             # Projektziel, Zielgruppen, Prinzipien
 │   └── architecture.md       # Technische Architektur (diese Datei)
 │
-├── direktiven/               # Übersetzungs-Direktiven
-│   ├── leichte-sprache.md    # Regeln für A1/A2-Niveau
-│   ├── einfache-sprache.md   # Regeln für B1-Niveau
-│   ├── commits.md            # Git-Commit-Richtlinien
-│   └── direktive.md          # Meta: Wie neue Direktiven erstellt werden
+├── directives/              # Übersetzungs-Direktiven
+│   ├── leichte-sprache.md   # Regeln für A1/A2-Niveau
+│   ├── einfache-sprache.md  # Regeln für B1-Niveau
+│   ├── commits.md           # Git-Commit-Richtlinien
+│   └── direktive.md         # Meta: Wie neue Direktiven erstellt werden
 │
 ├── scripts/                  # Setup- und Hilfsskripte
 │   ├── setup.ps1             # Windows-Setup (PowerShell)
@@ -46,10 +46,9 @@ easy-language-1/
 │   ├── convert.ps1           # Markdown → Word Konvertierung
 │   └── requirements.txt      # Python-Abhängigkeiten
 │
-├── input/                    # Quelldateien (gitignored)
-│   ├── leicht/               # Dateien für Leichte Sprache
-│   ├── einfach/              # Dateien für Einfache Sprache
-│   └── erledigt/             # Archiv bearbeiteter Dateien
+├── input/                   # Quelldateien (gitignored)
+│   ├── leicht/              # Dateien für Leichte Sprache
+│   └── einfach/             # Dateien für Einfache Sprache
 │
 └── output/                   # Übersetzte Dateien (gitignored)
 ```
@@ -136,7 +135,7 @@ chmod +x scripts/setup.sh
 1. **Chocolatey prüfen/installieren** (nur Windows)
 2. **Pandoc installieren** - Für Markdown ↔ Word Konvertierung
 3. **Python-Abhängigkeiten installieren** - `python-docx` für Word-Dokumente
-4. **Ordnerstruktur erstellen** - `input/`, `input/erledigt/`, `output/`
+4. **Ordnerstruktur erstellen** - `input/`, `output/`
 
 ### Manuelle Installation
 
@@ -210,8 +209,8 @@ Direktiven verwenden ein Marker-System zur Kennzeichnung von Regeln:
 
 ### Neue Direktive hinzufügen
 
-1. Neue `.md`-Datei in `direktiven/` erstellen
-2. Template aus `direktiven/direktive.md` verwenden
+1. Neue `.md`-Datei in `directives/` erstellen
+2. Template aus `directives/direktive.md` verwenden
 3. In `CLAUDE.md` unter "Verfügbare Direktiven" eintragen
 
 ### Neue Sprache/Niveau hinzufügen

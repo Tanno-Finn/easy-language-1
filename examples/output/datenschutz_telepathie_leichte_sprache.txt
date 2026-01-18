@@ -1,0 +1,152 @@
+# Daten-Schutz-Erklärung für MindSync
+
+Diese App heisst: **MindSync**.
+Die Firma heisst: MindSync Corp.
+Diese Erklärung ist für Version 4.0.
+
+---
+
+## 1. Wer ist verantwortlich?
+
+Die Firma MindSync Corp ist verantwortlich.
+Sie speichert Ihre Daten.
+Wir halten uns an Gesetze.
+
+Das erste Gesetz heisst: **DSGVO**.
+
+Das heisst:
+
+Daten-Schutz-Grund-Verordnung.
+Das ist ein Gesetz für Daten-Schutz.
+
+Das zweite Gesetz heisst: **TDR**.
+
+Das heisst:
+
+Telepathie-Daten-Richtlinie.
+Das sind Regeln für Gedanken-Daten.
+
+---
+
+## 2. Welche Daten speichern wir?
+
+Wir speichern verschiedene Daten von Ihnen.
+
+---
+
+### Stamm-Daten
+
+Das sind zum Beispiel:
+
+- Ihr Name
+- Ihre E-Mail-Adresse
+- Ihre Gehirn-Wellen-Signatur
+
+---
+
+### Biometrische Daten
+
+Das sind Daten über Ihren Körper.
+Zum Beispiel:
+
+- Ihre **synaptischen Verknüpfungs-Muster**.
+
+Das heisst:
+
+Wie die Nerven in Ihrem Gehirn verbunden sind.
+
+---
+
+### Inhalts-Daten
+
+Das sind Daten über Ihre Gedanken.
+Zum Beispiel:
+
+- Bewusste Gedanken
+- Unbewusste Wünsche
+- Erinnerungen aus der Kindheit
+
+---
+
+## 3. Warum speichern wir Ihre Daten?
+
+Wir brauchen Ihre Erlaubnis.
+Das steht im Gesetz.
+Das ist Artikel 6, Absatz 1, Buchstabe a der DSGVO.
+
+---
+
+### Grund 1: Die App funktioniert
+
+Wir wandeln Ihre Gedanken in Text um.
+So müssen Sie nicht tippen.
+
+---
+
+### Grund 2: Werbung
+
+Wir schauen Ihre Gedanken an.
+Zum Beispiel: "Ich möchte jetzt Pizza."
+Dann zeigen wir Ihnen Pizza-Werbung.
+Die Werbung erscheint direkt in Ihrem Kopf.
+Die Fach-Leute sagen: Im **visuellen Kortex**.
+
+Das heisst:
+
+Der Teil vom Gehirn, der sieht.
+
+---
+
+### Grund 3: Verbrechen verhindern
+
+Manchmal erkennen wir gefährliche Gedanken.
+Zum Beispiel: Pläne für Welt-Herrschaft.
+Dann müssen wir das der Polizei sagen.
+Das ist ein Gesetz.
+
+---
+
+## 4. Wer bekommt Ihre Daten?
+
+Normalerweise bekommt niemand Ihre Gedanken.
+
+Es gibt Ausnahmen:
+
+- Sie haben dem **Werbe-Boost** zugestimmt.
+- Eine mächtige KI zwingt uns dazu.
+
+---
+
+## 5. Wie lange speichern wir Ihre Daten?
+
+Wir speichern Ihre Daten, solange Sie die App nutzen.
+
+Sie können sagen: Bitte löschen.
+Das ist das **Recht auf Vergessen-Werden**.
+
+Das heisst:
+
+Sie dürfen verlangen, dass wir Ihre Daten löschen.
+
+Dann löschen wir alles von unseren Computern.
+
+**Wichtig:**
+Wir können die Gedanken nicht aus Ihrem Kopf löschen.
+Dafür brauchen Sie einen Hypnotiseur.
+
+---
+
+### QA-Log (Automatisch generiert)
+
+**Beibehaltene Fachbegriffe:**
+- DSGVO, TDR, synaptische Verknüpfungs-Muster, visueller Kortex, Recht auf Vergessen-Werden
+
+**Aufgelöste Abkürzungen:**
+- DSGVO -> Daten-Schutz-Grund-Verordnung
+- TDR -> Telepathie-Daten-Richtlinie
+- Art. -> Artikel
+- Abs. -> Absatz
+- lit. -> Buchstabe
+
+**Getrennte Komposita:**
+- Daten-Schutz-Erklärung, Daten-Schutz-Grund-Verordnung, Telepathie-Daten-Richtlinie, Gehirn-Wellen-Signatur, Verknüpfungs-Muster, Inhalts-Daten, Stamm-Daten, Welt-Herrschaft, Vergessen-Werden

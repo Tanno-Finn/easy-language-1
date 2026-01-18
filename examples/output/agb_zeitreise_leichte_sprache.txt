@@ -1,0 +1,150 @@
+# Regeln für die Zeit-Reise
+
+Das sind die Regeln von der Firma Chronos-Travel.
+Die Firma verleiht Geräte für Zeit-Reisen.
+
+---
+
+## Paragraf 1: Was wir Ihnen geben
+
+Die Firma Chronos-Travel heisst auch: **Vermieter**.
+
+Das heisst:
+
+Wir verleihen etwas an Sie.
+
+Sie heissen: **Mieter**.
+
+Das heisst:
+
+Sie leihen etwas von uns.
+
+---
+
+Wir geben Ihnen ein Gerät.
+Das Gerät heisst: **Flux-Master 3000**.
+Mit diesem Gerät können Sie durch die Zeit reisen.
+
+---
+
+### Warnung
+
+Zeit-Reisen sind gefährlich.
+Sie können sich verletzen.
+Sie können die Geschichte verändern.
+
+Es gibt ein wichtiges Verbot.
+Das Verbot heisst: **Grossvater-Paradoxon**.
+
+Das heisst:
+
+Sie dürfen nichts tun, das Ihre Geburt verhindert.
+Zum Beispiel: Ihren Gross-Vater treffen und etwas Schlimmes tun.
+
+Das ist strengstens verboten.
+
+---
+
+## Paragraf 2: Was Sie tun müssen
+
+Sie müssen die Anleitung lesen.
+Sie müssen sich an die Anleitung halten.
+
+---
+
+### Verbote
+
+Sie dürfen das Gerät **nicht** benutzen, wenn Sie:
+
+- Alkohol getrunken haben
+- Drogen genommen haben
+- Sehr traurig sind
+- Sehr wütend sind
+
+---
+
+### Wichtiges Verbot
+
+Sie dürfen keine Bücher aus der Zukunft mitnehmen.
+Zum Beispiel:
+
+- Sport-Ergebnisse
+- Lotto-Zahlen
+- Börsen-Berichte
+
+Das ist gegen die **Zeitreise-Ethik-Richtlinie**.
+
+Das heisst:
+
+Das sind die Regeln für gutes Verhalten bei Zeit-Reisen.
+Die Abkürzung ist: ZER.
+
+Wenn Sie das tun, müssen Sie **50.000 Credits** bezahlen.
+Der Vertrag endet sofort.
+
+---
+
+## Paragraf 3: Wofür wir nicht verantwortlich sind
+
+### Sie löschen sich selbst aus
+
+Sie können etwas Falsches in der Vergangenheit tun.
+Dann gibt es Sie vielleicht nicht mehr.
+Dafür sind wir nicht verantwortlich.
+
+---
+
+### Sie treffen Ihr früheres Ich
+
+Sie können sich selbst in der Vergangenheit treffen.
+Dann kann etwas Schlimmes passieren.
+Sie leben dann vielleicht den gleichen Tag immer wieder.
+Die Fach-Leute nennen das: **Kausalitäts-Schleife**.
+
+Das heisst:
+
+Eine Wiederholung ohne Ende.
+
+Wir bezahlen nicht für Ihre Therapie danach.
+
+---
+
+### Der Schmetterlings-Effekt
+
+Sie können aus Versehen etwas Kleines kaputt machen.
+Zum Beispiel: Ein Insekt zertreten vor Millionen Jahren.
+Das kann grosse Folgen haben.
+Zum Beispiel: Die Menschheit gibt es nicht mehr.
+
+Das nennt man: **Schmetterlingseffekt**.
+
+Das heisst:
+
+Eine kleine Tat hat grosse Wirkung.
+
+Wir haften nur bis zur Höhe Ihrer Kaution.
+
+---
+
+## Paragraf 4: Rückgabe
+
+Sie müssen das Gerät zurück-geben.
+Sie müssen es in der richtigen Zeit-Linie zurück-geben.
+
+Das ist die Zeit-Linie, aus der Sie es bekommen haben.
+
+Eine Zeit-Linie mit Echsen-Menschen ist falsch.
+Das zählt nicht als richtige Rückgabe.
+
+---
+
+### QA-Log (Automatisch generiert)
+
+**Beibehaltene Fachbegriffe:**
+- Vermieter, Mieter, Grossvater-Paradoxon, Zeitreise-Ethik-Richtlinie (ZER), Kausalitäts-Schleife, Schmetterlingseffekt
+
+**Aufgelöste Abkürzungen:**
+- ZER -> Zeitreise-Ethik-Richtlinie
+
+**Getrennte Komposita:**
+- Zeit-Reise, Flux-Master, Gross-Vater, Sport-Ergebnisse, Lotto-Zahlen, Börsen-Berichte, Zeit-Linie, Echsen-Menschen
