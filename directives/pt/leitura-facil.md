@@ -1,5 +1,12 @@
 # Directive: Leitura Fácil (Portuguese Easy Read) [M]
 
+## Basis [M]
+**Type:** Adaptation with European Framework
+**Framework:** Based on Inclusion Europe guidelines, adapted from Spanish Lectura Fácil
+**Origin:** Adapted for Portuguese; national standard emerging
+
+---
+
 ## Purpose [M]
 Translate text into **Leitura Fácil** following European Portuguese standards (Inclusion Europe PT).
 

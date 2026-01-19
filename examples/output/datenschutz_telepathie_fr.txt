@@ -1,0 +1,25 @@
+Politique de confidentialité de l'application « MindSync » – Version 4.0
+Conformément aux articles 13 et 14 du Règlement général sur la protection des données (RGPD) et à la Directive sur les données télépathiques (DDT)
+
+1. Responsable du traitement et champ d'application
+La présente déclaration s'applique à la collecte, au traitement et à l'utilisation des données neuronales par MindSync Corp. Nous prenons très au sérieux la protection de vos secrets les plus intimes, même si techniquement nous les connaissons tous.
+
+2. Types de données traitées
+Dans le cadre de l'utilisation des services MindSync, nous collectons les catégories suivantes de données à caractère personnel :
+(a) Données d'identification (nom, adresse électronique, signature d'ondes cérébrales).
+(b) Données biométriques (schémas de connexions synaptiques).
+(c) Données de contenu (pensées conscientes, désirs inconscients, souvenirs d'enfance refoulés).
+
+3. Finalités du traitement et base juridique
+Le traitement de vos pensées s'effectue sur la base de votre consentement (art. 6, par. 1, point a) du RGPD).
+(a) Fourniture du service : pour convertir vos pensées en messages textuels sans que vous ayez à saisir quoi que ce soit.
+(b) Publicité personnalisée : nous analysons vos envies spontanées (p. ex. « J'aurais bien envie d'une pizza ») afin de vous projeter directement dans le cortex visuel, en temps réel, les offres correspondantes de nos partenaires.
+(c) Prévention de la criminalité : si nous détectons des schémas de pensée indiquant un projet de domination mondiale, nous sommes légalement tenus de les signaler aux autorités.
+
+4. Transmission à des tiers
+Vos pensées les plus intimes ne sont en principe pas transmises à des tiers, sauf si :
+- Vous avez consenti à l'option « Boost publicitaire ».
+- Nous y sommes contraints par un Overlord IA tout-puissant.
+
+5. Durée de conservation (le « droit à l'oubli »)
+Vos pensées sont conservées tant que votre compte utilisateur est actif. Si vous demandez la suppression, nous effacerons vos données de manière techniquement irréversible de nos serveurs. Veuillez noter : nous ne pouvons pas effacer les pensées de votre propre tête (pour cela, veuillez vous adresser à un hypnotiseur).

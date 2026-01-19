@@ -68,7 +68,7 @@ directives/
 │   └── meikai-nihongo.md
 ├── review.md                   # QA-Direktive
 ├── worker-loop.md              # Worker-Steuerung
-└── META_new_language_protocol.md
+└── new-language-protocol.md
 ```
 
 ### Worker-System

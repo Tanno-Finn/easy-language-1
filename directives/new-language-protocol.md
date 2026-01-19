@@ -1,4 +1,4 @@
-# META: New Language Protocol [M]
+# New Language Protocol [M]
 
 **This is a generator directive.** Use it when a requested language has no directive yet.
 

@@ -1,0 +1,25 @@
+Prohlášení o ochraně osobních údajů pro aplikaci „MindSync" – verze 4.0
+Podle článků 13 a 14 obecného nařízení o ochraně osobních údajů (GDPR) a směrnice o telepatických datech (TDR)
+
+1. Správce a oblast působnosti
+Toto prohlášení se vztahuje na shromažďování, zpracování a využívání neuronálních údajů společností MindSync Corp. Ochranu vašich nejniternějších tajemství bereme velmi vážně, i když je technicky vzato všechna známe.
+
+2. Druh zpracovávaných údajů
+V rámci využívání služeb MindSync shromažďujeme následující kategorie osobních údajů:
+(a) Identifikační údaje (jméno, e-mail, signatura mozkových vln).
+(b) Biometrické údaje (vzorce synaptických spojení).
+(c) Obsahové údaje (vědomé myšlenky, podvědomá přání, potlačené vzpomínky z dětství).
+
+3. Účely zpracování a právní základ
+Zpracování vašich myšlenek probíhá na základě vašeho souhlasu (čl. 6 odst. 1 písm. a GDPR).
+(a) Poskytování služeb: Abychom mohli převádět vaše myšlenky na textové zprávy, aniž byste museli psát.
+(b) Personalizovaná reklama: Analyzujeme vaše spontánní chutě (např. „Teď bych si dal pizzu"), abychom vám v reálném čase promítali příslušné nabídky našich partnerů přímo do vizuálního kortexu.
+(c) Prevence kriminality: Pokud rozpoznáme myšlenkové vzorce naznačující plánovaný pokus o ovládnutí světa, jsme ze zákona povinni je nahlásit příslušným orgánům.
+
+4. Předávání třetím stranám
+K předávání vašich nejintimnějších myšlenek třetím stranám v zásadě nedochází, s výjimkou případů, kdy:
+- Jste souhlasili s funkcí „Reklamní boost".
+- Jsme k tomu donuceni všemocným AI overlord (umělá inteligence s neomezenou mocí).
+
+5. Doba uchovávání („Právo být zapomenut")
+Vaše myšlenky jsou uchovávány po dobu, kdy je váš uživatelský účet aktivní. Pokud požádáte o výmaz, vaše údaje z našich serverů technicky nevratně odstraníme. Upozornění: Myšlenky z vaší vlastní hlavy vymazat nemůžeme (v této záležitosti se prosím obraťte na hypnotizéra).

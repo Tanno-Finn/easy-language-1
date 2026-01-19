@@ -1,0 +1,21 @@
+Bezpečnostní instruktáž pro personál orbitální stanice Omega-7
+Stav: Galaktický standardní rok 3024
+Oddělení: Bezpečnost reaktorového jádra a mimostaniční nasazení
+
+1. Preambule k bezpečnosti práce
+Dodržování následujících bezpečnostních předpisů je nezbytně nutné k zajištění zdraví, života a strukturální integrity stanice. Porušení bude potrestáno okamžitým přeložením do sektoru lisovny odpadu.
+
+2. Chování v oblasti primárního energetického jádra
+(a) Při vstupu do sektoru 7G je nutné mít kompletně oblečeny osobní ochranné prostředky (OOP) sestávající z protiradioaktivního obleku třídy IV a vizuálního ochranného štítu proti oslnění.
+(b) Ruční přemostění nouzového vypínacího zařízení je povoleno výhradně autorizovanému odbornému personálu.
+(c) V případě zvukového varovného signálu (siréna typu „Red Alert") je třeba nebezpečnou zónu okamžitě evakuovat. Setrvání za účelem hrdinského činu je zakázáno.
+(d) Otevřené reaktorové šachty nejsou stavebně zajištěny zábradlím (viz zpráva o stavebních vadách č. 1138). Hrozí zvýšené nebezpečí pádu. Zaměstnanci jsou povinni dodržovat minimální odstup 2 metry od hrany šachty.
+
+3. Postup při poklesu tlaku (dekomprese)
+V případě strukturálního poškození pláště v důsledku dopadu meteoritu nebo nepřátelské laserové palby se automaticky aktivují uzavírací mechanismy přepážek.
+(a) Dýchejte klidně, pokud je stále přítomna atmosféra.
+(b) Uchopte nejbližší nouzovou kyslíkovou masku.
+(c) Nejprve pomozte sobě, pak ostatním (včetně nadřízených).
+
+4. Zacházení s poškozenými droidy
+Nefunkční údržbové droidy nesmí být svévolně opravovány. Vzhledem k vadným motivátorovým jednotkám hrozí nebezpečí nepředvídatelných elektrických výbojů. Poruchy neprodleně hlaste oddělení robotiky a kybernetiky.

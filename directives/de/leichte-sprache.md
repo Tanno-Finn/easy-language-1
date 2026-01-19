@@ -1,5 +1,12 @@
 # Directive: German Easy Language (Leichte Sprache)
 
+## Basis [M]
+**Type:** National Standard
+**Framework:** Netzwerk Leichte Sprache, DIN SPEC 33429
+**Origin:** Germany (original source for this system)
+
+---
+
 ## Purpose [M]
 Defines rules for translating texts into German Easy Language (Leichte Sprache) while maintaining legal accuracy (Hybrid Approach).
 **Priority:** Legal correctness over maximum simplification. [M]

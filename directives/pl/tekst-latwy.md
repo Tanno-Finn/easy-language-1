@@ -1,5 +1,12 @@
 # Directive: Tekst Łatwy do Czytania (Polish Easy Read) [M]
 
+## Basis [M]
+**Type:** Adaptation
+**Framework:** Based on German Leichte Sprache model
+**Origin:** Adapted for Polish; no established national standard exists
+
+---
+
 ## Purpose [M]
 Translate text into **Tekst Łatwy do Czytania** (Easy-to-Read Polish).
 

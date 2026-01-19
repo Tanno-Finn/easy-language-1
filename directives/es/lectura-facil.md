@@ -1,5 +1,12 @@
 # Directive: Spanish Easy Read (Lectura Fácil) [M]
 
+## Basis [M]
+**Type:** National Standard
+**Framework:** UNE 153101 (Spanish Easy Read Standard), IFLA Easy-to-Read Guidelines
+**Origin:** Spain
+
+---
+
 ## Purpose [M]
 Defines rules for translating technical texts into Spanish Easy Read (Lectura Fácil) while maintaining legal accuracy (Hybrid Approach).
 

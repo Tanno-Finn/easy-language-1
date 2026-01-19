@@ -1,5 +1,12 @@
 # Directive: Easy Read English (Cognitive Accessibility)
 
+## Basis [M]
+**Type:** International Standard
+**Framework:** Inclusion Europe Easy-to-Read Guidelines, Plain English Campaign, WCAG Cognitive Accessibility
+**Origin:** UK/Europe
+
+---
+
 ## Purpose [M]
 Defines rules for translating texts into Easy Read English while maintaining legal accuracy (Hybrid Approach).
 

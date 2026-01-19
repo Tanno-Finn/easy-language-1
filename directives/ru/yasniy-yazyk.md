@@ -1,5 +1,12 @@
 # Directive: Ясный Язык (Russian Easy Read) [M]
 
+## Basis [M]
+**Type:** Adaptation
+**Framework:** Based on German Leichte Sprache model with Cyrillic/grammar adaptations
+**Origin:** Adapted for Russian; no established Russian Easy Read standard exists
+
+---
+
 ## Purpose [M]
 Translate text into **Ясный Язык** (Clear Russian / Easy-to-Read Russian).
 

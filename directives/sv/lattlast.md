@@ -1,5 +1,12 @@
 # Directive: Lättläst (Swedish Easy Read) [M]
 
+## Basis [M]
+**Type:** National Standard
+**Framework:** Centrum för lättläst (Swedish Easy Read Center)
+**Origin:** Sweden
+
+---
+
 ## Purpose [M]
 Translate text into **Lättläst** (Easy-to-Read Swedish) following Centrum för lättläst principles.
 

@@ -1,0 +1,21 @@
+Istruzioni di sicurezza per il personale della Stazione Orbitale Omega-7
+Aggiornamento: Anno Standard Galattico 3024
+Reparto: Sicurezza del nucleo del reattore e operazioni extraveicolari
+
+1. Premessa sulla sicurezza sul lavoro
+Il rispetto delle seguenti norme di sicurezza è obbligatorio per garantire l'incolumità fisica, la vita e l'integrità strutturale della stazione. Le violazioni saranno punite con il trasferimento immediato nel settore dei compattatori di rifiuti.
+
+2. Comportamento nell'area del nucleo energetico primario
+(a) All'ingresso nel Settore 7G è obbligatorio indossare integralmente i dispositivi di protezione individuale (DPI), costituiti da tuta antiradioattiva di Classe IV e protezione visiva antiabbagliamento.
+(b) L'esclusione manuale del dispositivo di arresto di emergenza è consentita esclusivamente al personale tecnico autorizzato.
+(c) In caso di attivazione del segnale di allarme acustico (sirena di tipo «Red Alert»), l'area di pericolo deve essere evacuata immediatamente. È vietato trattenersi per compiere atti di eroismo.
+(d) I vani del reattore aperti non sono dotati di parapetti di sicurezza a causa di difetti costruttivi (cfr. Rapporto difetti architettonici n. 1138). Sussiste un elevato rischio di caduta. Il personale è tenuto a mantenere sempre una distanza minima di 2 metri dal bordo del vano.
+
+3. Procedura in caso di perdita di pressione (decompressione)
+In caso di danni strutturali allo scafo causati da impatto di meteoriti o fuoco laser nemico, i meccanismi di chiusura ermetica delle paratie vengono attivati automaticamente.
+(a) Continuare a respirare con calma, purché sia ancora presente atmosfera.
+(b) Afferrare la maschera di ossigeno di emergenza più vicina.
+(c) Provvedere prima alla propria sicurezza, poi a quella degli altri (superiori inclusi).
+
+4. Gestione dei droidi difettosi
+I droidi di manutenzione non funzionanti non devono essere riparati autonomamente. A causa di unità motrici difettose, sussiste il pericolo di scariche elettriche imprevedibili. Segnalare immediatamente i guasti al Reparto Robotica e Cibernetica.

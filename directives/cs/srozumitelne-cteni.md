@@ -1,5 +1,12 @@
 # Directive: Srozumitelné Čtení (Czech Easy Read) [M]
 
+## Basis [M]
+**Type:** Adaptation
+**Framework:** Based on German Leichte Sprache model
+**Origin:** Adapted for Czech; no established Czech Easy Read standard exists
+
+---
+
 ## Purpose [M]
 Translate text into **Srozumitelné Čtení** (Easy-to-Read Czech).
 

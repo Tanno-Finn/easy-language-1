@@ -1,5 +1,12 @@
 # Directive: やさしい日本語 (Yasashii Nihongo / Easy Japanese) [M]
 
+## Basis [M]
+**Type:** National Standard
+**Framework:** やさしい日本語 (Yasashii Nihongo) - NHK/Government guidelines
+**Origin:** Japan (developed post-1995 Kobe earthquake for disaster communication)
+
+---
+
 ## Purpose [M]
 Defines rules for translating texts into やさしい日本語 (Easy Japanese).
 Goal: Make texts accessible for people with limited Japanese skills.

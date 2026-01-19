@@ -1,0 +1,21 @@
+Veiligheidsinstructie voor personeel op het orbitaalstation Omega-7
+Stand: Galactisch standaardjaar 3024
+Afdeling: Reactorkernbeveiliging en buitenboordeinsatz
+
+1. Preambule over arbeidsveiligheid
+De naleving van de onderstaande veiligheidsvoorschriften is strikt verplicht om lijf, leven en de structurele integriteit van het station te waarborgen. Overtredingen worden bestraft met onmiddellijke overplaatsing naar de afvalpersafdeling.
+
+2. Gedrag in het gebied van de primaire energiekern
+(a) Bij het betreden van sector 7G moet de persoonlijke beschermingsuitrusting (PBM), bestaande uit een stralingsbeschermingspak klasse IV en visuele verblindbescherming, volledig worden gedragen.
+(b) Het handmatig overbruggen van de nooduitschakelingsvoorziening is uitsluitend toegestaan aan geautoriseerd vakpersoneel.
+(c) Wanneer een akoestisch waarschuwingssignaal klinkt (sirene type "Red Alert"), dient het gevarengebied onmiddellijk te worden geëvacueerd. Verblijven met het oog op heldendaden is verboden.
+(d) Open reactorschachten zijn bouwkundig niet beveiligd met leuningen (zie architectenmankementrapport nr. 1138). Er geldt verhoogd valgevaar. Medewerkers worden geacht steeds een minimale afstand van 2 meter tot de schachtrand aan te houden.
+
+3. Procedure bij drukverlies (decompressie)
+In geval van structurele rompschade door meteorietinslag of vijandelijk laserbeschieting worden automatisch de schotverriegelingsmechanismen geactiveerd.
+(a) Blijf rustig ademhalen, mits er nog atmosfeer aanwezig is.
+(b) Pak het dichtstbijzijnde nood-zuurstofmasker.
+(c) Help eerst uzelf, dan anderen (ook leidinggevenden).
+
+4. Omgang met defecte droïden
+Niet-functionerende onderhoudsdroïden mogen niet eigenmachtig worden gerepareerd. Vanwege defecte motivator-eenheden bestaat het gevaar van onvoorspelbare elektrische ontladingen. Meld storingen onmiddellijk bij de afdeling Robotica en Cybernetica.

@@ -1,31 +1,33 @@
-# Vision: Universal Accessibility Engine
+# Vision
 
-## Mission
+## What This Project Shows
 
-Wir bauen nicht nur einen Übersetzer. Wir bauen eine **universelle Schnittstelle** für komplexe Informationen.
-Jeder Text – egal ob Vertrag, Gesetz oder Anleitung – soll für jeden Menschen auf der Welt verständlich sein, unabhängig von Sprache oder kognitiver Fähigkeit.
+- A basic dispatcher-worker loop
+- File-based job management (no database)
+- The "Hybrid Rule" concept (keep technical terms, explain them)
+- Scaling directives across 15+ languages
 
-## Evolution
+## What This Is NOT
 
-### Phase 1: Der Prototyp (Completed)
+- Production-ready software
+- A real translation service
+- Something novel or groundbreaking
 
-* Fokus: Deutsch (Leichte Sprache).
-* Proof of Concept für die Hybrid-Regel.
+Just a small showcase.
 
-### Phase 2: Global Expansion (Completed ✅)
+## Current State
 
-* Skalierung auf **15 Sprachen**.
-* Implementierung des **Review-Loops** (Qualitätssicherung).
-* Einführung der **Worker-Architektur**.
+- 15 languages implemented
+- 8 more planned (Priority A tickets exist)
+- ~300 test jobs processed
 
-### Phase 3: The Platform (Future)
+## If I Were to Make This Real
 
-* **API-First:** Anbindung an CMS-Systeme.
-* **Community:** Open-Source Glossare für Fachdomänen.
-* **Real-Time:** On-the-fly Übersetzung für Webseiten.
+Would need:
+- Actual database for job queue
+- Proper error handling and retries
+- API instead of file-based I/O
+- Quality metrics and feedback loops
+- Professional linguistic review
 
-## Core Values
-
-1. **Rechtssicherheit:** Wir vereinfachen die Sprache, nicht den Inhalt.
-2. **Transparenz:** Jeder Änderungsschritt ist dokumentiert (QA-Log).
-3. **Universalität:** Eine Architektur für alle Sprachen.
+But that's not the point of this project.

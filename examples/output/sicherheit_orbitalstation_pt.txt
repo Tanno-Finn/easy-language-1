@@ -1,0 +1,21 @@
+Instrução de Segurança para o Pessoal da Estação Orbital Omega-7
+Data: Ano Padrão Galáctico 3024
+Departamento: Segurança do Núcleo do Reator e Operações Extraveiculares
+
+1. Preâmbulo sobre Segurança no Trabalho
+O cumprimento das normas de segurança a seguir indicadas é obrigatório para garantir a vida, a integridade física e a integridade estrutural da estação. As infrações serão punidas com transferência imediata para o setor de compactação de resíduos.
+
+2. Conduta na Área do Núcleo de Energia Primária
+(a) Ao entrar no Setor 7G, o equipamento de proteção individual (EPI), composto por fato de proteção contra radiação Classe IV e proteção visual antiofuscamento, deve ser usado na íntegra.
+(b) A neutralização manual do dispositivo de paragem de emergência é permitida apenas a pessoal técnico autorizado.
+(c) Caso soe um sinal de aviso acústico (sirene tipo «Alerta Vermelho»), a área de perigo deve ser evacuada imediatamente. Permanecer no local para fins de atos heroicos é proibido.
+(d) Os poços de reator abertos não estão equipados com guarda-corpos de origem (ver Relatório de Defeitos de Arquitetura n.º 1138). Existe risco elevado de queda. Os funcionários devem manter sempre uma distância mínima de 2 metros da borda do poço.
+
+3. Procedimento em Caso de Queda de Pressão (Descompressão)
+Em caso de dano estrutural no casco devido a impacto de meteorito ou tiro de laser inimigo, os mecanismos de bloqueio das comportas são ativados automaticamente.
+(a) Continue a respirar calmamente, desde que ainda exista atmosfera.
+(b) Agarre a máscara de oxigénio de emergência mais próxima.
+(c) Ajude primeiro a si próprio, depois aos outros (incluindo superiores hierárquicos).
+
+4. Manuseamento de Droides Avariados
+Os droides de manutenção inoperacionais não devem ser reparados por iniciativa própria. Devido a unidades motivadoras defeituosas, existe risco de descargas elétricas imprevisíveis. Comunique as avarias imediatamente ao Departamento de Robótica e Cibernética.

@@ -1,54 +1,52 @@
-# Architecture: Global Translation Engine
+# Architecture Notes
 
-## System Overview
+## Overview
 
-Das System folgt einer **asynchronen Multi-Agenten-Architektur**. Es gibt keine zentrale Steuerung während der Laufzeit; die Logik liegt in der Queue.
+Simple dispatcher-worker pattern using file-based job queue.
 
 ```
-[Input Files] ──▶ [Dispatcher Script]
-                          │
-                          ▼
-                  [Job Queue (JSON)] ◀───┐
-                          │              │
-        ┌─────────────────┼──────────────┼─────────────────┐
-        ▼                 ▼              ▼                 ▼
-   [Worker 1]        [Worker 2]     [Worker 3]        [Worker N]
-        │                 │              │                 │
-        └───────┬─────────┴──────────────┴─────────┬───────┘
-                │                                  │
-                ▼                                  ▼
-      [Output: Translation]               [Output: Review Report]
+[Input] → [Dispatcher] → [Queue (JSON files)] → [Workers] → [Output]
 ```
 
-## Core Components
+Nothing fancy. Workers pick jobs via atomic file rename to avoid race conditions.
 
-### 1. The Directives ("English Shell")
+## Job Types
 
-Wir nutzen das **English Shell / Native Content** Pattern.
+| Phase | Prefix | What it does |
+|-------|--------|--------------|
+| B | `job_b_*` | Translate text to Easy/Plain language |
+| C | `job_c_*` | Review the translation |
 
-* Die Anweisung an die KI ist immer Englisch (z.B. "Use the anchor phrase:").
-* Der Inhalt ist in der Zielsprache (z.B. "Das heißt:").
+## The "English Shell" Pattern
 
-Dies verhindert Logik-Fehler bei Sprachen, die das Modell schlechter beherrscht.
+Instructions in English, content in target language. Example:
 
-### 2. The Queue System
+```
+Use the anchor phrase: "Das heißt:"
+```
 
-* **Path:** `tickets/queue/`
-* **Locking:** Atomic Rename (`os.rename`).
-* **Phases:**
-  * `job_b_*`: Translation (Muss zuerst erfolgen).
-  * `job_c_*`: Review (Wartet, bis Translation existiert).
+This helps with consistency across languages.
 
-### 3. The Dispatcher (`generate-jobs.py`)
+## Directive Structure
 
-* **Idempotenz:** Prüft vor Erstellung, ob ein Job schon existiert.
-* **Scope:** Unterstützt alle 15 Sprachen (Tier 1 + Tier 2).
-* **Quality:** Erstellt automatisch den passenden Review-Job für jede Übersetzung.
+Each language has:
+- `easy-*.md` - Easy Read rules (A1/A2 level)
+- `plain-*.md` - Plain Language rules (B1 level)
 
-## Language Support Details
+Some are based on real standards (DE, FR, ES, SV, JA), others are adaptations.
 
-### Special Handlers
+## Queue Mechanics
 
-* **RTL (Right-To-Left):** Arabisch (`ar`) nutzt spezifische Prompting-Regeln für Layout.
-* **High Context:** Japanisch (`ja`), Chinesisch (`zh`), Koreanisch (`ko`) nutzen strikte "Hybrid Rules" für Schriftzeichen (Kanji/Hanja).
-* **Complex Grammar:** Polnisch (`pl`), Russisch (`ru`), Tschechisch (`cs`) nutzen vereinfachte SVO-Strukturen zur Vermeidung von Kasus-Fehlern.
+- Jobs live in `tickets/queue/`
+- Worker picks job → renames to `*_WORKING.json`
+- Worker finishes → renames to `*_DONE.json`
+- Simple, no database needed
+
+## Limitations
+
+- No real dependency management between jobs
+- No retry logic
+- No monitoring
+- File-based = doesn't scale
+
+It's a POC, not production code.

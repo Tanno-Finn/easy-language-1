@@ -1,5 +1,12 @@
 # Directive: French Easy Read (FALC - Facile à Lire et à Comprendre) [M]
 
+## Basis [M]
+**Type:** European Standard
+**Framework:** FALC (Facile à Lire et à Comprendre) by Inclusion Europe
+**Origin:** France/Europe
+
+---
+
 ## Purpose [M]
 Defines rules for translating technical texts into French Easy Read (FALC) while maintaining legal accuracy (Hybrid Approach).
 

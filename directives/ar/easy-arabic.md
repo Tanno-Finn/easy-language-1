@@ -1,5 +1,12 @@
 # Directive: اللغة العربية السهلة (Arabic Easy Read) [M]
 
+## Basis [M]
+**Type:** Adaptation
+**Framework:** Based on German Leichte Sprache model with RTL adaptations
+**Origin:** Adapted for Arabic; no established Arabic Easy Read standard exists
+
+---
+
 ## Purpose [M]
 Translate text into **اللغة العربية السهلة** (Easy-to-Read Arabic).
 

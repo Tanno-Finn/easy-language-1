@@ -1,0 +1,21 @@
+Safety Briefing for Personnel on Orbital Station Omega-7
+Effective: Galactic Standard Year 3024
+Department: Reactor Core Safety and Extravehicular Operations
+
+1. Preamble on Workplace Safety
+Compliance with the following safety regulations is mandatory to ensure life, limb, and the structural integrity of the station. Violations will result in immediate transfer to the trash compactor section.
+
+2. Conduct in the Primary Energy Core Area
+(a) Upon entering Sector 7G, personal protective equipment (PPE) consisting of a Class IV radiation suit and visual glare protection must be worn at all times without exception.
+(b) Manual bypassing of the emergency shutdown device is permitted only by authorised specialist personnel.
+(c) Should an acoustic warning signal (siren type "Red Alert") sound, the hazardous area must be evacuated immediately. Remaining for the purpose of heroic acts is prohibited.
+(d) Open reactor shafts are not equipped with railings as a structural feature (see Architects' Deficiency Report No. 1138). There is an increased risk of falling. Staff are required to maintain a minimum distance of 2 metres from the shaft edge at all times.
+
+3. Procedure in Case of Pressure Loss (Decompression)
+In the event of structural hull damage caused by meteorite impact or hostile laser fire, the bulkhead locking mechanisms will be activated automatically.
+(a) Continue breathing calmly, provided there is still atmosphere present.
+(b) Reach for the nearest emergency oxygen mask.
+(c) Help yourself first, then others (including superiors).
+
+4. Handling Defective Droids
+Non-functional maintenance droids must not be repaired independently. Due to faulty motivator units, there is a risk of unpredictable electrical discharges. Report malfunctions immediately to the Department of Robotics and Cybernetics.

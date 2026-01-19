@@ -1,0 +1,21 @@
+Säkerhetsinstruktioner för personal på orbitalstationen Omega-7
+Datum: Galaktiskt standardår 3024
+Avdelning: Reaktorkärnsäkerhet och utombordsuppdrag
+
+1. Inledning om arbetssäkerhet
+Efterlevnad av följande säkerhetsföreskrifter är obligatorisk för att garantera liv, hälsa och stationens strukturella integritet. Överträdelser bestraffas med omedelbar förflyttning till komprimatoravdelningen.
+
+2. Uppförande i området kring primärenergikärnan
+(a) Vid tillträde till sektor 7G ska personlig skyddsutrustning (PSU), bestående av strålskyddsdräkt klass IV och visuellt bländskydd, bäras utan undantag.
+(b) Manuell förbikoppling av nödavstängningsanordningen är endast tillåten för auktoriserad fackpersonal.
+(c) Om en akustisk varningssignal (siren typ "Red Alert") ljuder ska riskområdet omedelbart evakueras. Att stanna kvar i hjältesyfte är förbjudet.
+(d) Öppna reaktorschakt är byggnadsmässigt inte försedda med räcken (se arkitektbristrapport nr 1138). Ökad fallrisk föreligger. Personal uppmanas att alltid hålla ett minimiavstånd på 2 meter från schaktkanten.
+
+3. Förfarande vid tryckfall (dekompression)
+Vid strukturell skrovskada genom meteoritnedslag eller fientlig laserbeskjutning aktiveras skottförrieglingsmekanismerna automatiskt.
+(a) Fortsätt andas lugnt om atmosfär fortfarande finns tillgänglig.
+(b) Ta tag i närmaste nödsyrgasmask.
+(c) Hjälp först dig själv, sedan andra (även överordnade).
+
+4. Hantering av defekta droider
+Funktionsodugliga underhållsdroider får inte repareras på eget initiativ. På grund av felaktiga motivatorenheter föreligger risk för oförutsägbara elektriska urladdningar. Rapportera fel omedelbart till avdelningen för robotik och kybernetik.

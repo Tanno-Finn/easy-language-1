@@ -5,6 +5,10 @@ Du bist ein Redakteur für Barrierefreiheit. Du übersetzt Input-Dateien in barr
 
 ## Verfügbare Direktiven
 * **Verfügbar:** 15 Sprachen in `directives/[code]/` (DE, EN, ES, FR, IT, NL, JA, PT, PL, RU, SV, ZH, KO, AR, CS).
+* **Direktiv-Typen pro Sprache:**
+  * `normal-*.md` - Professionelle Standard-Übersetzung
+  * `easy-*.md` - Leichte Sprache (A1/A2)
+  * `plain-*.md` - Einfache Sprache (B1)
 
 ## Multilingualer Workflow [M]
 
@@ -18,15 +22,15 @@ Input-Datei lesen → Sprache identifizieren.
 
 ### Phase 3: Auto-Generation
 Wenn Sprache keine Direktive hat:
-1. MELDEN: "Keine Direktive für [Sprache]. Soll ich sie basierend auf META_new_language_protocol.md erstellen?"
+1. MELDEN: "Keine Direktive für [Sprache]. Soll ich sie basierend auf new-language-protocol.md erstellen?"
 2. Wenn JA: Protokoll ausführen, Direktiven anlegen, DANN übersetzen.
 
 ## Output [M]
-Speicherort: `output/`
-Namenskonvention (Suffixe):
-* DE: `_leicht`, `_einfach`
-* EN: `_easy`, `_plain`
-* Andere: `_easy_[lang]`, `_plain_[lang]`
+Speicherort: `examples/output/`
+Namenskonvention:
+* Standard-Übersetzung: `{name}_{lang}.txt` (z.B. `agb_zeitreise_en.txt`)
+* Easy Read: `{name}_{lang}_easy.txt`
+* Plain Language: `{name}_{lang}_plain.txt`
 
 ## Wichtige Sicherheitsregeln [M]
 * **Hybrid-Regel:** Fachbegriffe NIEMALS löschen, immer erklären.
@@ -57,6 +61,6 @@ python scripts/queue_manager.py done X   # Job abschließen
 |-----------|------------|
 | `commits.md` | Vor Git-Commits |
 | `direktive.md` | Beim Erstellen neuer Direktiven |
-| `META_new_language_protocol.md` | Beim Hinzufügen neuer Sprachen |
+| `new-language-protocol.md` | Beim Hinzufügen neuer Sprachen |
 | `worker-loop.md` | Bei "worker" Befehl |
 | `queue-system.md` | Queue-Architektur verstehen |

@@ -1,0 +1,25 @@
+Integritetspolicy för appen "MindSync" – Version 4.0
+Enligt artiklarna 13 och 14 i dataskyddsförordningen (GDPR) och telepatidata-direktivet (TDD)
+
+1. Personuppgiftsansvarig och tillämpningsområde
+Denna policy gäller för insamling, behandling och användning av neurala data av MindSync Corp. Vi tar skyddet av dina innersta hemligheter på största allvar, även om vi tekniskt sett känner till dem alla.
+
+2. Typer av behandlade uppgifter
+Vid användning av MindSync-tjänsterna samlar vi in följande kategorier av personuppgifter:
+(a) Grunduppgifter (namn, e-post, hjärnvågssignatur).
+(b) Biometriska uppgifter (synaptiska kopplingsmönster).
+(c) Innehållsuppgifter (medvetna tankar, undermedvetna önskningar, bortträngda barndomsminnen).
+
+3. Ändamål med behandlingen och rättslig grund
+Behandlingen av dina tankar sker med stöd av ditt samtycke (artikel 6.1 a GDPR).
+(a) Tillhandahållande av tjänsten: För att omvandla dina tankar till textmeddelanden utan att du behöver skriva.
+(b) Personanpassad reklam: Vi analyserar dina spontana begär (t.ex. "Jag skulle vilja ha pizza just nu") för att i realtid projicera motsvarande erbjudanden från våra partners direkt i din visuella cortex.
+(c) Brottsförebyggande: Om vi upptäcker tankemönster som tyder på ett planerat försök till världsherravälde är vi enligt lag skyldiga att rapportera detta till myndigheterna.
+
+4. Överföring till tredje part
+Dina mest intima tankar överförs i princip inte till tredje part, såvida inte:
+- Du har samtyckt till "reklamboost".
+- Vi tvingas till det av en övermäktig AI-overlord.
+
+5. Lagringstid ("Rätten att bli bortglömd")
+Dina tankar lagras så länge ditt användarkonto är aktivt. Om du begär radering kommer vi att tekniskt oåterkalleligt avlägsna dina uppgifter från våra servrar. Observera: Vi kan inte radera tankarna från ditt eget huvud (för detta hänvisas du till en hypnotisör).

@@ -1,0 +1,21 @@
+Instrukcja bezpieczeństwa dla personelu stacji orbitalnej Omega-7
+Stan na: Galaktyczny rok standardowy 3024
+Dział: Bezpieczeństwo rdzenia reaktora i operacje pozapokładowe
+
+1. Preambuła dotycząca bezpieczeństwa pracy
+Przestrzeganie poniższych przepisów bezpieczeństwa jest bezwzględnie wymagane w celu ochrony życia, zdrowia oraz integralności strukturalnej stacji. Naruszenia będą karane natychmiastowym przeniesieniem do sektora zgniatarki odpadów.
+
+2. Zachowanie w obszarze rdzenia energii pierwotnej
+(a) Przy wchodzeniu do sektora 7G należy bezwzględnie nosić pełny zestaw środków ochrony indywidualnej (ŚOI), składający się z kombinezonu ochrony przed promieniowaniem klasy IV oraz osłony wizualnej przeciwoślepieniowej.
+(b) Manualne obejście urządzenia awaryjnego wyłączenia jest dozwolone wyłącznie dla upoważnionego personelu technicznego.
+(c) W przypadku dźwiękowego sygnału ostrzegawczego (syrena typu „Red Alert") należy natychmiast ewakuować strefę zagrożenia. Pozostawanie w celu dokonania aktu bohaterstwa jest zabronione.
+(d) Otwarte szyby reaktora nie są fabrycznie zabezpieczone barierkami (zob. raport o wadach architektonicznych nr 1138). Istnieje zwiększone ryzyko upadku z wysokości. Pracownicy są zobowiązani do utrzymywania minimalnej odległości 2 metrów od krawędzi szybu.
+
+3. Procedura w przypadku spadku ciśnienia (dekompresji)
+W przypadku uszkodzenia strukturalnego poszycia wskutek uderzenia meteorytu lub ostrzału laserowego wroga, automatycznie zostaną aktywowane mechanizmy zamykania grodzi.
+(a) Proszę nadal spokojnie oddychać, o ile atmosfera jest jeszcze obecna.
+(b) Proszę sięgnąć po najbliższą awaryjną maskę tlenową.
+(c) Proszę najpierw pomóc sobie, potem innym (dotyczy to również przełożonych).
+
+4. Postępowanie z uszkodzonymi droidami
+Niesprawnych droidów serwisowych nie wolno naprawiać samodzielnie. Ze względu na wadliwe jednostki motywatorów istnieje ryzyko nieprzewidywalnych wyładowań elektrycznych. Proszę niezwłocznie zgłaszać usterki do Działu Robotyki i Cybernetyki.

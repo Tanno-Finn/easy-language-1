@@ -1,0 +1,25 @@
+Polityka prywatności dla aplikacji „MindSync" – Wersja 4.0
+Zgodnie z art. 13 i 14 Ogólnego Rozporządzenia o Ochronie Danych (RODO) oraz Dyrektywą o Danych Telepatycznych (TDR)
+
+1. Administrator i zakres obowiązywania
+Niniejsza polityka dotyczy gromadzenia, przetwarzania i wykorzystywania danych neuronalnych przez MindSync Corp. Ochronę Państwa najskrytszych tajemnic traktujemy bardzo poważnie, mimo że technicznie rzecz biorąc, znamy je wszystkie.
+
+2. Rodzaje przetwarzanych danych
+W ramach korzystania z usług MindSync gromadzimy następujące kategorie danych osobowych:
+(a) Dane podstawowe (imię i nazwisko, adres e-mail, sygnatura fal mózgowych).
+(b) Dane biometryczne (wzorce połączeń synaptycznych).
+(c) Dane treściowe (świadome myśli, podświadome pragnienia, wyparte wspomnienia z dzieciństwa).
+
+3. Cele przetwarzania i podstawa prawna
+Przetwarzanie Państwa myśli odbywa się na podstawie Państwa zgody (art. 6 ust. 1 lit. a RODO).
+(a) Świadczenie usług: W celu przekształcania Państwa myśli w wiadomości tekstowe bez konieczności pisania.
+(b) Reklama spersonalizowana: Analizujemy Państwa spontaniczne zachcianki (np. „Miałbym teraz ochotę na pizzę"), aby w czasie rzeczywistym wyświetlać odpowiednie oferty naszych partnerów bezpośrednio w korze wzrokowej.
+(c) Zapobieganie przestępczości: W przypadku wykrycia wzorców myślowych wskazujących na planowaną próbę przejęcia władzy nad światem, jesteśmy prawnie zobowiązani do zgłoszenia tego odpowiednim organom.
+
+4. Przekazywanie danych podmiotom trzecim
+Przekazywanie Państwa najbardziej intymnych myśli podmiotom trzecim zasadniczo nie ma miejsca, chyba że:
+- Wyrazili Państwo zgodę na „Wzmocnienie reklamowe".
+- Zostaniemy do tego zmuszeni przez wszechmocnego władcę AI.
+
+5. Okres przechowywania („Prawo do bycia zapomnianym")
+Państwa myśli są przechowywane tak długo, jak długo Państwa konto użytkownika pozostaje aktywne. W przypadku złożenia wniosku o usunięcie danych, trwale i nieodwracalnie usuniemy je z naszych serwerów. Prosimy pamiętać: nie jesteśmy w stanie usunąć myśli z Państwa własnej głowy (w tej sprawie prosimy zwrócić się do hipnotyzera).

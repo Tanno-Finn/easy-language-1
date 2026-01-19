@@ -1,5 +1,12 @@
 # Directive: 쉬운 한국어 (Korean Easy Read) [M]
 
+## Basis [M]
+**Type:** Adaptation
+**Framework:** Based on German Leichte Sprache model with CJK Hybrid Rules
+**Origin:** Adapted for Korean; no established Korean Easy Read standard exists
+
+---
+
 ## Purpose [M]
 Translate text into **쉬운 한국어** (Easy-to-Read Korean).
 

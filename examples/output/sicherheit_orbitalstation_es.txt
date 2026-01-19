@@ -1,0 +1,21 @@
+Instrucciones de seguridad para el personal de la Estación Orbital Omega-7
+Fecha: Año Estándar Galáctico 3024
+Departamento: Seguridad del Núcleo del Reactor y Operaciones Extravehiculares
+
+1. Preámbulo sobre seguridad laboral
+El cumplimiento de las siguientes normas de seguridad es estrictamente obligatorio para garantizar la vida, la integridad física y la integridad estructural de la estación. Las infracciones serán sancionadas con el traslado inmediato al sector de compactadores de residuos.
+
+2. Conducta en el área del núcleo de energía primaria
+(a) Al acceder al Sector 7G, deberá portarse en todo momento el equipo de protección personal (EPP), consistente en traje de protección radiológica Clase IV y protección visual antideslumbramiento.
+(b) La desactivación manual del dispositivo de apagado de emergencia está permitida exclusivamente al personal técnico autorizado.
+(c) En caso de activarse una señal de alarma acústica (sirena tipo «Alerta Roja»), deberá evacuarse inmediatamente la zona de peligro. Queda prohibido permanecer en el área con propósitos heroicos.
+(d) Los pozos abiertos del reactor no están equipados con barandillas de seguridad debido a deficiencias constructivas (véase Informe de Defectos de Arquitectura n.º 1138). Existe un elevado riesgo de caída. El personal deberá mantener en todo momento una distancia mínima de 2 metros respecto al borde del pozo.
+
+3. Procedimiento en caso de pérdida de presión (descompresión)
+En caso de daño estructural del casco debido a impacto de meteorito o fuego láser enemigo, se activarán automáticamente los mecanismos de cierre de compuertas herméticas.
+(a) Continúe respirando con calma, siempre que aún exista atmósfera disponible.
+(b) Tome la máscara de oxígeno de emergencia más cercana.
+(c) Asista primero a usted mismo y después a los demás (incluidos los superiores).
+
+4. Manejo de droides defectuosos
+Los droides de mantenimiento inoperativos no deben ser reparados por iniciativa propia. Debido a unidades de motivador defectuosas, existe riesgo de descargas eléctricas impredecibles. Notifique las averías inmediatamente al Departamento de Robótica y Cibernética.

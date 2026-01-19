@@ -1,5 +1,12 @@
 # Directive: Italian Easy Read (Linguaggio Facile da Leggere) [M]
 
+## Basis [M]
+**Type:** Adaptation
+**Framework:** Based on German Leichte Sprache model
+**Origin:** Adapted for Italian; no established national standard exists
+
+---
+
 ## Purpose [M]
 Defines rules for translating texts into Italian Easy Read while maintaining legal accuracy (Hybrid Approach).
 **Priority:** Legal correctness over maximum simplification. [M]

@@ -1,0 +1,25 @@
+Privacy Policy for the "MindSync" App – Version 4.0
+In accordance with Articles 13 and 14 of the General Data Protection Regulation (GDPR) and the Telepathic Data Directive (TDD)
+
+1. Data Controller and Scope
+This policy applies to the collection, processing, and use of neural data by MindSync Corp. We take the protection of your innermost secrets very seriously, even though we technically know all of them.
+
+2. Types of Data Processed
+In the course of using MindSync services, we collect the following categories of personal data:
+(a) Master data (name, email, brainwave signature).
+(b) Biometric data (synaptic connection patterns).
+(c) Content data (conscious thoughts, subconscious desires, repressed childhood memories).
+
+3. Purposes of Processing and Legal Basis
+The processing of your thoughts is carried out on the basis of your consent (Art. 6(1)(a) GDPR).
+(a) Service provision: To convert your thoughts into text messages without requiring you to type.
+(b) Personalised advertising: We analyse your spontaneous cravings (e.g., "I could really go for a pizza right now") in order to project corresponding offers from our partners directly into your visual cortex in real time.
+(c) Crime prevention: Should we detect thought patterns indicating a planned attempt at world domination, we are legally obligated to report these to the authorities.
+
+4. Disclosure to Third Parties
+Your most intimate thoughts will generally not be transmitted to third parties, unless:
+- You have agreed to the "Advertising Boost" feature.
+- We are compelled to do so by an all-powerful AI overlord.
+
+5. Retention Period (The "Right to Be Forgotten")
+Your thoughts will be stored for as long as your user account remains active. If you request deletion, we will technically and irreversibly remove your data from our servers. Please note: We cannot delete the thoughts from your own head (for that, please consult a hypnotist).

@@ -1,5 +1,12 @@
 # Directive: Dutch Easy Read (Makkelijk Lezen) [M]
 
+## Basis [M]
+**Type:** Adaptation
+**Framework:** Based on German Leichte Sprache model
+**Origin:** Adapted for Dutch; Stichting Makkelijk Lezen exists but no formal standard
+
+---
+
 ## Purpose [M]
 Defines rules for translating texts into Dutch Easy Read while maintaining legal accuracy (Hybrid Approach).
 **Priority:** Legal correctness over maximum simplification. [M]

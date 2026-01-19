@@ -1,5 +1,12 @@
 # Directive: 简明中文 (Chinese Easy Read) [M]
 
+## Basis [M]
+**Type:** Adaptation
+**Framework:** Based on German Leichte Sprache model with CJK Hybrid Rules
+**Origin:** Adapted for Simplified Chinese; no established Chinese Easy Read standard exists
+
+---
+
 ## Purpose [M]
 Translate text into **简明中文** (Easy-to-Read Simplified Chinese).
 

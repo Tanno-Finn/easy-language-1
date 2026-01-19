@@ -1,59 +1,66 @@
-# Easy Language Translation Engine 🌍
+# Easy Language Translation Engine
 
-Ein Enterprise-Grade Multi-Agenten-System zur **rechtssicheren Übersetzung** und **Qualitätssicherung** von Fachtexten in 15 Sprachen.
-
-**Status:** Production Ready (v1.1) ✅
-**Architecture:** Decoupled Dispatcher-Worker Pattern
+A simple proof-of-concept for translating texts into Easy Language formats across multiple languages. This project showcases a basic dispatcher-worker pattern for parallel job processing.
 
 ---
 
-## 🌐 Supported Languages (Tier 1 & Tier 2)
+## What This Is
 
-| Tier | Sprachen | Status |
-|------|----------|--------|
-| **Core (Tier 1)** | 🇩🇪 DE, 🇬🇧 EN, 🇪🇸 ES, 🇫🇷 FR, 🇮🇹 IT, 🇳🇱 NL, 🇯🇵 JA | **Active** |
-| **Expansion (Tier 2)** | 🇵🇹 PT, 🇵🇱 PL, 🇷🇺 RU, 🇸🇪 SV, 🇨🇳 ZH, 🇰🇷 KO, 🇸🇦 AR, 🇨🇿 CS | **Active** |
+A small showcase exploring:
+- How to structure translation directives for different languages
+- A simple file-based job queue (JSON files + atomic rename)
+- The "English Shell" pattern (English instructions, native content)
 
----
-
-## 🚀 Key Features
-
-- **Hybrid-Regel:** Fachbegriffe werden erkannt, beibehalten und erklärt.
-- **English Shell Pattern:** Alle Direktiven nutzen englische Logik-Anweisungen für maximale Konsistenz.
-- **Auto-Review (4-Augen-Prinzip):** Jeder Übersetzung folgt automatisch ein Review-Job durch einen zweiten Agenten.
-- **Idempotenter Dispatcher:** Generiert nur fehlende Jobs, verhindert Duplikate.
-- **Atomic Queue:** Race-Condition-freies File-Locking für beliebig viele parallele Worker.
+**Not production-ready.** Just a showcase.
 
 ---
 
-## 🛠 Quick Start
+## Supported Languages
 
-**1. Jobs generieren (Dispatcher)**
+| Code | Language | Easy Read | Plain Language |
+|------|----------|-----------|----------------|
+| DE | German | Leichte Sprache | Einfache Sprache |
+| EN | English | Easy Read | Plain English |
+| ES | Spanish | Lectura Fácil | Lenguaje Claro |
+| FR | French | FALC | Langage Clair |
+| IT | Italian | Linguaggio Facile | Linguaggio Chiaro |
+| NL | Dutch | Makkelijk Lezen | Klare Taal |
+| JA | Japanese | Yasashii Nihongo | Plain Japanese |
+| PT | Portuguese | Leitura Fácil | Linguagem Clara |
+| PL | Polish | Tekst Łatwy | Język Prosty |
+| RU | Russian | Yasniy Yazyk | Prostoy Yazyk |
+| SV | Swedish | Lättläst | Klarspråk |
+| ZH | Chinese | Easy Read | Plain Language |
+| KO | Korean | Easy Korean | Plain Korean |
+| AR | Arabic | Easy Arabic | Plain Arabic |
+| CS | Czech | Srozumitelné Čtení | Plain Czech |
+
+---
+
+## How It Works
+
 ```bash
+# Generate jobs
 python scripts/generate-jobs.py
-# Erstellt Übersetzungs- (Phase B) und Review-Jobs (Phase C) für alle 15 Sprachen
-```
 
-**2. Worker starten (Parallel Processing)**
-Öffne beliebig viele Terminals:
-
-```bash
+# Process jobs (run in multiple terminals for parallelism)
 python scripts/queue_manager.py pick
-# Oder im Chat: "worker"
 ```
 
-**3. Output**
-Ergebnisse landen in `examples/output/` (inklusive `_REVIEW.md` Reports).
+Output goes to `examples/output/`.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
-* `directives/` - Das "Gesetzbuch" (Regeln für 15 Sprachen).
-* `scripts/` - Die "Maschine" (Queue Manager, Generator).
-* `tickets/queue/` - Der "Arbeitsspeicher" (JSON Jobs).
-* `docs/` - Detaillierte Architektur-Dokumentation.
+```
+directives/     # Translation rules per language
+scripts/        # Job generator + queue manager
+tickets/queue/  # JSON job files
+examples/       # Input/output files
+docs/           # Notes
+```
 
-## 🛡 License
+## License
 
-MIT License.
+MIT

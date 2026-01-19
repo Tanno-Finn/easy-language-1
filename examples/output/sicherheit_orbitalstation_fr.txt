@@ -1,0 +1,21 @@
+Consignes de sécurité pour le personnel de la station orbitale Omega-7
+Date : Année standard galactique 3024
+Département : Sécurité du cœur du réacteur et opérations extravéhiculaires
+
+1. Préambule relatif à la sécurité au travail
+Le respect des consignes de sécurité suivantes est impérativement requis afin de garantir l'intégrité physique des personnes et la stabilité structurelle de la station. Tout manquement sera sanctionné par une affectation immédiate au secteur des compacteurs de déchets.
+
+2. Comportement dans la zone du cœur énergétique primaire
+(a) Lors de l'entrée dans le secteur 7G, l'équipement de protection individuelle (EPI), composé d'une combinaison antiradiation de classe IV et d'une protection oculaire anti-éblouissement, doit être porté intégralement.
+(b) Le contournement manuel du dispositif d'arrêt d'urgence est exclusivement autorisé au personnel technique habilité.
+(c) En cas de déclenchement d'un signal d'alarme acoustique (sirène de type « Alerte rouge »), la zone dangereuse doit être évacuée immédiatement. Il est interdit de demeurer sur place à des fins héroïques.
+(d) Les puits de réacteur ouverts ne sont pas équipés de garde-corps de par leur conception (voir rapport de défaut architectural n° 1138). Le risque de chute est élevé. Le personnel est tenu de maintenir en permanence une distance minimale de 2 mètres par rapport au bord du puits.
+
+3. Procédure en cas de chute de pression (décompression)
+En cas de dommage structurel à la coque dû à un impact de météorite ou à un tir laser ennemi, les mécanismes de verrouillage des cloisons étanches sont activés automatiquement.
+(a) Continuez à respirer calmement, dans la mesure où il reste de l'atmosphère.
+(b) Saisissez le masque à oxygène d'urgence le plus proche.
+(c) Aidez-vous d'abord vous-même, puis les autres (y compris vos supérieurs).
+
+4. Manipulation des droïdes défectueux
+Les droïdes de maintenance hors service ne doivent pas être réparés de votre propre initiative. En raison d'unités de motivateur défectueuses, il existe un risque de décharges électriques imprévisibles. Signalez immédiatement toute anomalie au département de robotique et cybernétique.

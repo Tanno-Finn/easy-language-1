@@ -134,7 +134,7 @@ def main():
         "directives/ja/yasashii-nihongo.md",
         "directives/ja/plain-japanese.md",
         # Meta
-        "directives/META_new_language_protocol.md",
+        "directives/new-language-protocol.md",
         "directives/direktive.md",
         "directives/commits.md",
         "directives/queue-system.md",
