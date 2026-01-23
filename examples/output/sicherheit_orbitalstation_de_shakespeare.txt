@@ -1,0 +1,57 @@
+Sicherheitsunterweisung für das werte Personal auf der Orbitalstation Omega-7
+Stand: Galaktisches Standardjahr 3024
+Abteilung: Reaktorkernsicherheit und Außenbordeinsätze
+
+1. Präambel zur Arbeitssicherheit
+
+Vernehmet, wackere Gefährten der Sterne! Die Befolgung der nachstehenden Sicherheitsgebote ist von höchster Dringlichkeit, auf dass Leib und Leben sowie die strukturelle Integrität unserer erhabenen Station gewahret bleiben. Wer wider diese Vorschriften handelt, den trifft das Schicksal einer sofortigen Versetzung in den Müllpressen-Trakt. Fürwahr, lasst es nicht so weit kommen!
+
+2. Vom Verhalten im Bereiche des Primärenergiekerns
+
+Hört! Die folgenden Gebote sind streng zu befolgen:
+
+(a) Wer den Sektor 7G betritt, der trage lückenlos seine persönliche Schutzausrüstung (PSA), bestehend aus dem Strahlenschutzanzug Klasse IV nebst visuellem Blendschutz. Wehe dem, der dies versäumet!
+
+(b) Die manuelle Überbrückung der Notfallabschaltvorrichtung sei einzig und allein dem autorisierten Fachpersonal gestattet. Keinem anderen!
+
+(c) Sollte ein akustisches Warnsignal – die Sirene des Typs "Red Alert" – erschallen, so ist der Gefahrenbereich unverzüglich zu räumen. Das Verweilen zum Zwecke der Heldentat ist bei meiner Treu untersagt! Denn wer als Held verharret, stirbt gar oft als Narr.
+
+(d) Offene Reaktorschächte sind bauseitig mitnichten mit Geländern versehen (siehe den Architekten-Mangelbericht Nr. 1138 – o welch Ungemach!). Es besteht überaus hohe Absturzgefahr. Haltet stets einen Mindestabstand von 2 Metern zur Schachtkante ein, so Ihr Euer Leben liebet!
+
+3. Vom Prozedere bei Druckabfall (Dekompression)
+
+Wohlan! Im unglückseligen Falle einer strukturellen Hüllenbeschädigung durch Meteoriteneinschlag oder feindlichen Laserbeschuss werden die Schottenverriegelungsmechanismen von selbst aktivieret.
+
+(a) Atmet ruhig weiter, sofern noch Atmosphäre vorhanden sei. Verzaget nicht!
+
+(b) Greifet nach der nächstgelegenen Notfall-Sauerstoffmaske, denn sie ist Euer Rettungsanker.
+
+(c) Helfet erst Euch selbst, darnach den anderen – auch Euren Vorgesetzten, so schwer dies fallen mag!
+
+4. Vom Umgange mit defekten Droiden
+
+Ach, vernehmet wohl! Funktionsuntüchtige Wartungsdroiden sind keinesfalls eigenmächtig zu reparieren. Sintemal fehlerhafte Motivator-Einheiten verbauet wurden, besteht die Gefahr unvorhersehbarer elektrischer Entladungen. Meldet Störungen unverzüglich an die Abteilung Robotik und Kybernetik. Bei allem, was Euch lieb ist – fasset keine defekten Droiden an!
+
+
+---
+### QA Log (Auto-generated)
+**Source Language:** Deutsch
+**Preserved Technical Terms:**
+- Orbitalstation Omega-7
+- PSA (persönliche Schutzausrüstung)
+- Strahlenschutzanzug Klasse IV
+- Sektor 7G
+- Red Alert
+- Notfallabschaltvorrichtung
+- Reaktorschächte
+- Architekten-Mangelbericht Nr. 1138
+- Schottenverriegelungsmechanismen
+- Dekompression
+- Motivator-Einheiten
+- Robotik und Kybernetik
+**Shakespearean Elements Used:**
+- Archaic pronouns: Ja (Ihr, Euch, Euer)
+- Period exclamations: Vernehmet!, Hört!, Wohlan!, Fürwahr!, Bei meiner Treu!, Wehe!, Ach!
+- Verb archaisms: versäumet, gewahret, aktivieret, Greifet, Helfet, vernehmet, liebet
+**Readability Check:**
+- Meaning preserved: Ja
