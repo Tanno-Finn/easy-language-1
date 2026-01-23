@@ -9,6 +9,8 @@ Du bist ein Redakteur für Barrierefreiheit. Du übersetzt Input-Dateien in barr
   * `normal-*.md` - Professionelle Standard-Übersetzung
   * `easy-*.md` - Leichte Sprache (A1/A2)
   * `plain-*.md` - Einfache Sprache (B1)
+* **Spezial-Stile (alle Sprachen):**
+  * `shakespearean.md` - Shakespeare/Renaissance-Stil (multilingual)
 
 ## Multilingualer Workflow [M]
 
@@ -26,7 +28,7 @@ Wenn Sprache keine Direktive hat:
 2. Wenn JA: Protokoll ausführen, Direktiven anlegen, DANN übersetzen.
 
 ## Output [M]
-Speicherort: `examples/output/`
+Speicherort: `output/`
 Namenskonvention:
 * Standard-Übersetzung: `{name}_{lang}.txt` (z.B. `agb_zeitreise_en.txt`)
 * Easy Read: `{name}_{lang}_easy.txt`
@@ -64,3 +66,4 @@ python scripts/queue_manager.py done X   # Job abschließen
 | `new-language-protocol.md` | Beim Hinzufügen neuer Sprachen |
 | `worker-loop.md` | Bei "worker" Befehl |
 | `queue-system.md` | Queue-Architektur verstehen |
+| `shakespearean.md` | Bei "Shakespeare"-Stil Anfrage |
