@@ -1,0 +1,62 @@
+Datenschutz-Erklärung für die App "MindSync" – Fassung die Vierte
+Vernehmet! Gemäß Articulus 13 und 14 der Datenschutz-Grundverordnung (DSGVO) und der Telepathie-Daten-Richtlinie (TDR)
+
+1. Vom Verantwortlichen und dem Geltungsbereich dieser Schrift
+
+Hört, werte Seelen! Diese Erklärung gelte für die Erhebung, Verarbeitung und Nutzung neuronaler Daten durch die MindSync Corp. Wir nehmen den Schutz Eurer innersten Geheimnisse gar ernst, wenngleich wir sie – bei meiner Treu! – technisch gesehen allesamt zu kennen vermögen.
+
+2. Von der Art der verarbeiteten Daten
+
+Im Rahmen der Nutzung der MindSync-Dienste erheben wir folgende Kategorien personenbezogener Daten, vernehmet sie wohl:
+
+(a) Stammdaten – Euer Name, Eure E-Mail, sowie Eure Gehirnwellen-Signatur.
+(b) Biometrische Daten – Die synaptischen Verknüpfungsmuster Eures Geistes.
+(c) Inhaltsdaten – Eure bewussten Gedanken, unterbewussten Wünsche, ja selbst die verdrängten Kindheitserinnerungen, die Ihr längst vergessen wähntet!
+
+3. Von den Zwecken der Verarbeitung und deren Rechtsgrundlage
+
+O hört! Die Verarbeitung Eurer Gedanken erfolget auf Basis Eurer Einwilligung, wie es Articulus 6 Absatz 1 litera a der DSGVO gebietet.
+
+(a) Zur Servicebereitstellung: Auf dass Eure Gedanken in Textnachrichten gewandelt werden, ohne dass Eure Finger sich mühen müssten!
+
+(b) Zur personalisierten Werbung: Fürwahr, wir analysieren Eure spontanen Gelüste – etwa wenn Ihr denket "Ach, mir gelüstete jetzt nach einer Pizza!" – um Euch in selbiger Stunde entsprechende Angebote unserer werten Partner direkt in den visuellen Kortex zu projizieren.
+
+(c) Zur Kriminalitätsprävention: Sollten wir Gedankenmuster erkennen, die auf einen geplanten Weltherrschaftsversuch hindeuten – beim Himmel! – so sind wir von Gesetzes wegen verpflichtet, solcherlei den Behörden kund zu tun.
+
+4. Von der Weitergabe an Dritte
+
+Eine Übermittlung Eurer intimsten Gedanken an Dritte findet mitnichten statt, es sei denn:
+– Ihr habet dem "Werbe-Boost" Eure Zustimmung erteilt.
+– Wir werden von einem übermächtigen KI-Overlord dazu gezwungen, wogegen selbst wir machtlos wären. Wehe!
+
+5. Von der Speicherdauer (Das "Recht auf Vergessenwerden")
+
+Vernehmet wohl: Eure Gedanken werden so lange bewahret, wie Euer Benutzerkonto von aktivem Stande ist. Wenn Ihr die Löschung begehret, so werden wir Eure Daten technisch unwiderruflich aus unseren Servern tilgen.
+
+Doch hört diese Warnung! Wir vermögen die Gedanken mitnichten aus Eurem eigenen Haupte zu löschen – dafür, so bitten wir Euch, wendet Euch an einen Hypnotiseur Eures Vertrauens.
+
+---
+
+### QA Log (Auto-generated)
+**Source Language:** Deutsch
+**Preserved Technical Terms:**
+- MindSync
+- DSGVO (Datenschutz-Grundverordnung)
+- TDR (Telepathie-Daten-Richtlinie)
+- MindSync Corp
+- E-Mail
+- Gehirnwellen-Signatur
+- Synaptische Verknüpfungsmuster
+- Neuronale Daten
+- Biometrische Daten
+- Art. 6 Abs. 1 lit. a DSGVO
+- Visueller Kortex
+- KI-Overlord
+- Werbe-Boost
+- Benutzerkonto
+**Shakespearean Elements Used:**
+- Archaic pronouns: Ja (Ihr, Euer, Euch statt Sie/Ihr modernes)
+- Period exclamations: "Hört!", "Vernehmet!", "Bei meiner Treu!", "Beim Himmel!", "Wehe!", "O hört!", "Fürwahr"
+- Verb archaisms: "gelte", "erfolget", "habet", "begehret", "vermögen", "wähntet", "gelüstete"
+**Readability Check:**
+- Meaning preserved: Ja
