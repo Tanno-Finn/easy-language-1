@@ -10,7 +10,7 @@ C:/Users/michi/Home/Projects/agent-core/canon/project-format/v2.md.
 - Weitere 8 Sprachen nur als Direktiven samt Review-Berichten angelegt.
 commits: 7 bis a850d3c
 
-## 2026-01-23
+## 2026-01-23 bis 2026-01-23
 - Shakespeare-Stil als sprachübergreifende Spezialdirektive, drei deutsche Beispiele per Worker.
 - Arbeitsausgabe von examples/output/ nach output/ verlegt; russische Standardübersetzung nachgezogen.
 commits: 6 bis b0caff8
