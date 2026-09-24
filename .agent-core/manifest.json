@@ -1,0 +1,248 @@
+{
+  "format_version": 2.1,
+  "slug": "easy-language-1",
+  "name": "Easy Language Translation Engine",
+  "kind": "tool",
+  "platforms": [],
+  "status": "paused",
+  "stage": "prototype",
+  "vision": "Agenten-Showcase: Fachtexte per Direktiven in Leichte und Einfache Sprache fuer 15 Sprachen uebersetzen, parallel ueber eine Datei-Queue.",
+  "tags": ["ki", "barrierefreiheit"],
+  "related": [],
+  "repo_url": "https://github.com/Tanno-Finn/easy-language-1.git",
+  "public": false,
+  "docs": {
+    "vision": "docs/vision.md",
+    "architecture": "docs/architecture.md",
+    "rules": "CLAUDE.md",
+    "standards": "directives/direktive.md"
+  },
+  "agent_setup": {
+    "deviations": [
+      "directives/direktive.md fuehrt Pflichtmarker [M] und Claude-Marker [C] <-> Kanon [m]-Zeilen: gleiche Idee (nur der User setzt Pflichtmarker), andere Schreibweise und zusaetzlich [C]; zufaellig, aelter als der Kanon.",
+      "English Shell: Anweisungen in den Sprachdirektiven auf Englisch <-> Kanon 'Datei-, Ordner-, Repo- und Skill-Namen Englisch; Inhalte Deutsch'; bewusst, fuer gleichmaessige Befolgung ueber 15+ Sprachen (docs/architecture.md).",
+      "Mehrere Worker-Agenten arbeiten parallel in derselben Arbeitskopie, Git-Locks per queue_manager.py retry_git <-> Kanon 'Neue Worktrees nur unter C:/Users/michi/Home/Projects/_wt/<projekt>/<name>/'; zufaellig, aelter als der Kanon."
+    ],
+    "notes": "Keine Worktrees; Parallelitaet ueber mehrere Terminals mit 'worker X' (directives/worker-loop.md). directives/commits.md verbietet AI-Attribution (kein Co-Authored-By) und verlangt Conventional Commits, ein Job = ein Commit. Aufgaben laufen nur als JSON-Jobs in tickets/queue/ (gitignored, per scripts/generate-jobs.py erzeugt); ein Ticket- oder Themensystem fuer die Projektarbeit gibt es nicht, offene Punkte stehen nur in .agent-core/STATUS.md."
+  },
+  "lineage": { "from": [] },
+  "architecture": [
+    "Kein Build und keine App: ein Claude-Code-Agent uebersetzt nach Markdown-Direktiven in directives/<sprachcode>/.",
+    "Je Sprache bis zu drei Direktiven: normal-* (Standarduebersetzung), easy-* (Leichte Sprache A1/A2), plain-* (Einfache Sprache B1).",
+    "Direktiven sind englisch formuliert, Beispiele, Anker-Phrasen und QA-Log-Felder stehen in der Zielsprache (English Shell).",
+    "scripts/generate-jobs.py legt je Text und Sprache JSON-Jobs in drei Phasen an: A Uebersetzung, B Vereinfachung, C Review.",
+    "scripts/queue_manager.py vergibt Jobs per atomarem Umbenennen an parallele Worker-Agenten; jeder Job endet in einem eigenen Commit.",
+    "Eingaben sind drei fiktive deutsche Fachtexte in examples/input/, Ergebnisse liegen als {name}_{lang}_{mode}.txt in examples/output/."
+  ],
+  "stack": [
+    { "name": "python", "version": "", "installed": "", "role": "lang", "source": "scripts/requirements.txt", "core": true },
+    { "name": "python-docx", "version": ">=1.1.0", "installed": "", "role": "other", "source": "scripts/requirements.txt", "core": false },
+    { "name": "claude-code", "version": "", "installed": "", "role": "other", "source": "agent", "core": true },
+    { "name": "pandoc", "version": "", "installed": "", "role": "other", "source": "agent", "core": false }
+  ],
+  "concepts": [
+    {
+      "name": "Hybrid-Regel",
+      "domain": "language",
+      "status": "implemented",
+      "doc": "export.md#hybrid-regel-kernkonzept",
+      "summary": "Fachbegriffe werden nie geloescht oder vereinfacht, sondern fett beibehalten und mit einer festen Anker-Phrase in einfacher Sprache erklaert.",
+      "aliases": ["Hybrid Rule", "Supreme Directive"],
+      "parent": "",
+      "points": [
+        "Glossar-Vorrang: steht eine Erklaerung im Glossar, wird sie woertlich uebernommen.",
+        "Anker-Phrase je Sprache, ausschliesslich diese: 'Das heisst:', 'That means:', 'Cela signifie :', 'つまり：'.",
+        "Anti-Doubling: 'bedeutet:', 'heisst:' im Original werden vor dem Anker gestrichen.",
+        "Hard Line Break: Begriff fett mit Punkt, Anker allein in eigener Zeile, darunter die Erklaerung.",
+        "Gilt fuer Easy, Plain und den Shakespeare-Stil."
+      ]
+    },
+    {
+      "name": "Sprachstufen je Sprache",
+      "domain": "language",
+      "status": "implemented",
+      "doc": "docs/architecture.md#directive-structure",
+      "summary": "Jede Sprache hat eigene Direktiven fuer Standarduebersetzung, Leichte Sprache (A1/A2) und Einfache Sprache (B1), benannt nach dem nationalen Standard.",
+      "aliases": ["Easy Read", "Plain Language", "Leichte Sprache", "Einfache Sprache", "Direktiv-Typen"],
+      "parent": "",
+      "points": [
+        "normal-*: professionelle Standarduebersetzung, Genauigkeit vor Glaette.",
+        "easy-*: ein Satz eine Idee, Aktiv, SVO, Komposita mit Bindestrich getrennt.",
+        "plain-*: Fliesstext erlaubt, hoechstens 20 Woerter und ein Nebensatz je Satz.",
+        "Nationale Namen: Leichte Sprache, FALC, Lectura Facil, Yasashii Nihongo, Lattlast u. a.",
+        "15 Sprachen im Job-Generator, 8 weitere (bn, el, hi, id, th, tr, uk, vi) nur als Direktiven."
+      ]
+    },
+    {
+      "name": "QA-Log",
+      "domain": "design",
+      "status": "implemented",
+      "doc": "directives/de/leichte-sprache.md",
+      "summary": "Jede uebersetzte Datei endet mit einem Anhang, der beibehaltene Fachbegriffe, aufgeloeste Abkuerzungen und getrennte Komposita auflistet.",
+      "aliases": ["QA Log", "Documentation & QA Log"],
+      "parent": "Sprachstufen je Sprache"
+    },
+    {
+      "name": "English Shell",
+      "domain": "work",
+      "status": "implemented",
+      "doc": "docs/architecture.md#the-english-shell-pattern",
+      "summary": "Direktiven schreiben die Anweisungen auf Englisch; Beispiele, Anker-Phrasen und Grammatikbegriffe stehen in der Zielsprache.",
+      "aliases": ["English Shell, Native Content", "English Shell Pattern"],
+      "parent": "",
+      "points": [
+        "Ziel: der Agent befolgt alle Sprachdirektiven gleich.",
+        "Pflichtpunkt im Neue-Sprache-Protokoll und im Direktiven-Review."
+      ]
+    },
+    {
+      "name": "Sprach-Routing",
+      "domain": "feature",
+      "status": "implemented",
+      "doc": "CLAUDE.md#multilingualer-workflow-m",
+      "summary": "Der Agent erkennt die Sprache der Eingabe, waehlt die Direktiven in directives/<code>/ und uebersetzt nie ohne passende Direktive.",
+      "aliases": ["Multilingualer Workflow"],
+      "parent": "",
+      "points": [
+        "Phase 1: Sprache der Eingabedatei erkennen.",
+        "Phase 2: Routing auf den Sprachordner der Direktiven.",
+        "Phase 3: fehlt die Sprache, fragt der Agent, ob er sie nach dem Protokoll anlegen soll."
+      ]
+    },
+    {
+      "name": "Neue-Sprache-Protokoll",
+      "domain": "feature",
+      "status": "implemented",
+      "doc": "directives/new-language-protocol.md",
+      "summary": "Fehlt eine Sprache, erzeugt der Agent in vier Schritten eigene Easy- und Plain-Direktiven, angelehnt an nationale Standards, ohne deren Text zu kopieren.",
+      "aliases": ["New Language Protocol", "Auto-Generation"],
+      "parent": "Sprach-Routing"
+    },
+    {
+      "name": "Shakespeare-Stil",
+      "domain": "language",
+      "status": "implemented",
+      "doc": "directives/shakespearean.md",
+      "summary": "Stiltransformation fuer jede Sprache in Renaissance-Theatersprache; Sinn und Fachbegriffe bleiben nach der Hybrid-Regel erhalten.",
+      "aliases": ["Shakespearean Style", "Shakespeare-ifizieren"],
+      "parent": "",
+      "points": [
+        "Je Sprache eine Tabelle modern gegen historisch, etwa Fruehneuhochdeutsch fuer Deutsch.",
+        "Ausgabe als {name}_{lang}_shakespeare.txt."
+      ]
+    },
+    {
+      "name": "Datei-Job-Queue",
+      "domain": "tech",
+      "status": "implemented",
+      "doc": "directives/queue-system.md",
+      "summary": "Jobs sind JSON-Dateien in tickets/queue/; Worker beanspruchen sie durch atomares Umbenennen, der Zustand steht im Dateinamen, ohne Datenbank.",
+      "aliases": ["Queue System", "Dispatcher-Worker", "queue_manager"],
+      "parent": "",
+      "points": [
+        "Praefixe steuern die Reihenfolge: job_a zuerst, job_b parallel, job_z wartet als Finalizer.",
+        "Zustand im Namen: job.json, job_W3_IN_PROGRESS.json, job_W3_DONE.json.",
+        "Zombie-Recovery setzt Jobs abgestuerzter Worker zurueck.",
+        "Git-Sicherheit: nur eigene Dateien adden, retry_git bei Lock."
+      ]
+    },
+    {
+      "name": "Worker-Loop",
+      "domain": "work",
+      "status": "implemented",
+      "doc": "directives/worker-loop.md",
+      "summary": "Auf 'worker X' holt ein Agent Jobs in Endlosschleife (pick, Direktive lesen, uebersetzen, committen, done), bis die Queue leer ist.",
+      "aliases": ["Worker Loop", "worker"],
+      "parent": "Datei-Job-Queue"
+    },
+    {
+      "name": "Drei-Phasen-Pipeline",
+      "domain": "tech",
+      "status": "implemented",
+      "doc": "scripts/generate-jobs.py",
+      "summary": "Je Text und Sprache entstehen verkettete Jobs: A uebersetzt den deutschen Text, B vereinfacht zu Easy und Plain, C prueft das Ergebnis.",
+      "aliases": ["3-Phase Pipeline", "Global Dispatcher"],
+      "parent": "",
+      "points": [
+        "depends_on verkettet A, B und C je Text, Sprache und Stufe.",
+        "Deutsch ueberspringt Phase A, der Eingabetext ist der Standard.",
+        "Sprachen stehen als Registry im Script, nicht aus dem Ordner gelesen."
+      ]
+    },
+    {
+      "name": "Vier-Augen-Review",
+      "domain": "work",
+      "status": "implemented",
+      "doc": "export.md#4-augen-prinzip",
+      "summary": "Ein zweiter Agent prueft jede Uebersetzung nach directives/review.md: Anker, Zeilenumbruch, Fachbegriffe, QA-Log, keine erfundenen Fakten.",
+      "aliases": ["4-Augen-Prinzip", "Quality Assurance Review"],
+      "parent": "Drei-Phasen-Pipeline"
+    },
+    {
+      "name": "Direktiven-Review",
+      "domain": "work",
+      "status": "implemented",
+      "doc": "directives/directive-review.md",
+      "summary": "Forensische Pruefung der Sprachdirektiven selbst: Pflichtabschnitte, korrekte Anker-Phrase, English Shell; Jobs erzeugt generate-directive-reviews.py.",
+      "aliases": ["Directive Quality Review"],
+      "parent": "",
+      "points": [
+        "Checkliste: Struktur, Anker, Hybrid-Regel, QA-Log, Beispiel.",
+        "Ergebnisse als REVIEW-Dateien neben den Direktiven (el, hi, id, th, tr, uk, vi)."
+      ]
+    },
+    {
+      "name": "Fiktiver Testkorpus",
+      "domain": "data",
+      "status": "implemented",
+      "doc": "examples/README.md",
+      "summary": "Drei erfundene deutsche Fachtexte (AGB, Sicherheit, Datenschutz) testen je eine Schwierigkeit und vermeiden Urheberrechtsprobleme.",
+      "aliases": ["Beispiel-Datensaetze", "examples"],
+      "parent": "",
+      "points": [
+        "agb_zeitreise: Vertragstext mit Haftung und Schachtelsaetzen.",
+        "sicherheit_orbitalstation: Passiv, Imperativ, Komposita.",
+        "datenschutz_telepathie: abstrakte Definitionen und Gesetzesverweise.",
+        "Ausgabe benannt {name}_{lang}.txt, _easy.txt, _plain.txt."
+      ]
+    },
+    {
+      "name": "Web-Oberflaeche",
+      "domain": "feature",
+      "status": "idea",
+      "doc": "export.md",
+      "summary": "Eine Weboberflaeche, ueber die Nicht-Techniker Texte ohne Terminal uebersetzen lassen.",
+      "aliases": ["Web-Interface"],
+      "parent": ""
+    },
+    {
+      "name": "Uebersetzungs-API",
+      "domain": "feature",
+      "status": "idea",
+      "doc": "docs/vision.md",
+      "summary": "Ein API-Endpunkt statt Datei-Ein- und Ausgabe, damit andere Systeme Texte zur Vereinfachung einreichen koennen.",
+      "aliases": ["API-Endpoint"],
+      "parent": ""
+    },
+    {
+      "name": "Glossar-Verwaltung",
+      "domain": "feature",
+      "status": "idea",
+      "doc": "export.md",
+      "summary": "Ein gepflegtes Glossar mit Fachbegriff-Erklaerungen, das die Hybrid-Regel per Glossar-Vorrang woertlich uebernimmt.",
+      "aliases": ["Glossar-Management-System"],
+      "parent": ""
+    }
+  ],
+  "card": {
+    "notes": "Kein Journal, HISTORY.md ist die Spur.",
+    "commit": "b0caff878bb4b70f98ace0777ef18d47e1635f68",
+    "branch": "master",
+    "written_at": "2026-09-24",
+    "agent_core": "206f9c7c9b92984ce2cd20aca7a7b2094876897d",
+    "model": "claude-opus-5-5",
+    "cost_usd": 1.2,
+    "cost_estimated": true,
+    "by": "onboard"
+  }
+}
