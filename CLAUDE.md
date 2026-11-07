@@ -50,6 +50,4 @@ Parallele Arbeit: Subagenten nach Kanon S1–S4 von agent-core, Landen per tools
 | `commits.md` | Vor Git-Commits |
 | `direktive.md` | Beim Erstellen neuer Direktiven |
 | `new-language-protocol.md` | Beim Hinzufügen neuer Sprachen |
-| `worker-loop.md` | Bei "worker" Befehl |
-| `queue-system.md` | Queue-Architektur verstehen |
 | `shakespearean.md` | Bei "Shakespeare"-Stil Anfrage |
