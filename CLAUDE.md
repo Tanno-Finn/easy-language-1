@@ -41,21 +41,7 @@ Namenskonvention:
 
 ---
 
-## Worker-System [M]
-
-Für parallele Übersetzungsaufträge mit mehreren Agents.
-
-**Wenn User "worker" sagt:**
-→ Lies `directives/worker-loop.md` und starte den Loop.
-
-**Commands:**
-```bash
-python scripts/queue_manager.py status   # Queue-Übersicht
-python scripts/queue_manager.py pick     # Job holen
-python scripts/queue_manager.py done X   # Job abschließen
-```
-
----
+Parallele Arbeit: Subagenten nach Kanon S1–S4 von agent-core, Landen per tools/land.py; tickets/ bleibt als Verlauf.
 
 ## Weitere Direktiven
 
@@ -64,6 +50,4 @@ python scripts/queue_manager.py done X   # Job abschließen
 | `commits.md` | Vor Git-Commits |
 | `direktive.md` | Beim Erstellen neuer Direktiven |
 | `new-language-protocol.md` | Beim Hinzufügen neuer Sprachen |
-| `worker-loop.md` | Bei "worker" Befehl |
-| `queue-system.md` | Queue-Architektur verstehen |
 | `shakespearean.md` | Bei "Shakespeare"-Stil Anfrage |
